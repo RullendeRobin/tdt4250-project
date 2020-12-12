@@ -1,0 +1,1666 @@
+<?xml version="1.0" encoding="ASCII"?>
+<spo:Spotify xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:spo="platform:/plugin/tdt4250.spo.model/model/spo.ecore">
+  <shows name="Friminutt med Herman og Mikkel" uri="spotify:show:1ORXutIUV7choy21qjalf9" id="1ORXutIUV7choy21qjalf9" total_episodes="82" description="En podkast hvor vi snakker om det vi opplever i hverdagen, som vi synes er morsomt og interessant, bare avbrutt av tulletelefoner og annet g&#xf8;y. Av og med Herman Flesvig og Mikkel Niva.">
+    <episodes name="Herman i kryssild, lynsjakk og livet med vaksine!" uri="spotify:episode:4NLrCuQecMy7s1YvNKQcaX" id="4NLrCuQecMy7s1YvNKQcaX" duration="2824000" release_date="2020-12-09"/>
+    <episodes name="Kickstart, julemarked og frekke fun facts " uri="spotify:episode:2LIxuMDE3sQlXTJ7Prb46N" id="2LIxuMDE3sQlXTJ7Prb46N" duration="2300000" release_date="2020-12-02"/>
+    <episodes name="Bekkenl&#xf8;sning, funfacts og melding til politiet" uri="spotify:episode:4evBweFL2CidGJayGA2GN9" id="4evBweFL2CidGJayGA2GN9" duration="2189000" release_date="2020-11-25"/>
+    <episodes name="BlimE, friddjaminuhtta og tulletelefon" uri="spotify:episode:1dBa4WOvoUGAtTraIUq6md" id="1dBa4WOvoUGAtTraIUq6md" duration="2403000" release_date="2020-11-18"/>
+    <episodes name="Sjekketips, forn&#xf8;yelsespark og Mensa-test" uri="spotify:episode:04tnLHuIyXpwytvnT2hAh6" id="04tnLHuIyXpwytvnT2hAh6" duration="2385000" release_date="2020-11-11"/>
+    <episodes name="Prisvinnere, lytter-remix og nyhetsduellen" uri="spotify:episode:37AHsfXCPJiuHGKrGUrHAo" id="37AHsfXCPJiuHGKrGUrHAo" duration="2583000" release_date="2020-11-04"/>
+    <episodes name="Debatten, synstolking og a cappella" uri="spotify:episode:1ibhoMTZRj2ULH19rlp8AD" id="1ibhoMTZRj2ULH19rlp8AD" duration="2474000" release_date="2020-10-28"/>
+    <episodes name="Ufrivillig tulletelefon og frivillig b&#xf8;sseb&#xe6;ring" uri="spotify:episode:3SKyvMStTGp3AF49ohOCEr" id="3SKyvMStTGp3AF49ohOCEr" duration="2749000" release_date="2020-10-21"/>
+    <episodes name="High School-film, sjangerkaos og slampoesi" uri="spotify:episode:2jhuerce9pM6redcJJ66Fo" id="2jhuerce9pM6redcJJ66Fo" duration="2521000" release_date="2020-10-14"/>
+    <episodes name="Magesangen, F&#xf8;rstegangstjenesten og taxituren" uri="spotify:episode:4TtnXQxhchDICXTjFDbILW" id="4TtnXQxhchDICXTjFDbILW" duration="2419000" release_date="2020-10-07"/>
+    <episodes name="Onkel fra Amerika, jazzing og variet&#xe9;" uri="spotify:episode:6vFT9JluFkGVICAO6ByBn7" id="6vFT9JluFkGVICAO6ByBn7" duration="2657000" release_date="2020-09-30"/>
+    <episodes name="Gangstereventyret og kommentatorboksen" uri="spotify:episode:1VZQ2jvUm7YOJi5aCAM7d2" id="1VZQ2jvUm7YOJi5aCAM7d2" duration="2359000" release_date="2020-09-23"/>
+    <episodes name="Pornotelefon og rumpeklaps fra mor" uri="spotify:episode:5PrhhGbBX0lJrYmnx1vxH3" id="5PrhhGbBX0lJrYmnx1vxH3" duration="2709000" release_date="2020-09-16"/>
+    <episodes name="Mr. Nobody og tr&#xf8;nderrock-remixen" uri="spotify:episode:6PrrPNp92tXXD2jV74IFpN" id="6PrrPNp92tXXD2jV74IFpN" duration="2202000" release_date="2020-09-09"/>
+    <episodes name="Baklengs-film og bonde i byen" uri="spotify:episode:4RB56h5uT667XPsuyKhfOZ" id="4RB56h5uT667XPsuyKhfOZ" duration="2773000" release_date="2020-09-02"/>
+    <episodes name="Country-fest og tulletelefon med pitch" uri="spotify:episode:6cW2v8KIdZy4Aklj4REWxn" id="6cW2v8KIdZy4Aklj4REWxn" duration="3021000" release_date="2020-08-26"/>
+    <episodes name="Ola Halvorsen stopper stamming!" uri="spotify:episode:2emTc3OsTGsyV2GhoAWMFa" id="2emTc3OsTGsyV2GhoAWMFa" duration="2441000" release_date="2020-08-19"/>
+    <episodes name="Sommerspesial - Parodier" uri="spotify:episode:2Nor1te7E0HX5NGjdlqpoA" id="2Nor1te7E0HX5NGjdlqpoA" duration="951000" release_date="2020-08-12"/>
+    <episodes name="Sommerspesial - Tulletelefoner #2" uri="spotify:episode:41ApDshW3BxtF0JjWfthog" id="41ApDshW3BxtF0JjWfthog" duration="1346000" release_date="2020-08-05"/>
+    <episodes name="Sommerspesial: Radioteater" uri="spotify:episode:6GBQ8RmisxYCz3gkY9KKsp" id="6GBQ8RmisxYCz3gkY9KKsp" duration="846000" release_date="2020-07-29"/>
+    <episodes name="Sommerspesial: Internasjonale favoritter" uri="spotify:episode:1sumUoTmh12acIy1lp1W3j" id="1sumUoTmh12acIy1lp1W3j" duration="1264000" release_date="2020-07-22"/>
+    <episodes name="Sommerspesial: Remix-mixtape" uri="spotify:episode:3hww2u4uOik2OVK1lOb8PY" id="3hww2u4uOik2OVK1lOb8PY" duration="1156000" release_date="2020-07-15"/>
+    <episodes name="Sommerspesial: En musikal" uri="spotify:episode:1rr04P4TS4ep3b7M35sCP2" id="1rr04P4TS4ep3b7M35sCP2" duration="1130000" release_date="2020-07-08"/>
+    <episodes name="Sommerspesial: Tulletelefoner" uri="spotify:episode:1HlyMOUzX7zpAM4PVRKGzS" id="1HlyMOUzX7zpAM4PVRKGzS" duration="1238000" release_date="2020-07-01"/>
+    <episodes name="&#xc5;rets morsomste sommerfest!!" uri="spotify:episode:3fqmdws5jTfQvRF10iX65E" id="3fqmdws5jTfQvRF10iX65E" duration="2773000" release_date="2020-06-24"/>
+    <episodes name="Artistnavn, legetabbe og frisbeegolf" uri="spotify:episode:57Lc5MXS50gKmgPlTcIDDB" id="57Lc5MXS50gKmgPlTcIDDB" duration="2294000" release_date="2020-06-17"/>
+    <episodes name="&#xc5;rets tulletelefon og Roar" uri="spotify:episode:7gcq1G1fJCqxqF3kjOpfTq" id="7gcq1G1fJCqxqF3kjOpfTq" duration="1845000" release_date="2020-06-10"/>
+    <episodes name="Nynorsksmell, Jimmy Fallon og Hellstr&#xf8;m" uri="spotify:episode:2UfhIxoapifVhN5eufbNmb" id="2UfhIxoapifVhN5eufbNmb" duration="3046000" release_date="2020-06-03"/>
+    <episodes name="Hva skal barnet hete? " uri="spotify:episode:4yYcXxccOlTav46krlQgZ4" id="4yYcXxccOlTav46krlQgZ4" duration="2254000" release_date="2020-05-27"/>
+    <episodes name="Actionfilm og japansk supertriks!" uri="spotify:episode:1rPSdHZZA5TmCEuaIrZR3F" id="1rPSdHZZA5TmCEuaIrZR3F" duration="2200000" release_date="2020-05-20"/>
+    <episodes name="Spooning, swingersklubb og muntlig eksamen" uri="spotify:episode:1LHHaTvD0MMYvsUAI1IawJ" id="1LHHaTvD0MMYvsUAI1IawJ" duration="3013000" release_date="2020-05-13"/>
+    <episodes name="Tulletelefon, Bergensrap og bukkene bruse (uten truse)" uri="spotify:episode:2bDgx4SUy44zKJHmVeDBfw" id="2bDgx4SUy44zKJHmVeDBfw" duration="2718000" release_date="2020-05-06"/>
+    <episodes name="Instagram-Jesus, Lytter-Remixer og Helstr&#xf8;m's got Talent" uri="spotify:episode:1x7pIYETsnwRDWIgRu9jnf" id="1x7pIYETsnwRDWIgRu9jnf" duration="2449000" release_date="2020-04-29"/>
+    <episodes name="Prostata og Den perfekte ADHD-dagen" uri="spotify:episode:0vn3j4xVuE9jBKEKhYrHFp" id="0vn3j4xVuE9jBKEKhYrHFp" duration="2566000" release_date="2020-04-22"/>
+    <episodes name="Livestream #4! Telttur, l&#xe6;rer-rap og sp&#xf8;rsm&#xe5;lsrunde." uri="spotify:episode:5gnCfLB5aelWiZwnLTuAKn" id="5gnCfLB5aelWiZwnLTuAKn" duration="3815000" release_date="2020-04-15"/>
+    <episodes name="Livestream #3! - Bursdag! Med klining, kaptein Promp og myye mer" uri="spotify:episode:4WCU2QYhMG6MCU3VZOayQA" id="4WCU2QYhMG6MCU3VZOayQA" duration="4564000" release_date="2020-04-08"/>
+    <episodes name="Livestream #2! Spr&#xe5;kblanding, death metal og lytterremix" uri="spotify:episode:4TtADWMo50QRqoauIpvwwt" id="4TtADWMo50QRqoauIpvwwt" duration="3268000" release_date="2020-04-01"/>
+    <episodes name="LIVESTREAM-episode: God ADHD-dag, masse karakterer og Ola Halvorsen-rap" uri="spotify:episode:3bOhgkWteetnH6qORbYmR4" id="3bOhgkWteetnH6qORbYmR4" duration="4045000" release_date="2020-03-25"/>
+    <episodes name="Korona-rap og hemmelig tegn" uri="spotify:episode:3FR3heUcqokJcYWVcImWIz" id="3FR3heUcqokJcYWVcImWIz" duration="3058000" release_date="2020-03-18"/>
+    <episodes name="Tokyo-tr&#xf8;bbel, magisk sirkel og tulletelefon med Slange-Franks slangeshow" uri="spotify:episode:3PY2MBDBrtE2vW8yKEnPEi" id="3PY2MBDBrtE2vW8yKEnPEi" duration="2501000" release_date="2020-03-11"/>
+    <episodes name="Japansk gameshow spesial" uri="spotify:episode:06vEDWiWSubdDGSLhS9L8U" id="06vEDWiWSubdDGSLhS9L8U" duration="2245000" release_date="2020-03-04"/>
+    <episodes name="Rollebytte, snikfilming og motvillig Peer Gynt-rap" uri="spotify:episode:1Gba3jVdslugrFE4BAGXEA" id="1Gba3jVdslugrFE4BAGXEA" duration="2345000" release_date="2020-02-26"/>
+    <episodes name="Gjett fisen - lytterutgave, kort spansktime og voksenbaby" uri="spotify:episode:0WER8PUil5lMsdKZwymRyz" id="0WER8PUil5lMsdKZwymRyz" duration="2177000" release_date="2020-02-19"/>
+    <episodes name="Hermans gummibj&#xf8;rn, spr&#xe5;kreise gjennom London og reporter Roar" uri="spotify:episode:5Cj8O9k5hinhUeSSqVUAhQ" id="5Cj8O9k5hinhUeSSqVUAhQ" duration="2839000" release_date="2020-02-12"/>
+    <episodes name="Dr. Flesvigs corona-kur, tidsreise til 1800-tallet, tulletelefon med ekstremv&#xe6;r" uri="spotify:episode:6NU4Bkt13HqSzkG9ylC41t" id="6NU4Bkt13HqSzkG9ylC41t" duration="2985000" release_date="2020-02-05"/>
+    <episodes name="Popek puster gutta i nakken, tulletelefon med sint kone, Herman m&#xe5; ta ansvar" uri="spotify:episode:2dOJ24aTHRG3fnwStinRkH" id="2dOJ24aTHRG3fnwStinRkH" duration="3024000" release_date="2020-01-29"/>
+    <episodes name="Hermans baller, Mikkels latter, Ola Halvorsens pensum" uri="spotify:episode:4qlu9ybnb5jI1ABl6CyEA3" id="4qlu9ybnb5jI1ABl6CyEA3" duration="2729000" release_date="2020-01-22"/>
+    <episodes name="Herman utfordres til internasjonal karriere, Mikkel f&#xe5;r 6 i engelsk muntlig (minst), noen skal til Japan og &#xe9;n ble nesten svartelista fra trampolineparken" uri="spotify:episode:6Oo9arQRvQ5vZ5OmIIoHJg" id="6Oo9arQRvQ5vZ5OmIIoHJg" duration="2715000" release_date="2020-01-15"/>
+    <episodes name="&#xc5;rets f&#xf8;rste overtenning, ti&#xe5;rets best kledde, tulletelefon med kukulele" uri="spotify:episode:0qAaiXm5GhoVpeSXrGUlPq" id="0qAaiXm5GhoVpeSXrGUlPq" duration="3296000" release_date="2020-01-08"/>
+    <episodes name="Hermans livsmotto, Mikkels dr&#xf8;mmenavn, samisk vri og verdenshistoriens lengste boom boom taka boooooooom" uri="spotify:episode:1BDGyVJX6wf5fRhxyogqE3" id="1BDGyVJX6wf5fRhxyogqE3" duration="2301000" release_date="2020-01-01"/>
+  </shows>
+  <shows name="Misjonen med Antonsen og Golden" uri="spotify:show:7bFOGUPLYyksjmlSO86Fpk" id="7bFOGUPLYyksjmlSO86Fpk" total_episodes="1013" description="Bli med til Johan Golden og Atle Antonsens verden.">
+    <episodes name="Misjonen Destillert 12.12.2020" uri="spotify:episode:6Xf8s5iD4fevLOphbSpX4s" id="6Xf8s5iD4fevLOphbSpX4s" duration="2201352" release_date="2020-12-12"/>
+    <episodes name="Misjonen 11.12.2020" uri="spotify:episode:35gWoWQHyMY6UxOaUrDOSV" id="35gWoWQHyMY6UxOaUrDOSV" duration="2723184" release_date="2020-12-11"/>
+    <episodes name="Misjonen hyller podkast-lytterne! " uri="spotify:episode:5122ax0H8weJ12vXuLWcrP" id="5122ax0H8weJ12vXuLWcrP" duration="198240" release_date="2020-12-07"/>
+    <episodes name="Misjonen Destillert 05.12.2020" uri="spotify:episode:1Y9borg7b5UIZHuYkg90WJ" id="1Y9borg7b5UIZHuYkg90WJ" duration="2324832" release_date="2020-12-05"/>
+    <episodes name="Misjonen 04.12.2020" uri="spotify:episode:2UcmO6vgbp8mjslDeoL1sg" id="2UcmO6vgbp8mjslDeoL1sg" duration="2569872" release_date="2020-12-04"/>
+    <episodes name="Misjonen Destillert 28.11.2020" uri="spotify:episode:7hqSz3k7C1JwWGBBmiD1FD" id="7hqSz3k7C1JwWGBBmiD1FD" duration="2098704" release_date="2020-11-28"/>
+    <episodes name="Misjonen 27.11.2020" uri="spotify:episode:1e7E8ZS8ZbK5xeSEMXMedo" id="1e7E8ZS8ZbK5xeSEMXMedo" duration="2877648" release_date="2020-11-27"/>
+    <episodes name="Misjonen Destillert 21.11.2020" uri="spotify:episode:0DI0rMkV3sakOoIhO8qMYs" id="0DI0rMkV3sakOoIhO8qMYs" duration="2175600" release_date="2020-11-21"/>
+    <episodes name="Misjonen 20.11.2020" uri="spotify:episode:6sT0zM09q3no6EBUoz2xgA" id="6sT0zM09q3no6EBUoz2xgA" duration="2683104" release_date="2020-11-20"/>
+    <episodes name="Misjonen Destillert 14.11.2020" uri="spotify:episode:5hMY4t1USQhpGIgf7wMbul" id="5hMY4t1USQhpGIgf7wMbul" duration="1926960" release_date="2020-11-14"/>
+    <episodes name="Misjonen 13.11.2020" uri="spotify:episode:0MOVc7XjfZEYWAqBlCLv99" id="0MOVc7XjfZEYWAqBlCLv99" duration="2891256" release_date="2020-11-13"/>
+    <episodes name="Misjonen Destillert 07.11.2020" uri="spotify:episode:4XstFD77yOkjfZPOXEI5TV" id="4XstFD77yOkjfZPOXEI5TV" duration="1922736" release_date="2020-11-07"/>
+    <episodes name="Misjonen 06.11.2020" uri="spotify:episode:1h63iI3O4y2Pqoz85uWUqr" id="1h63iI3O4y2Pqoz85uWUqr" duration="2453544" release_date="2020-11-06"/>
+    <episodes name="Misjonen Destillert 31.10.2020" uri="spotify:episode:4YX1nWGONJA05W5UQTMQES" id="4YX1nWGONJA05W5UQTMQES" duration="1946784" release_date="2020-10-31"/>
+    <episodes name="Misjonen 30.10.2020" uri="spotify:episode:2H4NrM4AHtHSeEmEBRhjM8" id="2H4NrM4AHtHSeEmEBRhjM8" duration="2900448" release_date="2020-10-30"/>
+    <episodes name="Misjonen Destillert 24.10.2020" uri="spotify:episode:1T1mVvFcHGffS7j2Rkt20A" id="1T1mVvFcHGffS7j2Rkt20A" duration="1981896" release_date="2020-10-24"/>
+    <episodes name="Misjonen 23.10.2020" uri="spotify:episode:32LA6OZHAR8RY0wnOs8zoF" id="32LA6OZHAR8RY0wnOs8zoF" duration="2829096" release_date="2020-10-23"/>
+    <episodes name="Misjonen Destillert 17.10.2020" uri="spotify:episode:7l3MnvDUfpcRdLFGkni85A" id="7l3MnvDUfpcRdLFGkni85A" duration="2145912" release_date="2020-10-17"/>
+    <episodes name="Misjonen 16.10.2020" uri="spotify:episode:55PNUQDSy3b7QL1KTgiC9e" id="55PNUQDSy3b7QL1KTgiC9e" duration="2786064" release_date="2020-10-16"/>
+    <episodes name="Misjonen Destillert 10.10.2020" uri="spotify:episode:33jSGQhAi0rMVTwMNzW0HY" id="33jSGQhAi0rMVTwMNzW0HY" duration="2025240" release_date="2020-10-10"/>
+    <episodes name="Misjonen 09.10.2020" uri="spotify:episode:2SrWUc7KtXA83x0uDfh9BU" id="2SrWUc7KtXA83x0uDfh9BU" duration="2662920" release_date="2020-10-09"/>
+    <episodes name="Misjonen Destillert 03.10.2020" uri="spotify:episode:107qvQZkTW5XOWdIYdiWhK" id="107qvQZkTW5XOWdIYdiWhK" duration="2024856" release_date="2020-10-03"/>
+    <episodes name="Misjonen 02.10.2020" uri="spotify:episode:3IDiGLFvoiayyskf9yJCFy" id="3IDiGLFvoiayyskf9yJCFy" duration="2666760" release_date="2020-10-02"/>
+    <episodes name="Misjonen Destillert 26.09.2020" uri="spotify:episode:3cOYOFYDrJ1m6r1HCW2DKL" id="3cOYOFYDrJ1m6r1HCW2DKL" duration="2263320" release_date="2020-09-26"/>
+    <episodes name="Misjonen 25.09.2020" uri="spotify:episode:2iVL5qKgjnXD5BLlDRpyVU" id="2iVL5qKgjnXD5BLlDRpyVU" duration="2611104" release_date="2020-09-25"/>
+    <episodes name="Misjonen Destillert 19.09.2020" uri="spotify:episode:5ey4ZLo9ak2GGlNhKdIKaM" id="5ey4ZLo9ak2GGlNhKdIKaM" duration="2051760" release_date="2020-09-19"/>
+    <episodes name="Misjonen 18.09.2020" uri="spotify:episode:4GJFp0Nr6x2kYy4Tjk0t5t" id="4GJFp0Nr6x2kYy4Tjk0t5t" duration="2645064" release_date="2020-09-18"/>
+    <episodes name="Misjonen Destillert 12.09.2020" uri="spotify:episode:0gZjfrFArZ0mjQ9GEqEwHb" id="0gZjfrFArZ0mjQ9GEqEwHb" duration="1928016" release_date="2020-09-12"/>
+    <episodes name="Misjonen 11.09.2020" uri="spotify:episode:0Q31XKaiEAg2j5nJ6xyPSa" id="0Q31XKaiEAg2j5nJ6xyPSa" duration="2647032" release_date="2020-09-11"/>
+    <episodes name="Misjonen Destillert 05.09.2020" uri="spotify:episode:1EvRE1a5NZveV8WDijKVCp" id="1EvRE1a5NZveV8WDijKVCp" duration="1889568" release_date="2020-09-05"/>
+    <episodes name="Misjonen 04.09.2020" uri="spotify:episode:4edmNL38GQ6Ya9jUj0PpJm" id="4edmNL38GQ6Ya9jUj0PpJm" duration="2986824" release_date="2020-09-04"/>
+    <episodes name="Misjonen Destillert 29.08.2020" uri="spotify:episode:009KastCsxDhYnx7oTJRR9" id="009KastCsxDhYnx7oTJRR9" duration="2233896" release_date="2020-08-29"/>
+    <episodes name="Misjonen 28.08.2020" uri="spotify:episode:3JPOkb4RJKqOrsvCo5zU5a" id="3JPOkb4RJKqOrsvCo5zU5a" duration="2936208" release_date="2020-08-28"/>
+    <episodes name="Misjonen Destillert 22.08.2020" uri="spotify:episode:5DNzi5YSZqiaIrW5gJnlUT" id="5DNzi5YSZqiaIrW5gJnlUT" duration="1956888" release_date="2020-08-22"/>
+    <episodes name="Misjonen 21.08.2020" uri="spotify:episode:3QJ7ebHiKnu9PX8bVmMAg6" id="3QJ7ebHiKnu9PX8bVmMAg6" duration="2975112" release_date="2020-08-21"/>
+    <episodes name="Misjonen Golden Duck Spesial 15.08.2020" uri="spotify:episode:71tm7yofF5BVMEWCuh01Pb" id="71tm7yofF5BVMEWCuh01Pb" duration="2376984" release_date="2020-08-15"/>
+    <episodes name="Misjonen Golden Duck Spesial 08.08.2020" uri="spotify:episode:02NSO6mf1fVEvC0QKTePXk" id="02NSO6mf1fVEvC0QKTePXk" duration="2119464" release_date="2020-08-08"/>
+    <episodes name="Misjonen Destillert 01.08.2020" uri="spotify:episode:2eZvR0wy4Sd6OsRzKH86bc" id="2eZvR0wy4Sd6OsRzKH86bc" duration="1900752" release_date="2020-08-01"/>
+    <episodes name="Misjonen Destillert 25.07.2020" uri="spotify:episode:1RBhRwXuA4VOZSYHqoAX6S" id="1RBhRwXuA4VOZSYHqoAX6S" duration="1679280" release_date="2020-07-25"/>
+    <episodes name="Misjonen Destillert 18.07.2020" uri="spotify:episode:4TM930WO6XoTAP2fgdyfhS" id="4TM930WO6XoTAP2fgdyfhS" duration="1861224" release_date="2020-07-18"/>
+    <episodes name="Misjonen Destillert 11.07.2020" uri="spotify:episode:01PVt2YPeCoWQcXqK4aEjt" id="01PVt2YPeCoWQcXqK4aEjt" duration="1590888" release_date="2020-07-11"/>
+    <episodes name="Misjonen 03.07.2020" uri="spotify:episode:0UQMuEFIJ3B8EitUslBjXJ" id="0UQMuEFIJ3B8EitUslBjXJ" duration="2521752" release_date="2020-07-03"/>
+    <episodes name="Misjonen 26.06.2020" uri="spotify:episode:1GKifVvue2dhgJsmvFNLcL" id="1GKifVvue2dhgJsmvFNLcL" duration="2570664" release_date="2020-06-26"/>
+    <episodes name="Misjonen Destillert 20.06.2020" uri="spotify:episode:7ifIe6M7v1ZP9zwZiERajy" id="7ifIe6M7v1ZP9zwZiERajy" duration="2384328" release_date="2020-06-20"/>
+    <episodes name="Misjonen 19.06.2020" uri="spotify:episode:6xJcV5B6YbdM7vwPRM7yOJ" id="6xJcV5B6YbdM7vwPRM7yOJ" duration="2658936" release_date="2020-06-19"/>
+    <episodes name="Misjonen Destillert 13.06.2020" uri="spotify:episode:0qJqzUQSt4A3Rba1A83QOR" id="0qJqzUQSt4A3Rba1A83QOR" duration="2067432" release_date="2020-06-13"/>
+    <episodes name="Misjonen 12.06.2020" uri="spotify:episode:6JlnerxdBy2T0LcMgUMuhn" id="6JlnerxdBy2T0LcMgUMuhn" duration="2923632" release_date="2020-06-12"/>
+    <episodes name="Misjonen Destillert 06.06.2020" uri="spotify:episode:4mwUbkQwRkOwpHPFrMr8OD" id="4mwUbkQwRkOwpHPFrMr8OD" duration="2164728" release_date="2020-06-06"/>
+    <episodes name="Misjonen 05.06.2020" uri="spotify:episode:2lhy3MiTUU6oXEjlUgqMxE" id="2lhy3MiTUU6oXEjlUgqMxE" duration="2800920" release_date="2020-06-05"/>
+    <episodes name="Misjonen Destillert 30.05.2020" uri="spotify:episode:0AStisNDPX63qBXOvXJTX5" id="0AStisNDPX63qBXOvXJTX5" duration="2077176" release_date="2020-05-30"/>
+  </shows>
+  <shows name="Truecrimepodden" uri="spotify:show:5CWuDWqyovQKFxS9bPstNC" id="5CWuDWqyovQKFxS9bPstNC" explicit="true" total_episodes="109" description="       Alle mordene er ekte. Ofrene ogs&#xe5;. Morderne har drept, spist og &#xf8;delagt ofrene sine, og vi forteller hva som skjedde. Vi sparer ikke p&#xe5; detaljene, men g&#xe5;r grundig inn i historien bak drapene, og helt inn i morderens m&#xf8;rke sinn. Det advares&#xa0;mot sterke inntrykk. Truecrimepodden er lest av Pernille Radeid. F&#xf8;lg oss p&#xe5; Instagram: @truecrimepodden. For annonsering: jim@modernemedia.no     ">
+    <episodes name="Episode 124: The West Memphis Three" uri="spotify:episode:1loKTh3z3gYqsDrclY3jIO" id="1loKTh3z3gYqsDrclY3jIO" explicit="true" duration="2222602" release_date="2020-11-20"/>
+    <episodes name="Episode 120: The Broken Arrow Killings" uri="spotify:episode:1T6iQePGdAGlMyR6TCxkOi" id="1T6iQePGdAGlMyR6TCxkOi" duration="2038805" release_date="2020-10-23"/>
+    <episodes name="Episode 116: The Yorkshire Ripper" uri="spotify:episode:4YOcgH3Z6w3IuJr8yXpjux" id="4YOcgH3Z6w3IuJr8yXpjux" explicit="true" duration="2174720" release_date="2020-09-25"/>
+    <episodes name="Episode 112: The Alphabet Murders" uri="spotify:episode:4tIUnkVmophVCqTyBM4NmK" id="4tIUnkVmophVCqTyBM4NmK" explicit="true" duration="1971513" release_date="2020-08-28"/>
+    <episodes name="Bonus: Podme Trailer" uri="spotify:episode:70gUmxl46hfxdjEGKUFDhA" id="70gUmxl46hfxdjEGKUFDhA" duration="280555" release_date="2020-08-21"/>
+    <episodes name="Episode 108: Mordene i &#xc5;msele" uri="spotify:episode:2RdbBQKQ7LdvKAo63qbd60" id="2RdbBQKQ7LdvKAo63qbd60" explicit="true" duration="1626880" release_date="2020-07-31"/>
+    <episodes name="Episode 104: John Leonard Orr" uri="spotify:episode:6licAF6tI3dXUN3B9jwVgR" id="6licAF6tI3dXUN3B9jwVgR" explicit="true" duration="2057012" release_date="2020-07-03"/>
+    <episodes name="Episode 100: Hinterkaifeck - revisited" uri="spotify:episode:7nLzD1FmvMd2WRFjSvY2Qh" id="7nLzD1FmvMd2WRFjSvY2Qh" explicit="true" duration="3185371" release_date="2020-06-05"/>
+    <episodes name="Episode 99: Elliot Rodger" uri="spotify:episode:1tHZo9Igbp266cfMDloYQk" id="1tHZo9Igbp266cfMDloYQk" explicit="true" duration="1978567" release_date="2020-05-29"/>
+    <episodes name="Episode 98: Alissa Turney" uri="spotify:episode:0GbQFyJMx99AXKvlM3kcQa" id="0GbQFyJMx99AXKvlM3kcQa" explicit="true" duration="1914488" release_date="2020-05-22"/>
+    <episodes name="Episode 97: Tony Todt" uri="spotify:episode:28nAl0Uc7ETJyjjC9rm4uf" id="28nAl0Uc7ETJyjjC9rm4uf" explicit="true" duration="1863262" release_date="2020-05-15"/>
+    <episodes name="Episode 96: Mystiske forsvinninger - Timmothy Pitzen" uri="spotify:episode:55gfCzRVdnfWdn6KxsWY2e" id="55gfCzRVdnfWdn6KxsWY2e" explicit="true" duration="1777032" release_date="2020-05-08"/>
+    <episodes name="Episode 95: Keddie-drapene" uri="spotify:episode:2xuEpJXMJMfeFOjOEcxMa1" id="2xuEpJXMJMfeFOjOEcxMa1" explicit="true" duration="1787690" release_date="2020-05-01"/>
+    <episodes name="Episode 94: Kidnappingen av Sherri Papini" uri="spotify:episode:5u1m2bGslKMa5RgLEsZYm5" id="5u1m2bGslKMa5RgLEsZYm5" explicit="true" duration="1900904" release_date="2020-04-24"/>
+    <episodes name="Episode 93: David Parker Ray - The Toybox Killer" uri="spotify:episode:5tR2RXRuDZ7LiYL70MSNS6" id="5tR2RXRuDZ7LiYL70MSNS6" explicit="true" duration="1761567" release_date="2020-04-17"/>
+    <episodes name="Episode 92: Chris Benoit" uri="spotify:episode:3gvEVzGAn90iedwolEyK2O" id="3gvEVzGAn90iedwolEyK2O" explicit="true" duration="1895367" release_date="2020-04-10"/>
+    <episodes name="Episode 91: Rebecca Zahau" uri="spotify:episode:5Tzb5gtM3RJYo6QJqFAUac" id="5Tzb5gtM3RJYo6QJqFAUac" explicit="true" duration="1936797" release_date="2020-04-03"/>
+    <episodes name="Episode 90: Tommy Lynn Sells" uri="spotify:episode:3xvxa34f6JqZNT12UFbraT" id="3xvxa34f6JqZNT12UFbraT" explicit="true" duration="2086818" release_date="2020-03-27"/>
+    <episodes name="Episode 89: Leonarda Cianciulli - s&#xe5;pemakeren fra Correggio" uri="spotify:episode:7uPSqrmJ2yVrFk18b8pzMT" id="7uPSqrmJ2yVrFk18b8pzMT" explicit="true" duration="1904379" release_date="2020-03-20"/>
+    <episodes name="Episode 88: Susan Smith" uri="spotify:episode:7spu6O3AXA37JQJ6NyBfzN" id="7spu6O3AXA37JQJ6NyBfzN" explicit="true" duration="1706449" release_date="2020-03-13"/>
+    <episodes name="Episode 87: Kendrick Johnson - drap eller ulykke?" uri="spotify:episode:7cD8YHqCuk2TT07XbbINfT" id="7cD8YHqCuk2TT07XbbINfT" duration="1547546" release_date="2020-03-06"/>
+    <episodes name="Episode 86: Beaumont-barna" uri="spotify:episode:3BKVuCKIdNRS8dx4V6i2AR" id="3BKVuCKIdNRS8dx4V6i2AR" explicit="true" duration="1706016" release_date="2020-02-28"/>
+    <episodes name="Episode 85: The Happy Face Killer" uri="spotify:episode:4PQvBLVFVQNplYv2cQH22S" id="4PQvBLVFVQNplYv2cQH22S" explicit="true" duration="1730232" release_date="2020-02-21"/>
+    <episodes name="Episode 84: Armin Meiwes - Den tyske kannibalen" uri="spotify:episode:4ojTNxidLQ66iIfiELNrdU" id="4ojTNxidLQ66iIfiELNrdU" explicit="true" duration="1459224" release_date="2020-02-14"/>
+    <episodes name="Episode 83: Henry Lee Lucas - The Confession Killer" uri="spotify:episode:2MEODk33afvVVmoOTFfcCH" id="2MEODk33afvVVmoOTFfcCH" explicit="true" duration="1829688" release_date="2020-02-07"/>
+    <episodes name="Episode 82: Black Metal-mordene" uri="spotify:episode:6cc1CbQEEX4RuQCTp4vYSl" id="6cc1CbQEEX4RuQCTp4vYSl" explicit="true" duration="1566456" release_date="2019-12-20"/>
+    <episodes name="Episode 81: Blade Runner - Drapet p&#xe5; Reeva Steenkamp" uri="spotify:episode:22f2p4U4nYcSDuRGcWYH1Z" id="22f2p4U4nYcSDuRGcWYH1Z" explicit="true" duration="1439018" release_date="2019-12-13"/>
+    <episodes name="Episode 80: Aileen Wournos" uri="spotify:episode:56P8pMbaXeC1rXJdieyAh0" id="56P8pMbaXeC1rXJdieyAh0" explicit="true" duration="1860026" release_date="2019-12-06"/>
+    <episodes name="Episode 79: Forsvunnet - Amy Lynn Bradley" uri="spotify:episode:08QiivhWqlGAbgtklcNNiM" id="08QiivhWqlGAbgtklcNNiM" duration="1591514" release_date="2019-11-29"/>
+    <episodes name="Episode 78: Dennis Nilsen" uri="spotify:episode:360rvYXYK29blLPazJJEI5" id="360rvYXYK29blLPazJJEI5" explicit="true" duration="1492728" release_date="2019-11-22"/>
+    <episodes name="Episode 77: Andrei Chikatilo" uri="spotify:episode:03zMU7LUWngk6uV8RsCP0g" id="03zMU7LUWngk6uV8RsCP0g" explicit="true" duration="1962840" release_date="2019-11-08"/>
+    <episodes name="Episode 76: Casey Anthony Del 3 - Rettsaken" uri="spotify:episode:3TTU6P9tNucnDxBRrgDQFL" id="3TTU6P9tNucnDxBRrgDQFL" duration="2043048" release_date="2019-11-01"/>
+    <episodes name="Episode 75: Casey Anthony Del 2 - Etterforskningen" uri="spotify:episode:2tYH9CfxLWQI9vrzM8oWzv" id="2tYH9CfxLWQI9vrzM8oWzv" explicit="true" duration="1795320" release_date="2019-10-25"/>
+    <episodes name="Episode 74: Casey Anthony Del 1 - Forsvinningen" uri="spotify:episode:2gwZsTzwAJ4Sdn3wxrAisV" id="2gwZsTzwAJ4Sdn3wxrAisV" explicit="true" duration="1809722" release_date="2019-10-18"/>
+    <episodes name="Episode 73: Wineville Chicken Coop Murders" uri="spotify:episode:2g4jOE4ZOjorWfVizZArkH" id="2g4jOE4ZOjorWfVizZArkH" duration="2026488" release_date="2019-10-11"/>
+    <episodes name="Episode 72: Drapet p&#xe5; Tova Moberg" uri="spotify:episode:0URqYabVz817XW1bAweTjC" id="0URqYabVz817XW1bAweTjC" explicit="true" duration="1826787" release_date="2019-10-04"/>
+    <episodes name="Episode 71: Voodoo-mordet: Zach Bowen og Addie Hall Del 2" uri="spotify:episode:7n1cpCeBreRKgirQg6SuP0" id="7n1cpCeBreRKgirQg6SuP0" explicit="true" duration="1669921" release_date="2019-09-27"/>
+    <episodes name="Episode 70: Voodoo-mordet: Zach Bowen og Addie Hall Del 1" uri="spotify:episode:4m3OvTjFHtUnReYWy7Os90" id="4m3OvTjFHtUnReYWy7Os90" explicit="true" duration="1866816" release_date="2019-09-20"/>
+    <episodes name="Episode 69: The Weepy Voiced Killer" uri="spotify:episode:0YcIEOrrw6P6MS7SEoj0qP" id="0YcIEOrrw6P6MS7SEoj0qP" explicit="true" duration="2057184" release_date="2019-09-13"/>
+    <episodes name="Episode 68: Amy Wroe Bechtel" uri="spotify:episode:6N17BXKABLlAlkO9d6msmD" id="6N17BXKABLlAlkO9d6msmD" duration="2379408" release_date="2019-09-06"/>
+    <episodes name="Episode 67: Fred og Rosemary West - Del 2" uri="spotify:episode:6tdMyJPrylf1oalFyaVAeh" id="6tdMyJPrylf1oalFyaVAeh" explicit="true" duration="2174424" release_date="2019-08-30"/>
+    <episodes name="Episode 66: Fred og Rosemary West - Del 1" uri="spotify:episode:6m9oUb0vkOQzScWbCwQ1ms" id="6m9oUb0vkOQzScWbCwQ1ms" explicit="true" duration="1656600" release_date="2019-08-23"/>
+    <episodes name="Episode 65: Green River Killer" uri="spotify:episode:4J5VV9XhQkPY96S3fhSn00" id="4J5VV9XhQkPY96S3fhSn00" explicit="true" duration="2016168" release_date="2019-08-16"/>
+    <episodes name="Episode 64: Lesja-drapet" uri="spotify:episode:6HIUVIiqUGE9bdgYWhHeVX" id="6HIUVIiqUGE9bdgYWhHeVX" explicit="true" duration="1459416" release_date="2019-08-09"/>
+    <episodes name="Episode 63: Jessica Chambers" uri="spotify:episode:5X4Fam2w7RXWz4aqlWoB8Q" id="5X4Fam2w7RXWz4aqlWoB8Q" explicit="true" duration="1413432" release_date="2019-06-28"/>
+    <episodes name="Episode 62: Familien Jamison" uri="spotify:episode:0B4yn2l4v915NCyNwv9csM" id="0B4yn2l4v915NCyNwv9csM" explicit="true" duration="1778496" release_date="2019-06-21"/>
+    <episodes name="Episode 61: Heaven&#x2019;s Gate" uri="spotify:episode:5cVqPkAvesb3dF5eXUnalh" id="5cVqPkAvesb3dF5eXUnalh" explicit="true" duration="1888416" release_date="2019-06-14"/>
+    <episodes name="Episode 60: Josef Mengele" uri="spotify:episode:4r59JNBgTQp52D0WTRSJyE" id="4r59JNBgTQp52D0WTRSJyE" explicit="true" duration="1497384" release_date="2019-06-07"/>
+    <episodes name="Episode 59: The Slenderman Stabbing" uri="spotify:episode:7LvzRzVnHonK50lJXbWQiB" id="7LvzRzVnHonK50lJXbWQiB" explicit="true" duration="1847016" release_date="2019-05-31"/>
+    <episodes name="Episode 58: The Unabomber" uri="spotify:episode:1ZTa4TGqkqjFZb5dSTb6Qz" id="1ZTa4TGqkqjFZb5dSTb6Qz" explicit="true" duration="1643448" release_date="2019-05-24"/>
+  </shows>
+  <shows name="Ida med hjertet i h&#xe5;nden" uri="spotify:show:5bOgnhXT3nMX7f1BO67tyD" id="5bOgnhXT3nMX7f1BO67tyD" total_episodes="81" description="Hvordan kommer man over en bunnl&#xf8;s kj&#xe6;rlighetssorg? Hvordan ha det bra alene? Og hvorfor velger folk &#xe5; bli sammen, sl&#xe5; opp eller &#xe5; leve uten partner? I podcasten &quot;Ida med hjertet i h&#xe5;nden&quot; m&#xf8;ter Ida Fladen mennesker med ulike syn p&#xe5; relasjoner og kj&#xe6;rlighet, folk som dumper, blir dumpa, som lever alene, er skilt, aldri har hatt kj&#xe6;reste, ikke kan leve uten kj&#xe6;reste og har andre interessante historier om kj&#xe6;rlighet.">
+    <episodes name="Rasisme og akutte kj&#xe6;rlighetsproblemer med Nate Kahungu" uri="spotify:episode:6DCojJX4nKMAqGwkKZjJw5" id="6DCojJX4nKMAqGwkKZjJw5" duration="3069231" release_date="2020-12-09"/>
+    <episodes name="Psykisk vold, f&#xf8;dselsdepresjon og ekte kj&#xe6;rlighet med Sandra Lyng" uri="spotify:episode:5ndQKTYvIXvVrXB3lzG4fI" id="5ndQKTYvIXvVrXB3lzG4fI" duration="2813910" release_date="2020-12-02"/>
+    <episodes name="Sorgprosess og kj&#xe6;rlighetsr&#xe5;d med Mads Hansen - del 2" uri="spotify:episode:0SMooItcm3A5IoYEdTn7zF" id="0SMooItcm3A5IoYEdTn7zF" duration="2397336" release_date="2020-11-25"/>
+    <episodes name="Kj&#xe6;rlighet, papparollen og vennskap med Mads Hansen - del 1" uri="spotify:episode:1wFEC6xs8DUR7h4evHWEPA" id="1wFEC6xs8DUR7h4evHWEPA" duration="2826266" release_date="2020-11-18"/>
+    <episodes name="Av-og-p&#xe5;-forhold med Janne Formoe" uri="spotify:episode:3stlmX1fHxWpuxowScergy" id="3stlmX1fHxWpuxowScergy" duration="2362227" release_date="2020-11-11"/>
+    <episodes name="Brutt forlovelse og singel i 30-&#xe5;rene med Lars Berrum" uri="spotify:episode:3cWWjV6WMmxuBJNvRG9t7r" id="3cWWjV6WMmxuBJNvRG9t7r" duration="2821068" release_date="2020-11-04"/>
+    <episodes name="Sorg, straff og samboerskap med Therese Johaug" uri="spotify:episode:5ifz8FHBLY1vuTf0ecAsPi" id="5ifz8FHBLY1vuTf0ecAsPi" duration="2875611" release_date="2020-10-28"/>
+    <episodes name="Haters, Pride og foreldrerollen med Fredrik Solvang" uri="spotify:episode:3pCDMSJMg2TUtg2nMZ7oxJ" id="3pCDMSJMg2TUtg2nMZ7oxJ" duration="2801084" release_date="2020-10-21"/>
+    <episodes name="Selvbedrag, utroskap og parterapi med Vinni" uri="spotify:episode:7tjXewWVIhvWrB0EbYexLM" id="7tjXewWVIhvWrB0EbYexLM" duration="3043135" release_date="2020-10-14"/>
+    <episodes name="D&#xe5;rlig samvittighet, depresjon og dr&#xf8;mmer med Martin Johnsrud Sundby" uri="spotify:episode:6hyhQruWTF2sm77YWdgis4" id="6hyhQruWTF2sm77YWdgis4" duration="2987311" release_date="2020-10-07"/>
+    <episodes name="Singelsommer med Kristine Ulleb&#xf8; " uri="spotify:episode:5Vqn88HpV91jVveSlrddnX" id="5Vqn88HpV91jVveSlrddnX" duration="2414629" release_date="2020-07-17"/>
+    <episodes name="Skam, selvbilde og singelliv med Vegard Harm" uri="spotify:episode:0xSrqq033hF0nFB9SBfQkj" id="0xSrqq033hF0nFB9SBfQkj" duration="2623556" release_date="2020-07-10"/>
+    <episodes name="&#xc5; nyte singellivet med Isabel Raad" uri="spotify:episode:3aH2XKAf2pTX2bq9FkTLAM" id="3aH2XKAf2pTX2bq9FkTLAM" duration="2043298" release_date="2020-07-03"/>
+    <episodes name="Selvforskyldt kj&#xe6;rlighetssorg med Chris Holsten" uri="spotify:episode:6FM4rxMgNjIbag57xtUioR" id="6FM4rxMgNjIbag57xtUioR" duration="2177750" release_date="2020-06-03"/>
+    <episodes name="Prestasjonsangst og &#xab;e-ordet&#xbb; med Tiril Eckhoff" uri="spotify:episode:55WCSA3aiKdXnBw4BiS6v9" id="55WCSA3aiKdXnBw4BiS6v9" duration="2050142" release_date="2020-05-20"/>
+    <episodes name="&#xc5; balansere vennskap og lidenskap med Katarina Flatland" uri="spotify:episode:2du9S7RpftEp6iA59nJhzZ" id="2du9S7RpftEp6iA59nJhzZ" duration="2568516" release_date="2020-05-13"/>
+    <episodes name="&#xc5; gifte seg ung og giftige fordommer med Iman Meskini" uri="spotify:episode:7nRma9d6VMx93opScjJGVA" id="7nRma9d6VMx93opScjJGVA" duration="2446890" release_date="2020-05-06"/>
+    <episodes name="&#xc5; miste den man elsker med Nils-Ingar Aadne" uri="spotify:episode:0ynZwXEywxYoGSYrBcZTqJ" id="0ynZwXEywxYoGSYrBcZTqJ" duration="2812865" release_date="2020-04-29"/>
+    <episodes name="&#xc5; v&#xe6;re den andre kvinnen med Maria Mena" uri="spotify:episode:60QEVjerwuoh2Yv6U8939L" id="60QEVjerwuoh2Yv6U8939L" duration="2597956" release_date="2020-04-22"/>
+    <episodes name="Avstand og fortrengte f&#xf8;lelser med Camilla Herrem" uri="spotify:episode:5QWAvQ96hkQE91nroDl0Kb" id="5QWAvQ96hkQE91nroDl0Kb" duration="2764382" release_date="2020-04-15"/>
+    <episodes name="&#xc5; angre p&#xe5; et brudd med Martin Lepper&#xf8;d " uri="spotify:episode:1gNZF1UkmMUVPae3JaBkbQ" id="1gNZF1UkmMUVPae3JaBkbQ" duration="2527582" release_date="2020-04-08"/>
+    <episodes name="Helenes depresjon og Idas betroelser med Helene Olafsen - del 2" uri="spotify:episode:4qAnkhUtnHHerHrYm30Pvp" id="4qAnkhUtnHHerHrYm30Pvp" duration="1966289" release_date="2020-04-01"/>
+    <episodes name="F&#xf8;dsel, f&#xf8;lelser og fasade med Helene Olafsen - del 1" uri="spotify:episode:4egZzjnHrXb639XYzubmJC" id="4egZzjnHrXb639XYzubmJC" duration="2231850" release_date="2020-03-25"/>
+    <episodes name="D&#xe5;rlig p&#xe5; f&#xf8;lelser med Nicolay Ramm" uri="spotify:episode:0VLGVJF1EoeqgiF6YX6RDu" id="0VLGVJF1EoeqgiF6YX6RDu" duration="2465646" release_date="2019-12-11"/>
+    <episodes name="Alder er bare et tall med Lilli Bendriss" uri="spotify:episode:2BHAcgHPPdMg2r7pi1ADDr" id="2BHAcgHPPdMg2r7pi1ADDr" duration="2215079" release_date="2019-12-04"/>
+    <episodes name="Fra barnebrud til forbilde med Isabel" uri="spotify:episode:0YQwPus1Jm9RwVHb3zKmNH" id="0YQwPus1Jm9RwVHb3zKmNH" duration="2072059" release_date="2019-11-20"/>
+    <episodes name="Bipolar kj&#xe6;rlighet med Cecilie Ramona K&#xe5;ss Furuseth " uri="spotify:episode:1ztOWnHNmNOLysWuvT4Dja" id="1ztOWnHNmNOLysWuvT4Dja" duration="2726191" release_date="2019-11-13"/>
+    <episodes name="Sexlyst, utroskap og porno med Iselin Guttormsen" uri="spotify:episode:2cJlDvrcNUSrlgepBqkNrH" id="2cJlDvrcNUSrlgepBqkNrH" duration="2641267" release_date="2019-11-06"/>
+    <episodes name="&#xc5; elske begge kj&#xf8;nn med Victor Sotberg" uri="spotify:episode:1Fxv88QFZ8zxnSKRI1QLn4" id="1Fxv88QFZ8zxnSKRI1QLn4" duration="2568464" release_date="2019-10-30"/>
+    <episodes name="&#xc5; miste sine n&#xe6;rmeste med Solveig Kloppen" uri="spotify:episode:4bVhGG7FnGNaOaAceN3Lhz" id="4bVhGG7FnGNaOaAceN3Lhz" duration="2751843" release_date="2019-10-23"/>
+    <episodes name="Sex og aldersforskjell med Jan Thomas" uri="spotify:episode:5syqfmcDDaOkyL4f6VIyeM" id="5syqfmcDDaOkyL4f6VIyeM" duration="3606648" release_date="2019-10-16"/>
+    <episodes name="Skilsmisse, skam og sjekking med Marion Ravn" uri="spotify:episode:7ET1CSCcVQqG69HWORKvdc" id="7ET1CSCcVQqG69HWORKvdc" duration="2478393" release_date="2019-10-09"/>
+    <episodes name="Frykten for &#xe5; bli forlatt med Mikkel Niva" uri="spotify:episode:53MtkULrh6JNq9NjerJL80" id="53MtkULrh6JNq9NjerJL80" duration="2634867" release_date="2019-10-02"/>
+    <episodes name="Spill, sex og stormforelskelse med Live Nelvik" uri="spotify:episode:6TAHn1whbaNyDqLhDVdPSG" id="6TAHn1whbaNyDqLhDVdPSG" duration="2780056" release_date="2019-09-25"/>
+    <episodes name="&#xc5; v&#xe6;re f&#xf8;dt i feil kropp med Emma Ellingsen" uri="spotify:episode:5t8SV1HVLvwMLL0qEkdZ5v" id="5t8SV1HVLvwMLL0qEkdZ5v" duration="2531683" release_date="2019-09-18"/>
+    <episodes name="&#xc5; v&#xe6;re skeiv muslim med Noman Mubashir" uri="spotify:episode:55f7FbuWde2ATxGImugfRY" id="55f7FbuWde2ATxGImugfRY" duration="3133780" release_date="2019-09-11"/>
+    <episodes name="Lavt selvbilde og h&#xf8;ye ambisjoner med TIX" uri="spotify:episode:6dbIRr01eSuKetOkdaR2PQ" id="6dbIRr01eSuKetOkdaR2PQ" duration="2625881" release_date="2019-09-04"/>
+    <episodes name="&#xc5; velge singellivet med Siv Jensen" uri="spotify:episode:1aPglHYvoN4SCY2KhOv72z" id="1aPglHYvoN4SCY2KhOv72z" duration="2113593" release_date="2019-08-28"/>
+    <episodes name="Psykisk og seksuell vold med Ella Marie H&#xe6;tta Isaksen" uri="spotify:episode:4mAq6hdb6VWywL6KvUlEmJ" id="4mAq6hdb6VWywL6KvUlEmJ" duration="2365022" release_date="2019-05-21"/>
+    <episodes name="Singelliv og selvtillit med Maria Stavang" uri="spotify:episode:2vrTo5VPVg06ynbYzh66Pn" id="2vrTo5VPVg06ynbYzh66Pn" duration="3053819" release_date="2019-05-14"/>
+    <episodes name="Undertrykt legning og toppidrett med Stian Grastveit" uri="spotify:episode:5wJM3sznca7AyqcvT0VPSL" id="5wJM3sznca7AyqcvT0VPSL" duration="2476121" release_date="2019-05-07"/>
+    <episodes name="Forlovelse og fordommer med Niklas Baarli" uri="spotify:episode:2qsqRYj5arGRUTC24CcA3r" id="2qsqRYj5arGRUTC24CcA3r" duration="2472281" release_date="2019-04-30"/>
+    <episodes name="N&#xe5;r kj&#xe6;rlighet gj&#xf8;r blind med Ulrikke Falch" uri="spotify:episode:5z2vLoVvxe0OSnQrQjjYMY" id="5z2vLoVvxe0OSnQrQjjYMY" duration="2251076" release_date="2019-04-23"/>
+    <episodes name="Hvordan holde p&#xe5; kj&#xe6;rligheten med Guro Fostervold Tvedten" uri="spotify:episode:0ZHW1Lc9rj3v1JSSq4UPB5" id="0ZHW1Lc9rj3v1JSSq4UPB5" duration="2652447" release_date="2019-04-16"/>
+    <episodes name="Kj&#xe6;rlighet i en krisesituasjon med Astrid Urenholdt Jacobsen" uri="spotify:episode:4LrhWU9tV1w0MQIGXnzOSq" id="4LrhWU9tV1w0MQIGXnzOSq" duration="2731520" release_date="2019-04-09"/>
+    <episodes name="Menn og f&#xf8;lelser med Odd Magnus Williamson" uri="spotify:episode:71b0vRnvzlIhyAkBmEBpRO" id="71b0vRnvzlIhyAkBmEBpRO" duration="2660545" release_date="2019-04-03"/>
+    <episodes name="Flerkulturell kj&#xe6;rlighet med Cengiz Al" uri="spotify:episode:0F0J0T4aiXyAeS82sh04D2" id="0F0J0T4aiXyAeS82sh04D2" duration="1994919" release_date="2019-03-27"/>
+    <episodes name="&#xc5; satse alt p&#xe5; kj&#xe6;rligheten med Silje Nordnes" uri="spotify:episode:10yKuP2YkEUZYyMV3pssZI" id="10yKuP2YkEUZYyMV3pssZI" duration="2435030" release_date="2019-03-20"/>
+    <episodes name="Veien mot et godt selvbilde med Birgit Skarstein" uri="spotify:episode:7dVvnxvGl2oycOVRrjUlMT" id="7dVvnxvGl2oycOVRrjUlMT" duration="3100709" release_date="2019-03-13"/>
+    <episodes name="Selvtillit, s&#xe5;rbarhet og sm&#xe5;barnsliv med Stian Blipp" uri="spotify:episode:1kk6sb1B58tbkMR2Qu7koM" id="1kk6sb1B58tbkMR2Qu7koM" duration="2504438" release_date="2019-03-06"/>
+  </shows>
+  <shows name="Jan Thomas og Einar blir venner" uri="spotify:show:5KhgRSELqgZXKh1N4qD4t9" id="5KhgRSELqgZXKh1N4qD4t9" total_episodes="97" description="Kan to s&#xe5; ulike mennesker som Jan Thomas og Einar bli venner, p&#xe5; ekte? Det er nettopp dette de skal finne ut av i denne podkasten. De skal diskutere aktuelle temaer, utfordre hverandre og bli bedre kjent. Og selvsagt m&#xe5; de finne p&#xe5; ting sammen, s&#xe5;nn som ekte venner gj&#xf8;r. En podkast med Jan Thomas og Einar T&#xf8;rnquist">
+    <episodes name="96: Jan Thomas' &#xe5;penbaring" uri="spotify:episode:7706OtnjZAAbCEskKwzyk8" id="7706OtnjZAAbCEskKwzyk8" duration="3510387" release_date="2020-12-10"/>
+    <episodes name="95: Skrekkslagen" uri="spotify:episode:2EJHHkphOl1IH6pZh3AJOI" id="2EJHHkphOl1IH6pZh3AJOI" duration="3472666" release_date="2020-12-03"/>
+    <episodes name="94: Erling Braut Haaland fra Idol" uri="spotify:episode:4Z7g9jAC1sZrTfZ0Ek9d8S" id="4Z7g9jAC1sZrTfZ0Ek9d8S" duration="3516578" release_date="2020-11-26"/>
+    <episodes name="93: Jeg GJ&#xd8;R billige ting" uri="spotify:episode:6DzWZVFWWWwJLkajJyTpgd" id="6DzWZVFWWWwJLkajJyTpgd" duration="3798779" release_date="2020-11-19"/>
+    <episodes name="92: Er du elgen, Einar?!" uri="spotify:episode:2tqZcZ9z3wkwp2din06i4E" id="2tqZcZ9z3wkwp2din06i4E" duration="2902779" release_date="2020-11-12"/>
+    <episodes name="91: Du og jeg og Adele" uri="spotify:episode:6zudWVjIhqepg3MgP8sy94" id="6zudWVjIhqepg3MgP8sy94" duration="3621878" release_date="2020-11-05"/>
+    <episodes name="90: Unnskyld" uri="spotify:episode:0qZ84JtjZlaqPg0k79qUmq" id="0qZ84JtjZlaqPg0k79qUmq" duration="3671589" release_date="2020-10-29"/>
+    <episodes name="89: Anal mandag" uri="spotify:episode:4mZqPYGGgsTlCrOxDlAL5t" id="4mZqPYGGgsTlCrOxDlAL5t" duration="3826364" release_date="2020-10-22"/>
+    <episodes name="88: Syreren, revisoren og klesskapet" uri="spotify:episode:2UeXetLcPytdE3MGpB3OYO" id="2UeXetLcPytdE3MGpB3OYO" duration="3416686" release_date="2020-10-15"/>
+    <episodes name="87: Vendelas flyttebyr&#xe5;" uri="spotify:episode:2t7P878mawqDOPIJAed9V4" id="2t7P878mawqDOPIJAed9V4" duration="3470916" release_date="2020-10-08"/>
+    <episodes name="86: Telefon fra Skien" uri="spotify:episode:5hzF6VVHzQmHIV3MqKm5fO" id="5hzF6VVHzQmHIV3MqKm5fO" duration="3333303" release_date="2020-10-01"/>
+    <episodes name="85: ETs balla (og andre cliffhangere)" uri="spotify:episode:6SVcTrtGGnN8I6zuTmedof" id="6SVcTrtGGnN8I6zuTmedof" duration="3726759" release_date="2020-09-24"/>
+    <episodes name="84: 2 + 2 = trekant med Jehovas Vitner" uri="spotify:episode:74XXYfWqf96MDPIQpZT4p6" id="74XXYfWqf96MDPIQpZT4p6" duration="3155096" release_date="2020-09-17"/>
+    <episodes name="83: Superspreder T&#xf8;rnquist" uri="spotify:episode:48tFyGf91KHWAeGApmwo7W" id="48tFyGf91KHWAeGApmwo7W" duration="3554403" release_date="2020-09-10"/>
+    <episodes name="82: Spoiler alert alert" uri="spotify:episode:2n4F8YPVn2wKyYr6wWYEsy" id="2n4F8YPVn2wKyYr6wWYEsy" duration="3240385" release_date="2020-09-03"/>
+    <episodes name="81: Jan og Harlems f&#xf8;rste diskusjon" uri="spotify:episode:6i7zxblLMIu2Iu0RtYXsVO" id="6i7zxblLMIu2Iu0RtYXsVO" duration="3260082" release_date="2020-08-27"/>
+    <episodes name="80: Madonna og Buddha og Abid Raja" uri="spotify:episode:29LSGr5I16u7QS4SNeq8Wo" id="29LSGr5I16u7QS4SNeq8Wo" duration="3127510" release_date="2020-08-20"/>
+    <episodes name="79: Lyden av Willy" uri="spotify:episode:5Jj92ouJIGUwvM7CFZRB06" id="5Jj92ouJIGUwvM7CFZRB06" duration="2329992" release_date="2020-08-13"/>
+    <episodes name="78: N&#xe5; kom t&#xe5;rene" uri="spotify:episode:02hT79vvWmRFh0BedtwzUf" id="02hT79vvWmRFh0BedtwzUf" duration="3368673" release_date="2020-06-25"/>
+    <episodes name="77: Diktstafett" uri="spotify:episode:01ZvdNLCDUMj8o9tcOW4f3" id="01ZvdNLCDUMj8o9tcOW4f3" duration="3570364" release_date="2020-06-18"/>
+    <episodes name="76: Tursekk og glidemiddel" uri="spotify:episode:4Gz2K2UkNncuhdXrboeLQd" id="4Gz2K2UkNncuhdXrboeLQd" duration="3179546" release_date="2020-06-11"/>
+    <episodes name="75: Brun, k&#xe5;t og blid. Honansa det er sommer!" uri="spotify:episode:3CzMCy9fHF36Y2k0hZHp6n" id="3CzMCy9fHF36Y2k0hZHp6n" duration="3313737" release_date="2020-06-04"/>
+    <episodes name="74: Geitegjeteren" uri="spotify:episode:7azO8LNh0VqofEpe1Nhckm" id="7azO8LNh0VqofEpe1Nhckm" duration="3038642" release_date="2020-05-28"/>
+    <episodes name="73: Vampyrisme" uri="spotify:episode:0zv11gybDXlkwPqfbtYuGC" id="0zv11gybDXlkwPqfbtYuGC" duration="3137045" release_date="2020-05-21"/>
+    <episodes name="72: Einars vibrerende brystklyper" uri="spotify:episode:6cCZye8CWtPbYZzHW8GtV2" id="6cCZye8CWtPbYZzHW8GtV2" duration="3119334" release_date="2020-05-14"/>
+    <episodes name="71: Suss til styreformann og alle naboer" uri="spotify:episode:0FDFeWt7nIb6YSuWzNWl8y" id="0FDFeWt7nIb6YSuWzNWl8y" duration="3130018" release_date="2020-05-07"/>
+    <episodes name="70: Jans bobileventyr" uri="spotify:episode:321hVIGcqcsDjLpm3ApYYQ" id="321hVIGcqcsDjLpm3ApYYQ" duration="3226619" release_date="2020-04-30"/>
+    <episodes name="69: Jeg har mensen" uri="spotify:episode:2aWdPjE0wHn5vVkdhywKWc" id="2aWdPjE0wHn5vVkdhywKWc" duration="2927778" release_date="2020-04-23"/>
+    <episodes name="68: Musikkpipe p&#xe5; den keltiske arenaen" uri="spotify:episode:7s5TbNtZ5i62FvRm9WfKJb" id="7s5TbNtZ5i62FvRm9WfKJb" duration="3549701" release_date="2020-04-16"/>
+    <episodes name="67: Harlem og Einar blir venner" uri="spotify:episode:6ebGFWWbeHXfrE8XU0ERyb" id="6ebGFWWbeHXfrE8XU0ERyb" duration="3430583" release_date="2020-04-09"/>
+    <episodes name="66: N&#xe5;r jeg blir seksogseksti" uri="spotify:episode:7vfXjnmnB4rnVijk5NZmS4" id="7vfXjnmnB4rnVijk5NZmS4" duration="3216483" release_date="2020-04-02"/>
+    <episodes name="65: Finn frem mascaraen!" uri="spotify:episode:0B4Y7uW0mx13I9iMWhP3Ir" id="0B4Y7uW0mx13I9iMWhP3Ir" duration="2981407" release_date="2020-03-26"/>
+    <episodes name="Bonusepisode: Jan og Einar svarer lytterne" uri="spotify:episode:0JHoSVQjshxuO1dHn74FVa" id="0JHoSVQjshxuO1dHn74FVa" duration="1568862" release_date="2020-03-19"/>
+    <episodes name="64: En g&#xe5;te p&#xe5; en m&#xe5;te" uri="spotify:episode:3gqZsruioG0EcgWD7sXgmR" id="3gqZsruioG0EcgWD7sXgmR" duration="4299154" release_date="2020-03-17"/>
+    <episodes name="63: The JT driving school" uri="spotify:episode:2HdNMEgiHkHI2fspXSCB76" id="2HdNMEgiHkHI2fspXSCB76" duration="3218024" release_date="2020-03-12"/>
+    <episodes name="62: Morrabr&#xf8;d" uri="spotify:episode:1JrjI39UbcGcddppKfpG6f" id="1JrjI39UbcGcddppKfpG6f" duration="3557956" release_date="2020-03-05"/>
+    <episodes name="61: Stjerneskudd" uri="spotify:episode:53x9kSLlNDoFvLUUi7Aprs" id="53x9kSLlNDoFvLUUi7Aprs" duration="3727386" release_date="2020-02-27"/>
+    <episodes name="60: Stockholmsyndromet" uri="spotify:episode:7ia7byYnTjgtLDkQfP1qHf" id="7ia7byYnTjgtLDkQfP1qHf" duration="3544869" release_date="2020-02-20"/>
+    <episodes name="59: Kj&#xe6;rlighet for Einar" uri="spotify:episode:6S09seqdHxgf93WfVIhtYl" id="6S09seqdHxgf93WfVIhtYl" duration="3459762" release_date="2020-02-13"/>
+    <episodes name="58: Honansa til Madonna" uri="spotify:episode:3fFh2DHiFerU5I7zTTNwQN" id="3fFh2DHiFerU5I7zTTNwQN" duration="3619997" release_date="2020-02-06"/>
+    <episodes name="57: Tr&#xf8;nderen som sto opp fra de d&#xf8;de" uri="spotify:episode:4MmJ9ty7ehAMe1fV2Ew20V" id="4MmJ9ty7ehAMe1fV2Ew20V" duration="3055673" release_date="2020-01-30"/>
+    <episodes name="56: Tidlig julefinger" uri="spotify:episode:0rHov8OkYNFfGC9TXqyzUW" id="0rHov8OkYNFfGC9TXqyzUW" duration="3130514" release_date="2020-01-23"/>
+    <episodes name="55: Jeg er Oprah" uri="spotify:episode:6dNAVX63vlSSRUoXFGKoJy" id="6dNAVX63vlSSRUoXFGKoJy" duration="3566681" release_date="2020-01-16"/>
+    <episodes name="54: En lyd i mitt liv" uri="spotify:episode:3SLOGfvLvQdFtTYWuIiBD6" id="3SLOGfvLvQdFtTYWuIiBD6" duration="3027409" release_date="2020-01-09"/>
+    <episodes name="53: &#xc5;ret som har g&#xe5;tt" uri="spotify:episode:4X7n4WHaaPgoxLZGBHOCMp" id="4X7n4WHaaPgoxLZGBHOCMp" duration="2839615" release_date="2019-12-19"/>
+    <episodes name="52: Dr. Now" uri="spotify:episode:7etOH5VPiWwvTkYxUkj34j" id="7etOH5VPiWwvTkYxUkj34j" duration="3155540" release_date="2019-12-12"/>
+    <episodes name="51: Janetre og kj&#xe6;rlighet" uri="spotify:episode:2pyJdS10c8dLBjgDzMSd22" id="2pyJdS10c8dLBjgDzMSd22" duration="3246968" release_date="2019-12-05"/>
+    <episodes name="50: Jubileum og Champagne" uri="spotify:episode:0vulDt34YD8Bp76qHhD8RT" id="0vulDt34YD8Bp76qHhD8RT" duration="3537476" release_date="2019-11-28"/>
+    <episodes name="49: Velkommen tilbake, Jan" uri="spotify:episode:2DCZ5KqM2HQIlMnfAZDQdC" id="2DCZ5KqM2HQIlMnfAZDQdC" duration="3534733" release_date="2019-11-21"/>
+    <episodes name="48: Satan og Versace" uri="spotify:episode:5PKTynbkagCs89QQtxfRsC" id="5PKTynbkagCs89QQtxfRsC" duration="3261336" release_date="2019-11-14"/>
+  </shows>
+  <shows name="Radioresepsjonen" uri="spotify:show:2NFzv1HCxM1v6pFgoB6wJy" id="2NFzv1HCxM1v6pFgoB6wJy" total_episodes="780" description="Preik uten musikk. En feit, en lang og en gammel mann pr&#xf8;ver &#xe5; lage program p&#xe5; P13. Med Bjarte Tj&#xf8;stheim, Steinar Sagen og Tore Sagen. ">
+    <episodes name="10.12.2020 Radioresepsjonen" uri="spotify:episode:3Qxij0SnubqdU4khDhJLuI" id="3Qxij0SnubqdU4khDhJLuI" duration="4764000" release_date="2020-12-10"/>
+    <episodes name="09.12.2020 Radioresepsjonen" uri="spotify:episode:0mPwFQpXsjQDKl2ZOC6IeT" id="0mPwFQpXsjQDKl2ZOC6IeT" duration="4619000" release_date="2020-12-09"/>
+    <episodes name="08.12.2020 Radioresepsjonen" uri="spotify:episode:5yoX7aBJUyflfRIdQiTuo0" id="5yoX7aBJUyflfRIdQiTuo0" duration="4606000" release_date="2020-12-08"/>
+    <episodes name="07.12.2020 Radioresepsjonen" uri="spotify:episode:3aSniZpNIou86mDynQy18v" id="3aSniZpNIou86mDynQy18v" duration="4543000" release_date="2020-12-07"/>
+    <episodes name="03.12.2020 Radioresepsjonen" uri="spotify:episode:51hHYNL9Xi5YRHeoGusuN7" id="51hHYNL9Xi5YRHeoGusuN7" duration="4577000" release_date="2020-12-03"/>
+    <episodes name="02.12.2020  Radioresepsjonen " uri="spotify:episode:762EtV99NwK4n4Fl77fkv3" id="762EtV99NwK4n4Fl77fkv3" duration="4754000" release_date="2020-12-02"/>
+    <episodes name="01.12.2020  Radioresepsjonen  " uri="spotify:episode:5ISszkHvYT5VaebzAS8JW3" id="5ISszkHvYT5VaebzAS8JW3" duration="4909000" release_date="2020-12-01"/>
+    <episodes name="30.11.2020 Radioresepsjonen" uri="spotify:episode:4lKbbtEfGW1omwSlXyhNth" id="4lKbbtEfGW1omwSlXyhNth" duration="4855000" release_date="2020-11-30"/>
+    <episodes name="26.11.2020 Radioresepsjonen" uri="spotify:episode:74u1hkUwM61K56SdFXo9vb" id="74u1hkUwM61K56SdFXo9vb" duration="4399000" release_date="2020-11-26"/>
+    <episodes name="25.11.2020  Radioresepsjonen " uri="spotify:episode:34FtoAlYw97XpMCe5Rboq5" id="34FtoAlYw97XpMCe5Rboq5" duration="4561000" release_date="2020-11-25"/>
+    <episodes name="24.11.2020 Radioresepsjonen" uri="spotify:episode:6Cb81tW8TGlHPqwl9vgubb" id="6Cb81tW8TGlHPqwl9vgubb" duration="4695000" release_date="2020-11-24"/>
+    <episodes name="23.11.2020 Radioresepsjonen" uri="spotify:episode:5bwvpEZ9kbJKyqnfy9iYpI" id="5bwvpEZ9kbJKyqnfy9iYpI" duration="4638000" release_date="2020-11-23"/>
+    <episodes name="19.11.2020 Radioresepsjonen" uri="spotify:episode:19V2Ppn6jaq81ISt5bbzVs" id="19V2Ppn6jaq81ISt5bbzVs" duration="4704000" release_date="2020-11-19"/>
+    <episodes name="18.11.2020  Radioresepsjonen  " uri="spotify:episode:76jupKXMx9xaDMnXG2BwBc" id="76jupKXMx9xaDMnXG2BwBc" duration="4513000" release_date="2020-11-18"/>
+    <episodes name="17.11.2020 Radioresepsjonen" uri="spotify:episode:0pd9ENLIQ9bxYDwh37Jhz9" id="0pd9ENLIQ9bxYDwh37Jhz9" duration="4599000" release_date="2020-11-17"/>
+    <episodes name="16.11.2020  Radioresepsjonen " uri="spotify:episode:2e7nnkrJDmJi6iw2n1rhy2" id="2e7nnkrJDmJi6iw2n1rhy2" duration="4735000" release_date="2020-11-16"/>
+    <episodes name="12.11.2020 Radioresepsjonen" uri="spotify:episode:7wLWhOCBcQx92zeXVQ9Q94" id="7wLWhOCBcQx92zeXVQ9Q94" duration="4589000" release_date="2020-11-12"/>
+    <episodes name="11.11.2020  Radioresepsjonen " uri="spotify:episode:5qVg0RxzS5LjEjBdugo0w8" id="5qVg0RxzS5LjEjBdugo0w8" duration="4712000" release_date="2020-11-11"/>
+    <episodes name="10.11.2020  Radioresepsjonen " uri="spotify:episode:1CUlSVjVAIL4hrc3RG4SCU" id="1CUlSVjVAIL4hrc3RG4SCU" duration="4689000" release_date="2020-11-10"/>
+    <episodes name="09.11.2020  Radioresepsjonen " uri="spotify:episode:1EpAWSoTaYMHvZLub8WlVr" id="1EpAWSoTaYMHvZLub8WlVr" duration="4812000" release_date="2020-11-09"/>
+    <episodes name="05.11.2020 Radioresepsjonen" uri="spotify:episode:5xaZqQpufYdtLjG8UZpZuy" id="5xaZqQpufYdtLjG8UZpZuy" duration="4678000" release_date="2020-11-05"/>
+    <episodes name="04.11.2020  Radioresepsjonen" uri="spotify:episode:6u26VC4867xbs12kRc7tph" id="6u26VC4867xbs12kRc7tph" duration="4633000" release_date="2020-11-04"/>
+    <episodes name="03.11.2020 Radioresepsjonen " uri="spotify:episode:7eZd3q0GBL2k9Zn1nVKSCc" id="7eZd3q0GBL2k9Zn1nVKSCc" duration="4614000" release_date="2020-11-03"/>
+    <episodes name="02.11.2020  Radioresepsjonen " uri="spotify:episode:68dRGWArNT14pnnmYbl2fE" id="68dRGWArNT14pnnmYbl2fE" duration="4760000" release_date="2020-11-02"/>
+    <episodes name="29.10.2020 Radioresepsjonen" uri="spotify:episode:5nmeDkfI9QA1FtwnN9kHNf" id="5nmeDkfI9QA1FtwnN9kHNf" duration="4815000" release_date="2020-10-29"/>
+    <episodes name="28.10.2020 Radioresepsjonen" uri="spotify:episode:2MNCB5PGSmnAueMnW9ghKo" id="2MNCB5PGSmnAueMnW9ghKo" duration="4695000" release_date="2020-10-28"/>
+    <episodes name="27.10.2020 Radioresepsjonen" uri="spotify:episode:7dZG22dcARHKQmGQoJFpkS" id="7dZG22dcARHKQmGQoJFpkS" duration="4586000" release_date="2020-10-27"/>
+    <episodes name="26.10.2020 Radioresepsjonen" uri="spotify:episode:10GOwLnkHn1xru873GyTCL" id="10GOwLnkHn1xru873GyTCL" duration="4748000" release_date="2020-10-26"/>
+    <episodes name="22.10.2020 Radioresepsjonen " uri="spotify:episode:1RrXjVhwPydukSeWdCgU9l" id="1RrXjVhwPydukSeWdCgU9l" duration="4635000" release_date="2020-10-22"/>
+    <episodes name="21.10.2020 Radioresepsjonen" uri="spotify:episode:4LkK27txdM1HD15Dpk2fPR" id="4LkK27txdM1HD15Dpk2fPR" duration="4758000" release_date="2020-10-21"/>
+    <episodes name="20.10.2020  Radioresepsjonen " uri="spotify:episode:4VkaLpB8Iwug5ZLfQtLmOa" id="4VkaLpB8Iwug5ZLfQtLmOa" duration="4623000" release_date="2020-10-20"/>
+    <episodes name="19.10.2020 Radioresepsjonen" uri="spotify:episode:7iR1Aqvw6KnXHCo5i6qxRL" id="7iR1Aqvw6KnXHCo5i6qxRL" duration="4723000" release_date="2020-10-19"/>
+    <episodes name="15.10.2020 Radioresepsjonen" uri="spotify:episode:5UXOnnZXJ7WjpzQk1JyL7g" id="5UXOnnZXJ7WjpzQk1JyL7g" duration="4527000" release_date="2020-10-15"/>
+    <episodes name="14.10.2020 Radioresepsjonen" uri="spotify:episode:6SMPn8cAXLH1Hv2aI1TpqJ" id="6SMPn8cAXLH1Hv2aI1TpqJ" duration="4699000" release_date="2020-10-14"/>
+    <episodes name="13.10.2020 Radioresepsjonen" uri="spotify:episode:2bl865UZ9gAzHxsI2hsVUm" id="2bl865UZ9gAzHxsI2hsVUm" duration="4527000" release_date="2020-10-13"/>
+    <episodes name="12.10.2020  Radioresepsjonen" uri="spotify:episode:24bojZ7Q2hsLhusOr5N2dO" id="24bojZ7Q2hsLhusOr5N2dO" duration="4843000" release_date="2020-10-12"/>
+    <episodes name="08.10.2020 Radioresepsjonen" uri="spotify:episode:3H8j700qQbGq8MuxEJi4Cn" id="3H8j700qQbGq8MuxEJi4Cn" duration="4575000" release_date="2020-10-08"/>
+    <episodes name="07.10.2020 Radioresepsjonen" uri="spotify:episode:7qzpMuxrcuuMJIgoGy1ivO" id="7qzpMuxrcuuMJIgoGy1ivO" duration="4502000" release_date="2020-10-07"/>
+    <episodes name="06.10.2020  Radioresepsjonen " uri="spotify:episode:1BhVdNelKPmb60fPcfkVKJ" id="1BhVdNelKPmb60fPcfkVKJ" duration="4534000" release_date="2020-10-06"/>
+    <episodes name="05.10.2020 Radioresepsjonen" uri="spotify:episode:7ynZRUdptuXAsRh55jo3eh" id="7ynZRUdptuXAsRh55jo3eh" duration="4704000" release_date="2020-10-05"/>
+    <episodes name="01.10.2020 Radioresepsjonen" uri="spotify:episode:1vBoem1PJTFc7Ur9qYOeOx" id="1vBoem1PJTFc7Ur9qYOeOx" duration="4692000" release_date="2020-10-01"/>
+    <episodes name="30.09.2020 Radioresepsjonen " uri="spotify:episode:3hguUtWQL57EEDJz5PGTbt" id="3hguUtWQL57EEDJz5PGTbt" duration="4704000" release_date="2020-09-30"/>
+    <episodes name="29.09.2020 Radioresepsjonen" uri="spotify:episode:0jKi5DsIf2UrNXm9BfPmKq" id="0jKi5DsIf2UrNXm9BfPmKq" duration="4541000" release_date="2020-09-29"/>
+    <episodes name="28.09.2020  Radioresepsjonen " uri="spotify:episode:567hO6dh5ySE2fqaqDSr8M" id="567hO6dh5ySE2fqaqDSr8M" duration="4960000" release_date="2020-09-28"/>
+    <episodes name="24.09.2020 Radioresepsjonen" uri="spotify:episode:3IE7i0kPDEfFKuFtwh1FST" id="3IE7i0kPDEfFKuFtwh1FST" duration="4594000" release_date="2020-09-24"/>
+    <episodes name="23.09.2020  Radioresepsjonen" uri="spotify:episode:6zUmxL8Amgv9NOby8vxEE6" id="6zUmxL8Amgv9NOby8vxEE6" duration="4584000" release_date="2020-09-23"/>
+    <episodes name="22.09.2020 Radioresepsjonen" uri="spotify:episode:4Z0hQc1TPmxUxARKadoTKL" id="4Z0hQc1TPmxUxARKadoTKL" duration="4642000" release_date="2020-09-22"/>
+    <episodes name="21.09.2020 Radioresepsjonen" uri="spotify:episode:1EPxK4HEGY62LrYTOyVahc" id="1EPxK4HEGY62LrYTOyVahc" duration="4694000" release_date="2020-09-21"/>
+    <episodes name="17.09.2020 Radioresepsjonen" uri="spotify:episode:2Z0PRPZ5DMVYAOWq0LXYY7" id="2Z0PRPZ5DMVYAOWq0LXYY7" duration="4613000" release_date="2020-09-17"/>
+    <episodes name="16.09.2020 Radioresepsjonen" uri="spotify:episode:4De7pZM8NPjyuDO0SqPypc" id="4De7pZM8NPjyuDO0SqPypc" duration="4493000" release_date="2020-09-16"/>
+  </shows>
+  <shows name="S&#xe5;nn er du" uri="spotify:show:71mtVlnMMhJ35YbiCzKzAz" id="71mtVlnMMhJ35YbiCzKzAz" total_episodes="78" description="Harald Eia og Nils Brenna analyserer kjente personer med personlighetstesten &quot;Big 5&quot;.      ">
+    <episodes name="S&#xe5;nn er du: Herman Flesvig " uri="spotify:episode:0Caq7yjYd6ZWvdX32T2bin" id="0Caq7yjYd6ZWvdX32T2bin" duration="3392000" release_date="2020-11-01"/>
+    <episodes name="S&#xe5;nn er du:  J&#xf8;rgine Massa Vasstrand (Funkygine) " uri="spotify:episode:7BrkaZ6iuREar6HtWLqfts" id="7BrkaZ6iuREar6HtWLqfts" duration="3443000" release_date="2020-10-25"/>
+    <episodes name="S&#xe5;nn er du: Marte Stokstad" uri="spotify:episode:25VklymOTl5Qp1KYbO6Bf3" id="25VklymOTl5Qp1KYbO6Bf3" duration="3422000" release_date="2020-10-18"/>
+    <episodes name="S&#xe5;nn er du: Silya Nymoen" uri="spotify:episode:258GGyco3KpvsT9AdCpAal" id="258GGyco3KpvsT9AdCpAal" duration="3421000" release_date="2020-10-11"/>
+    <episodes name="S&#xe5;nn er du: Andreas Wahl" uri="spotify:episode:6Jzk0u0ielJji0tc0cY3da" id="6Jzk0u0ielJji0tc0cY3da" duration="3372000" release_date="2020-10-04"/>
+    <episodes name="S&#xe5;nn er du : Espen Thoresen" uri="spotify:episode:5UkFmXpDoh5esdop9h65Pi" id="5UkFmXpDoh5esdop9h65Pi" duration="3381000" release_date="2020-09-27"/>
+    <episodes name="S&#xe5;nn er du: Ine Jansen " uri="spotify:episode:6achHJQT5zykYEzIDq47uc" id="6achHJQT5zykYEzIDq47uc" duration="3396000" release_date="2020-09-20"/>
+    <episodes name="S&#xe5;nn er du: Lars Berrum" uri="spotify:episode:48Qy6P0kt2aFoAdA19wUF8" id="48Qy6P0kt2aFoAdA19wUF8" duration="3399000" release_date="2020-09-13"/>
+    <episodes name="S&#xe5;nn er du: Ingebj&#xf8;rg Bratland" uri="spotify:episode:4OK2VvbEvql5tqiDzjAbcj" id="4OK2VvbEvql5tqiDzjAbcj" duration="3389000" release_date="2020-09-06"/>
+    <episodes name="S&#xe5;nn er du: Dagfinn Lyngb&#xf8;" uri="spotify:episode:7gsoX3LGdkuIDfHSahL3Vp" id="7gsoX3LGdkuIDfHSahL3Vp" duration="3385000" release_date="2020-08-30"/>
+    <episodes name="S&#xe5;nn er du: M&#xed;mir Kristj&#xe1;nsson" uri="spotify:episode:2Ve2SpZ270WY9WkNWeMdUp" id="2Ve2SpZ270WY9WkNWeMdUp" duration="3396000" release_date="2020-08-23"/>
+    <episodes name="S&#xe5;nn er du: Anita Krohn Traaseth" uri="spotify:episode:4QofBCNQjzZ8AvAyAP18sP" id="4QofBCNQjzZ8AvAyAP18sP" duration="3394000" release_date="2020-08-16"/>
+    <episodes name="S&#xe5;nn er du, Henrik Asheim" uri="spotify:episode:0ccR9h8UARAMcU8dQX1dxK" id="0ccR9h8UARAMcU8dQX1dxK" duration="3416000" release_date="2020-03-29"/>
+    <episodes name="S&#xe5;nn er du, Sophie Elise" uri="spotify:episode:7aiHCmAnTKNHH5AzDc1Gty" id="7aiHCmAnTKNHH5AzDc1Gty" duration="3389000" release_date="2020-03-22"/>
+    <episodes name="15.03.2020  S&#xe5;nn er du, Kristopher Schau" uri="spotify:episode:6cGqao0lw3bBUcBbQtanGz" id="6cGqao0lw3bBUcBbQtanGz" duration="3401000" release_date="2020-03-15"/>
+    <episodes name="S&#xe5;nn er du,  Anne Lindmo" uri="spotify:episode:43vdDcJ8A51XgRxlcCblSw" id="43vdDcJ8A51XgRxlcCblSw" duration="3389000" release_date="2020-03-08"/>
+    <episodes name="S&#xe5;nn er er du, Agnes Ravatn" uri="spotify:episode:7jVNDtNcSd4RDPD3aLH6Zf" id="7jVNDtNcSd4RDPD3aLH6Zf" duration="3440000" release_date="2020-03-01"/>
+    <episodes name="S&#xe5;nn er du, Vebj&#xf8;rn Selbekk" uri="spotify:episode:5Jz3PFakgAIU0a7vkH0GJh" id="5Jz3PFakgAIU0a7vkH0GJh" duration="3393000" release_date="2020-02-23"/>
+    <episodes name="S&#xe5;nn er du, Hege Sch&#xf8;yen" uri="spotify:episode:6rhqYCwLSnhxw3kUrow0a5" id="6rhqYCwLSnhxw3kUrow0a5" duration="3389000" release_date="2020-02-16"/>
+    <episodes name="Live Nelvik -S&#xe5;nn er du" uri="spotify:episode:2tFVzIF3MzsrTEoIXePJMj" id="2tFVzIF3MzsrTEoIXePJMj" duration="3406000" release_date="2020-02-09"/>
+    <episodes name="S&#xe5;nn er du, Finn Tokvam" uri="spotify:episode:5CVAvAaXQOHRHaqLVCZ6jT" id="5CVAvAaXQOHRHaqLVCZ6jT" duration="3365000" release_date="2020-02-03"/>
+    <episodes name="S&#xe5;nn er du, Sven Nordin" uri="spotify:episode:5s9edPiqZH6elOwOVW8ijj" id="5s9edPiqZH6elOwOVW8ijj" duration="3384000" release_date="2020-01-26"/>
+    <episodes name="S&#xe5;nn er du, Stian Thorbj&#xf8;rnsen" uri="spotify:episode:6ZuoJDRtwBEm1j0eDZWgrn" id="6ZuoJDRtwBEm1j0eDZWgrn" duration="3342000" release_date="2020-01-19"/>
+    <episodes name="S&#xe5;nn er du, Helene Olafsen" uri="spotify:episode:3kKoQwbKXG0fNqNUpoL8tU" id="3kKoQwbKXG0fNqNUpoL8tU" duration="3357000" release_date="2020-01-12"/>
+    <episodes name="S&#xe5;nn er du, Anne-Kat. H&#xe6;rland" uri="spotify:episode:6AYbBr1pHAu0vI0vr6ZSvi" id="6AYbBr1pHAu0vI0vr6ZSvi" duration="3354000" release_date="2019-10-20"/>
+    <episodes name="S&#xe5;nn er du, Pia Tjelta " uri="spotify:episode:040LmftGWqbNxf42dza5o3" id="040LmftGWqbNxf42dza5o3" duration="3356000" release_date="2019-10-13"/>
+    <episodes name="S&#xe5;nn er du, Kjetil Rolness " uri="spotify:episode:7FLsZNZzo1WF5AQtR98NlH" id="7FLsZNZzo1WF5AQtR98NlH" duration="3373000" release_date="2019-10-06"/>
+    <episodes name="S&#xe5;nn er du, Mia Gundersen." uri="spotify:episode:3a662GwKAR5OWZ3YvRXX9c" id="3a662GwKAR5OWZ3YvRXX9c" duration="3367000" release_date="2019-09-29"/>
+    <episodes name="S&#xe5;nn er du, Alex Ros&#xe9;n" uri="spotify:episode:0YdrpntR0pOaguVKTN8y0T" id="0YdrpntR0pOaguVKTN8y0T" duration="3358000" release_date="2019-09-22"/>
+    <episodes name="S&#xe5;nn er du, Ingrid Helene H&#xe5;vik." uri="spotify:episode:5HoKMqaPKk2CsSwAXNDbCQ" id="5HoKMqaPKk2CsSwAXNDbCQ" duration="3373000" release_date="2019-09-15"/>
+    <episodes name="S&#xe5;nn er du, Anders Danielsen Lie " uri="spotify:episode:476n3R1dZb7pWTSGiEkL45" id="476n3R1dZb7pWTSGiEkL45" duration="3368000" release_date="2019-09-08"/>
+    <episodes name="S&#xe5;nn er du, Truls Svendsen" uri="spotify:episode:2rxxyTp0NJCQe0sgBPPMoA" id="2rxxyTp0NJCQe0sgBPPMoA" duration="3367000" release_date="2019-09-01"/>
+    <episodes name="S&#xe5;nn er du, Eivind Hellstr&#xf8;m" uri="spotify:episode:6gQKl4pOKqNKXni4jKfFqt" id="6gQKl4pOKqNKXni4jKfFqt" duration="3357000" release_date="2019-08-25"/>
+    <episodes name="S&#xe5;nn er du, Jan Thomas" uri="spotify:episode:3TOhWuXmOx7boudclCF6hx" id="3TOhWuXmOx7boudclCF6hx" duration="3367000" release_date="2019-03-03"/>
+    <episodes name="S&#xe5;nn er du, Henrik Mestad" uri="spotify:episode:3kYbSgaEori8EGoFVYNuqA" id="3kYbSgaEori8EGoFVYNuqA" duration="3392000" release_date="2019-02-24"/>
+    <episodes name="S&#xe5;nn er du: Atle Antonsen" uri="spotify:episode:3QfNyAikZPRmD5coUXnX4o" id="3QfNyAikZPRmD5coUXnX4o" duration="3375000" release_date="2019-02-17"/>
+    <episodes name="S&#xe5;nn er du, Camilla Stoltenberg" uri="spotify:episode:00vT33VrqueCDHbOddnWUp" id="00vT33VrqueCDHbOddnWUp" duration="3377000" release_date="2019-02-10"/>
+    <episodes name="S&#xe5;nn er du, Kristin Clemet" uri="spotify:episode:59oBVlIXck9qew8a4KxmVV" id="59oBVlIXck9qew8a4KxmVV" duration="3377000" release_date="2019-02-03"/>
+    <episodes name="S&#xe5;nn er du, Marte Michelet" uri="spotify:episode:2QGr3bJI18ow7315ImmRhc" id="2QGr3bJI18ow7315ImmRhc" duration="3373000" release_date="2019-01-27"/>
+    <episodes name="S&#xe5;nn er du, Astrid Uhrenholdt Jacbosen" uri="spotify:episode:0T8eHDRLxyTk3G0gA6PtKo" id="0T8eHDRLxyTk3G0gA6PtKo" duration="3370000" release_date="2019-01-20"/>
+    <episodes name="S&#xe5;nn er du, Egil Hegerberg" uri="spotify:episode:20d0zyuVYqq2slmKlXB8wD" id="20d0zyuVYqq2slmKlXB8wD" duration="3382000" release_date="2019-01-14"/>
+    <episodes name="S&#xe5;nn er du, Petter Stordalen" uri="spotify:episode:58owbNj2oRByEyUMmtNfW1" id="58owbNj2oRByEyUMmtNfW1" duration="3360000" release_date="2019-01-06"/>
+    <episodes name="S&#xe5;nn er du, Kjetil Jansrud" uri="spotify:episode:1qmgeRImSYASRaNRGuXcnI" id="1qmgeRImSYASRaNRGuXcnI" duration="3365000" release_date="2018-10-28"/>
+    <episodes name="S&#xe5;nn er du, Ingrid Lorentzen " uri="spotify:episode:5hGq3GPFquO15AKI5HN2pF" id="5hGq3GPFquO15AKI5HN2pF" duration="3368000" release_date="2018-10-21"/>
+    <episodes name="S&#xe5;nn er du: Per Sandberg" uri="spotify:episode:76cijOlrDzKNrNc0fZLUAm" id="76cijOlrDzKNrNc0fZLUAm" duration="3370000" release_date="2018-10-14"/>
+    <episodes name="S&#xe5;nn er du - Anne Holt" uri="spotify:episode:0cDLdjiE1a2pMxqSRIfiYX" id="0cDLdjiE1a2pMxqSRIfiYX" duration="3359000" release_date="2018-10-07"/>
+    <episodes name="S&#xe5;nn er du: Mari Maurstad" uri="spotify:episode:5Yto5kHPyzccgqa7WnnzLq" id="5Yto5kHPyzccgqa7WnnzLq" duration="3360000" release_date="2018-09-30"/>
+    <episodes name="S&#xe5;nn er du: Else K&#xe5;ss Furuseth" uri="spotify:episode:6EMZqY2ATukqbR525VvfCV" id="6EMZqY2ATukqbR525VvfCV" duration="3364000" release_date="2018-09-23"/>
+    <episodes name="S&#xe5;nn er du, Trond Viggo Torgersen" uri="spotify:episode:1rwti6vszlbe2L81CfmUoj" id="1rwti6vszlbe2L81CfmUoj" duration="3242000" release_date="2018-09-15"/>
+    <episodes name="S&#xe5;nn er du, Stein Torleif Bjella " uri="spotify:episode:0QzjcVn60uxzDSv7YH8Xor" id="0QzjcVn60uxzDSv7YH8Xor" duration="3224000" release_date="2018-09-08"/>
+  </shows>
+  <shows name="L&#xf8;rdagsr&#xe5;det" uri="spotify:show:3Jil9IZ2a5yKt15vXgzUYr" id="3Jil9IZ2a5yKt15vXgzUYr" total_episodes="426" description="Hver uke blar tre (mer eller mindre) kvalifiserte r&#xe5;dgivere i sitt livserfaringsarkiv for &#xe5; hjelpe deg. Lurer du p&#xe5; om du skal gj&#xf8;re det slutt, er naboen din en tyrann eller er du h&#xe5;pl&#xf8;st forelsket? Vi skal pr&#xf8;ve &#xe5; gi deg gode r&#xe5;d.">
+    <episodes name="H&#xf8;ydepunkter fra 2020 &#x2013; nr. 4" uri="spotify:episode:4l5cTKTT0dsah1HUdJVA6e" id="4l5cTKTT0dsah1HUdJVA6e" duration="7768000" release_date="2020-12-12"/>
+    <episodes name="Pr&#xf8;ver &#xe5; t&#xf8;mme innboksen &#x2013; DEL 4" uri="spotify:episode:5QNuBJEBn8c1Q7qMSOfSuQ" id="5QNuBJEBn8c1Q7qMSOfSuQ" duration="7335000" release_date="2020-12-05"/>
+    <episodes name="Pr&#xf8;ver &#xe5; t&#xf8;mme innboksen - DEL 3" uri="spotify:episode:4Z8PKb2UQs1GY9TonmOBtE" id="4Z8PKb2UQs1GY9TonmOBtE" duration="7109000" release_date="2020-12-05"/>
+    <episodes name="Pr&#xf8;ver &#xe5; t&#xf8;mme innboksen - DEL 2" uri="spotify:episode:0LLOWHLXDd3XeXH7gXlIeS" id="0LLOWHLXDd3XeXH7gXlIeS" duration="7700000" release_date="2020-12-05"/>
+    <episodes name="Pr&#xf8;ver &#xe5; t&#xf8;mme innboksen - DEL 1" uri="spotify:episode:5rcHMrP6AQaqb8dMqftmy7" id="5rcHMrP6AQaqb8dMqftmy7" duration="7422000" release_date="2020-12-05"/>
+    <episodes name="Christian Mikkelsen / Caroline Johansen / Staysman" uri="spotify:episode:3uXLQoFHfobNyWAJ7RrAak" id="3uXLQoFHfobNyWAJ7RrAak" duration="7996000" release_date="2020-11-28"/>
+    <episodes name="Mor og far VS. mamma og pappa" uri="spotify:episode:6lusye9W22S7ZycxtUULKi" id="6lusye9W22S7ZycxtUULKi" duration="1378000" release_date="2020-11-24"/>
+    <episodes name="Solveig Kloppen / Markus Ulv Neby / Iman Meskini" uri="spotify:episode:0oSiPwLAFHB9lG1su5TMxi" id="0oSiPwLAFHB9lG1su5TMxi" duration="7779000" release_date="2020-11-21"/>
+    <episodes name="S&#xf8;stera til Beate! (&#x2026;og litt jodling)" uri="spotify:episode:3NX2o2p1Oa176zpCDsW7SR" id="3NX2o2p1Oa176zpCDsW7SR" duration="788000" release_date="2020-11-17"/>
+    <episodes name="Ronny Brede Aase / Linn&#xe9;a Myhre / Ella Marie H&#xe6;tta Isaksen" uri="spotify:episode:61P4lw9Dk7qqVyTaV3F1JA" id="61P4lw9Dk7qqVyTaV3F1JA" duration="8514000" release_date="2020-11-14"/>
+    <episodes name="Erik Follestad / Kristin Jess Rodin / Jon Almaas" uri="spotify:episode:3tOkS5rzlbWpNhqlaszqI6" id="3tOkS5rzlbWpNhqlaszqI6" duration="8751000" release_date="2020-11-07"/>
+    <episodes name="Har Kr&#xe5;ka f&#xe5;tt sitt?!" uri="spotify:episode:0uIkLz2MiX5CK5k0O0GuMJ" id="0uIkLz2MiX5CK5k0O0GuMJ" duration="1327000" release_date="2020-11-03"/>
+    <episodes name="Peder Kj&#xf8;s / Sissel Gran / Finn Sk&#xe5;rderud" uri="spotify:episode:1iLsF3d4XMkc16CZGpZ5bW" id="1iLsF3d4XMkc16CZGpZ5bW" duration="10240000" release_date="2020-10-31"/>
+    <episodes name="B&#xe5;rd Ylvis&#xe5;ker / Janne R&#xf8;nningen / Nicolay Ramm" uri="spotify:episode:6G4l4fezI9FiH3ek18tKUo" id="6G4l4fezI9FiH3ek18tKUo" duration="8550000" release_date="2020-10-24"/>
+    <episodes name="Live fors&#xf8;ker &#xe5; buttplugfucke Herman Flesvig" uri="spotify:episode:1SL2IJEzadpXSXexfakWDL" id="1SL2IJEzadpXSXexfakWDL" duration="1154000" release_date="2020-10-22"/>
+    <episodes name="Jakob Oftebro / Martha Leivestad / John Brungot" uri="spotify:episode:4VK6Toxq4cLNbZYSy3NZfW" id="4VK6Toxq4cLNbZYSy3NZfW" duration="8185000" release_date="2020-10-10"/>
+    <episodes name="Vegard Ylvis&#xe5;ker / Maria Stavang / Thomas Gullestad" uri="spotify:episode:1xhS4vsBwkvE0DgYqJz7Ul" id="1xhS4vsBwkvE0DgYqJz7Ul" duration="8459000" release_date="2020-10-03"/>
+    <episodes name="Valgte Ylva familieg&#xe5;rden eller kj&#xe6;resten?" uri="spotify:episode:62gkb9SwyMLt2rvHiwZkTd" id="62gkb9SwyMLt2rvHiwZkTd" duration="1041000" release_date="2020-10-01"/>
+    <episodes name="Linn&#xe9;a Myhre / Staysman / Julie Bergan" uri="spotify:episode:11Hzx2uW657pfbpHaujlUb" id="11Hzx2uW657pfbpHaujlUb" duration="8023000" release_date="2020-09-26"/>
+    <episodes name="Henriette Steenstrup  / Torbj&#xf8;rn R&#xf8;e Isaksen / Chris Holsten" uri="spotify:episode:6FWMVXhDUDXsA0yelrbpVx" id="6FWMVXhDUDXsA0yelrbpVx" duration="8464000" release_date="2020-09-19"/>
+    <episodes name="Adam Ezzari / Solveig Kloppen / Gaute Gr&#xf8;tta Grav" uri="spotify:episode:6Br7UiRY1vJB5A29uhSRWd" id="6Br7UiRY1vJB5A29uhSRWd" duration="7567000" release_date="2020-09-12"/>
+    <episodes name="SKAAR / Ronny Brede Aase / Jonas Kinge Bergland" uri="spotify:episode:1080ZpIEHENC4ZUXC0Z7tJ" id="1080ZpIEHENC4ZUXC0Z7tJ" duration="8603000" release_date="2020-09-05"/>
+    <episodes name="Pablos Bok + NakenNora og svigerfar + En slags overraskelse" uri="spotify:episode:1N4TxHt5LxjMjuND9AIBog" id="1N4TxHt5LxjMjuND9AIBog" duration="1434000" release_date="2020-09-01"/>
+    <episodes name="Jon Almaas / Funkygine / Hasse Hope" uri="spotify:episode:7zWJ5mm6bNqhoyASmiElts" id="7zWJ5mm6bNqhoyASmiElts" duration="8776000" release_date="2020-08-29"/>
+    <episodes name="Har Koppegal f&#xe5;tt tilbake koppene sine?" uri="spotify:episode:0fhbZFXHg4sv8ZQKEs7X0g" id="0fhbZFXHg4sv8ZQKEs7X0g" duration="845000" release_date="2020-08-25"/>
+    <episodes name="Anne Lindmo / Else K&#xe5;ss Furuseth / Jonis Josef" uri="spotify:episode:6EU4Y1RUhFU1MGXM5o1Jvu" id="6EU4Y1RUhFU1MGXM5o1Jvu" duration="8400000" release_date="2020-08-22"/>
+    <episodes name="Jenny Skavlan / Erik Solbakken / Janne R&#xf8;nningen" uri="spotify:episode:5X7hKbbRisfFVLcYLF6Pws" id="5X7hKbbRisfFVLcYLF6Pws" duration="8660000" release_date="2020-08-15"/>
+    <episodes name="Christian Borch / Caroline Johansen / Lars Berrum" uri="spotify:episode:0ZKugouwpQippxKYiP2DbA" id="0ZKugouwpQippxKYiP2DbA" duration="8555000" release_date="2020-08-08"/>
+    <episodes name="Mener fremdeles mammaen til Karoline at hun har spiseforstyrrelse?" uri="spotify:episode:6xGQkfhljJJh5saD1Ec0tS" id="6xGQkfhljJJh5saD1Ec0tS" duration="1726000" release_date="2020-08-05"/>
+    <episodes name="H&#xf8;ydepunkter fra 2020 &#x2013; nr. 3" uri="spotify:episode:6BC6T6jJbC0RG6CDO0SZK6" id="6BC6T6jJbC0RG6CDO0SZK6" duration="6567000" release_date="2020-08-01"/>
+    <episodes name="H&#xf8;ydepunkter fra 2020 &#x2013; nr. 2" uri="spotify:episode:0zPwrRLpCpqG9dlNgUNmRT" id="0zPwrRLpCpqG9dlNgUNmRT" duration="6943000" release_date="2020-07-25"/>
+    <episodes name="H&#xf8;ydepunkter fra 2020 &#x2013; nr. 1" uri="spotify:episode:67P1beyu6051JTMpb8fvl0" id="67P1beyu6051JTMpb8fvl0" duration="6005000" release_date="2020-07-18"/>
+    <episodes name="Gabrielle / Iman Meskini / Christian Mikkelsen" uri="spotify:episode:5lOxlkiduSs8O79CRy7tjv" id="5lOxlkiduSs8O79CRy7tjv" duration="8080000" release_date="2020-07-11"/>
+    <episodes name="Einar T&#xf8;rnquist / Alexandra Gjerpen / Hadia Tajik" uri="spotify:episode:5rMS4WJee9fWXcMCxIBJpq" id="5rMS4WJee9fWXcMCxIBJpq" duration="7735000" release_date="2020-07-04"/>
+    <episodes name="Hvordan g&#xe5;r det med Lene som var forelska i broren til bestevenninna?" uri="spotify:episode:4tcp2mwRO8UoC72Jn3goYj" id="4tcp2mwRO8UoC72Jn3goYj" duration="1188000" release_date="2020-06-30"/>
+    <episodes name="Ronny Brede Aase / Kristin Jess Rodin / Erik Follestad" uri="spotify:episode:3QrEeZ2bDjpwiRmBlSaK2K" id="3QrEeZ2bDjpwiRmBlSaK2K" duration="8792000" release_date="2020-06-27"/>
+    <episodes name="H&#xf8;ydepunkter fra v&#xe5;ren 2020" uri="spotify:episode:6MLYGH4YdhgRxyZL6gQb4j" id="6MLYGH4YdhgRxyZL6gQb4j" duration="6660000" release_date="2020-06-20"/>
+    <episodes name="Yousef Hadaoui / Martha Leivestad / H&#xe5;vard Lilleheie" uri="spotify:episode:21iNDdwx1BiEuoOhcLOfjq" id="21iNDdwx1BiEuoOhcLOfjq" duration="8291000" release_date="2020-06-13"/>
+    <episodes name="Hvem eier Epilog-bilen?" uri="spotify:episode:0LI1lq01Yvj7OnH9axZvaV" id="0LI1lq01Yvj7OnH9axZvaV" duration="2021000" release_date="2020-06-09"/>
+    <episodes name="Astrid S / Christian Mikkelsen / Ingrid Gjessing Linhave" uri="spotify:episode:75twaRcxT7txiRHq8nSq2j" id="75twaRcxT7txiRHq8nSq2j" duration="9208000" release_date="2020-06-06"/>
+    <episodes name="Pernille S&#xf8;rensen / Fredrik Skavlan / Josefine Frida" uri="spotify:episode:2eASKwCxmln4WbF9UnOW5j" id="2eASKwCxmln4WbF9UnOW5j" duration="8735000" release_date="2020-05-30"/>
+    <episodes name="Hva lukter Linn&#xe9;a Myhre?" uri="spotify:episode:1mdAj9ZddzyW5b0htDKKji" id="1mdAj9ZddzyW5b0htDKKji" duration="1296000" release_date="2020-05-27"/>
+    <episodes name="B&#xe5;rd Tufte Johansen / Linn&#xe9;a Myhre / Mikkel Niva" uri="spotify:episode:7fhefswvTt9DH3Q34eYagk" id="7fhefswvTt9DH3Q34eYagk" duration="8960000" release_date="2020-05-24"/>
+    <episodes name="Hvordan g&#xe5;r det med den forelska rundbrenneren?" uri="spotify:episode:7c4DDMtmYWcXeYEDF1ue6h" id="7c4DDMtmYWcXeYEDF1ue6h" duration="1441000" release_date="2020-05-20"/>
+    <episodes name="Morten Ramm / Emilie Nicolas / Markus Neby" uri="spotify:episode:5RpCBc41Hktu8AvH7cWaTg" id="5RpCBc41Hktu8AvH7cWaTg" duration="8702000" release_date="2020-05-16"/>
+    <episodes name="Sigrid Bonde Tusvik / Isah / Siri Seljeseth" uri="spotify:episode:2sP7pPY2WBWG9EFHB08X5Q" id="2sP7pPY2WBWG9EFHB08X5Q" duration="8756000" release_date="2020-05-09"/>
+    <episodes name="K&#xe5;re Magnus Bergh / Frida &#xc5;nnevik / Gaute Orm&#xe5;sen &#x2013; Hamar-spesial" uri="spotify:episode:1A1lZdTeLjzv8nT6e2y9dP" id="1A1lZdTeLjzv8nT6e2y9dP" duration="7216000" release_date="2020-05-02"/>
+    <episodes name="Odd Nordstoga / Solveig Kloppen / Jonis Josef" uri="spotify:episode:7A5lzwLC5RteZpQVVjZ9sM" id="7A5lzwLC5RteZpQVVjZ9sM" duration="8613000" release_date="2020-04-25"/>
+    <episodes name="Jan Thomas / Einar T&#xf8;rnquist / Silje Nordnes" uri="spotify:episode:4voEXZAS3GjEnLAmbnJ78t" id="4voEXZAS3GjEnLAmbnJ78t" duration="8813000" release_date="2020-04-18"/>
+    <episodes name="Thomas Giertsen / Jenny Skavlan / Caroline Johansen" uri="spotify:episode:0Ktfu5COH5qlC4PTmeVBy5" id="0Ktfu5COH5qlC4PTmeVBy5" duration="7761000" release_date="2020-04-11"/>
+  </shows>
+  <shows name="Topp 3 med Mads og Rasmus" uri="spotify:show:18a8wg8LCaPwWJ7PbXDchZ" id="18a8wg8LCaPwWJ7PbXDchZ" total_episodes="103" description=" Mads Hansen og Rasmus Wold f&#xe5;r ukentlig bes&#xf8;k av en gjest, og sammen lager de en topp 3-liste.     ">
+    <episodes name="#90 Marion Ravn og topp 3 ting vi lurer p&#xe5;" uri="spotify:episode:2Z6CNPOYfzBD8cO1Z2JcUJ" id="2Z6CNPOYfzBD8cO1Z2JcUJ" duration="3082057" release_date="2020-12-10"/>
+    <episodes name="#89 Casper Ruud og topp 3 verste med reise" uri="spotify:episode:0yEKo1hNnjxL2XGDbFwn5P" id="0yEKo1hNnjxL2XGDbFwn5P" duration="2805288" release_date="2020-12-03"/>
+    <episodes name="#88 Morten Ramm og topp 3 julekalendere" uri="spotify:episode:7dJ4a6L0Ct6GdZDZXJBe0d" id="7dJ4a6L0Ct6GdZDZXJBe0d" duration="2952229" release_date="2020-11-26"/>
+    <episodes name="#87 Marius Skjelb&#xe6;k, referansebonansa og topp 3 rollefigurer" uri="spotify:episode:0TdXJHWTblfcxmNzMHm8AI" id="0TdXJHWTblfcxmNzMHm8AI" duration="2977776" release_date="2020-11-19"/>
+    <episodes name="#86 Farmen-Thor, religion og topp 3 nye bud" uri="spotify:episode:1VvbWS38TqZZuCXkjdQQuv" id="1VvbWS38TqZZuCXkjdQQuv" duration="2681280" release_date="2020-11-12"/>
+    <episodes name="#85 Marlene Stavrum og topp 3 upopul&#xe6;re meninger" uri="spotify:episode:5OatdbTn03FFfzuGiyC08z" id="5OatdbTn03FFfzuGiyC08z" duration="2841696" release_date="2020-11-05"/>
+    <episodes name="#84 John Arne Riise og topp 3 egoistisk" uri="spotify:episode:65xnBEGA6DhIEHPsYR4kwZ" id="65xnBEGA6DhIEHPsYR4kwZ" duration="3028800" release_date="2020-10-30"/>
+    <episodes name="#83 Kristin Jess Rodin og topp 3 russebusskonsepter" uri="spotify:episode:1an3ls1FZ4NQ8qgOQdaKpi" id="1an3ls1FZ4NQ8qgOQdaKpi" duration="3076885" release_date="2020-10-23"/>
+    <episodes name="#82 Iben Akerlie og topp 3 flaut &#xe5; ikke kunne i voksen alder" uri="spotify:episode:074ZvW8n50DdeIoo27EIcK" id="074ZvW8n50DdeIoo27EIcK" duration="3358067" release_date="2020-10-16"/>
+    <episodes name="#81 TIX, un&#xf8;dvendig pengebruk og topp 3 harry" uri="spotify:episode:6Tl9jfebanCpasJSl4HItT" id="6Tl9jfebanCpasJSl4HItT" duration="3191040" release_date="2020-10-09"/>
+    <episodes name="#80 Erling Braut H&#xe5;land, verdens beste spisser og topp 3 deilig" uri="spotify:episode:0c64AMwy2kpWjBnmzw425M" id="0c64AMwy2kpWjBnmzw425M" duration="3563808" release_date="2020-10-02"/>
+    <episodes name="#79 Supporterfrue, toern og topp 3 nedverdigende" uri="spotify:episode:2MVLzutNxAWOTNNC1PbrJZ" id="2MVLzutNxAWOTNNC1PbrJZ" duration="3090286" release_date="2020-09-25"/>
+    <episodes name="#78 Fingern, tissing i Hollywood og topp 3 un&#xf8;dvendig" uri="spotify:episode:6pjhSEChQKgq6gmgxXn2i3" id="6pjhSEChQKgq6gmgxXn2i3" duration="3317400" release_date="2020-09-18"/>
+    <episodes name="#77 Lisa T&#xf8;nne, dyskalkuli og topp 3 dr&#xf8;mmeforsider" uri="spotify:episode:5bn6eQ1UU5XkJqmgMWl7DJ" id="5bn6eQ1UU5XkJqmgMWl7DJ" duration="2593560" release_date="2020-09-11"/>
+    <episodes name="#76 Markus Neby, kleint dobes&#xf8;k og topp 3 tekster p&#xe5; gravst&#xf8;tten" uri="spotify:episode:6ymUQ3cRyJcRD1qleizMsp" id="6ymUQ3cRyJcRD1qleizMsp" duration="2936816" release_date="2020-09-04"/>
+    <episodes name="#75 Mia Hundvin, trollete nabo og topp 3 Tinder-tips" uri="spotify:episode:3aOyF7zFJNa20USl3MK6xs" id="3aOyF7zFJNa20USl3MK6xs" duration="3142713" release_date="2020-08-28"/>
+    <episodes name="#74 Torbj&#xf8;rn R&#xf8;e Isaksen, multiminister og topp 3 verste ting med skolen" uri="spotify:episode:1fpDikTdNeCK4vFJoDk2qp" id="1fpDikTdNeCK4vFJoDk2qp" duration="3089450" release_date="2020-08-21"/>
+    <episodes name="#73 Henrik Farley, gullnummer og topp 3 underkommuniserte helter" uri="spotify:episode:7IiVxNC1akwDQWsZrFK4bP" id="7IiVxNC1akwDQWsZrFK4bP" duration="2982557" release_date="2020-08-14"/>
+    <episodes name="#72 Sander Sagosen, elektrikersvindel og topp 3 ekle ting" uri="spotify:episode:0FGcjLCg9tQZX171005Lz4" id="0FGcjLCg9tQZX171005Lz4" duration="3366060" release_date="2020-08-07"/>
+    <episodes name="#71 Erlend Loe, enhjulssykkel og topp 3 uetiske eksperimenter" uri="spotify:episode:40nY4Me5lo0FQJpsic9Shv" id="40nY4Me5lo0FQJpsic9Shv" duration="3314181" release_date="2020-07-31"/>
+    <episodes name="#70 Telefonstafett og topp 3 undervurderte produkter" uri="spotify:episode:7ekAKVXyotpUJH3Y3yCQAX" id="7ekAKVXyotpUJH3Y3yCQAX" duration="2876552" release_date="2020-07-24"/>
+    <episodes name="#69 Mikkel Niva, tulleringing til sjefen og nye regler i fotball" uri="spotify:episode:0NsBey5yZ0w09YtbjPlWaa" id="0NsBey5yZ0w09YtbjPlWaa" duration="3042743" release_date="2020-07-17"/>
+    <episodes name="#68 Sp&#xf8;rsm&#xe5;lspod, hemmelige historier og alder for debut" uri="spotify:episode:66OyW4kOgfwz65ocqs8a1Y" id="66OyW4kOgfwz65ocqs8a1Y" duration="2523899" release_date="2020-07-10"/>
+    <episodes name="#67 Martin Sleipnes, Mads sin hoppkarriere og topp 3 idretter det er vanskelig &#xe5; bli god i" uri="spotify:episode:00uQCy5psYvwg5n1EZTVbu" id="00uQCy5psYvwg5n1EZTVbu" duration="2704614" release_date="2020-07-03"/>
+    <episodes name="#66 Brynjar Meling, Mullah Krekar og topp 3 ordtak vi ikke forst&#xe5;r" uri="spotify:episode:37Ovm81xWnG3JD2zPQuejI" id="37Ovm81xWnG3JD2zPQuejI" duration="3048176" release_date="2020-06-26"/>
+    <episodes name="Kort: Chris Holsten og topp 3 kuleste damer i Norge" uri="spotify:episode:26yx59URTWNfUejAagsQ9D" id="26yx59URTWNfUejAagsQ9D" duration="899553" release_date="2020-06-23"/>
+    <episodes name="#65 Jan Thomas, moteanmeldelse av Mads og topp 3 verste ting med menn" uri="spotify:episode:42F2UBIYFasAnDz7bwmUrb" id="42F2UBIYFasAnDz7bwmUrb" duration="3117401" release_date="2020-06-19"/>
+    <episodes name="Kort: Mr. Pimp Lotion og topp 3 lukter" uri="spotify:episode:6t5aFqnkERHoHS6lA1oSjk" id="6t5aFqnkERHoHS6lA1oSjk" duration="900232" release_date="2020-06-16"/>
+    <episodes name="#64 Linn&#xe9;a Myhre, beste brus og topp 3 verste trender" uri="spotify:episode:4VGVLXTvWh181b5k1FRIaC" id="4VGVLXTvWh181b5k1FRIaC" duration="3181662" release_date="2020-06-12"/>
+    <episodes name="Kort: Martin &#xd8;degaard og topp 3 TV-serie" uri="spotify:episode:5vFMdckJEwQbpujgaoMw5O" id="5vFMdckJEwQbpujgaoMw5O" duration="900127" release_date="2020-06-09"/>
+    <episodes name="#63 Martin &#xd8;degaard, mange sp&#xf8;rsm&#xe5;l og topp 3 ting man savner fra barndommen" uri="spotify:episode:37KGudFOJknWd5jkbyWu67" id="37KGudFOJknWd5jkbyWu67" duration="3164656" release_date="2020-06-05"/>
+    <episodes name="Kort: Treningsfrue og topp 3 svensker" uri="spotify:episode:3Yd6zVi4rAkr1IauaoV1oh" id="3Yd6zVi4rAkr1IauaoV1oh" duration="878393" release_date="2020-06-02"/>
+    <episodes name="#62 Sander Berge, Braut-mobbing og topp 3 skuffelser" uri="spotify:episode:0ioTDiZZg11fHufmcqtmA1" id="0ioTDiZZg11fHufmcqtmA1" duration="3041672" release_date="2020-05-29"/>
+    <episodes name="Kort: Randulle og topp 3 tilbeh&#xf8;r til mat" uri="spotify:episode:1f4QtppgDjhnoykq9QIFpb" id="1f4QtppgDjhnoykq9QIFpb" duration="899971" release_date="2020-05-26"/>
+    <episodes name="#61 B&#xe5;rd Tufte Johansen, Q&amp;A og topp 3 imponerende" uri="spotify:episode:53kIQ9zGXj4C8ekoIx0ctw" id="53kIQ9zGXj4C8ekoIx0ctw" duration="3243651" release_date="2020-05-22"/>
+    <episodes name="Kort: Espen Lervaag og topp 3 byer i Norge" uri="spotify:episode:09ImBiFNyEsmydWu7cRtJY" id="09ImBiFNyEsmydWu7cRtJY" duration="900049" release_date="2020-05-19"/>
+    <episodes name="#60 Jakob Sch&#xf8;yen Andersen, dynamitt-Harry og topp 3 ting man ville opplevd" uri="spotify:episode:0a8kDLlUmntuxPgKeMdF4M" id="0a8kDLlUmntuxPgKeMdF4M" duration="2812317" release_date="2020-05-15"/>
+    <episodes name="Kort: Bj&#xf8;rn Asgeirsson og topp 3 fast food" uri="spotify:episode:22KU6i4Iuz0VOwJrHRlKiA" id="22KU6i4Iuz0VOwJrHRlKiA" duration="900153" release_date="2020-05-12"/>
+    <episodes name="#59 Kristopher Schau, sjuke historier og topp 3 medisiner vi skulle &#xf8;nske fantes" uri="spotify:episode:0mCPOOgl5CttImJe9eLxUk" id="0mCPOOgl5CttImJe9eLxUk" duration="2964793" release_date="2020-05-08"/>
+    <episodes name="Kort: Ulrik Lund og topp 3 komedier" uri="spotify:episode:2KUKryzNCODM0B31mSmFil" id="2KUKryzNCODM0B31mSmFil" duration="899918" release_date="2020-05-05"/>
+    <episodes name="#58 Siri Kristiansen, kunnskapskonkurranse og topp 3 tegn p&#xe5; at man er lat" uri="spotify:episode:2QLMg9Eu1qgez8rUY2T1WS" id="2QLMg9Eu1qgez8rUY2T1WS" duration="2844500" release_date="2020-05-01"/>
+    <episodes name="Kort: Niklas Baarli og topp 3 desserter" uri="spotify:episode:4gGneu5w761nx74G92UXRa" id="4gGneu5w761nx74G92UXRa" duration="900180" release_date="2020-04-28"/>
+    <episodes name="#57 Agnetesh, life hacks og topp 3 ting man ville tatt med til mars" uri="spotify:episode:6xtRXqpfxKLpFNBsrHtxP6" id="6xtRXqpfxKLpFNBsrHtxP6" duration="2936477" release_date="2020-04-24"/>
+    <episodes name="Kort: Triana Iglesias og topp 3 podkaster" uri="spotify:episode:5vYzwz3OoBK8RRoE0Zrx0T" id="5vYzwz3OoBK8RRoE0Zrx0T" duration="900049" release_date="2020-04-21"/>
+    <episodes name="#56 Martin Beyer-Olsen, paradise-konflikt og topp 3 kjedelige ting" uri="spotify:episode:7t0GtCvjKZ8g03M4ZqD9hw" id="7t0GtCvjKZ8g03M4ZqD9hw" duration="2874567" release_date="2020-04-17"/>
+    <episodes name="Kort: Olli Wermskog og topp 3 korona-vennlige aktiviteter" uri="spotify:episode:4huA9C6I8XMkRZv1qou19h" id="4huA9C6I8XMkRZv1qou19h" duration="900284" release_date="2020-04-14"/>
+    <episodes name="#55 H&#xe5;vard Lilleheie, milit&#xe6;rfleip eller fakta og topp 3 dilemmaer" uri="spotify:episode:3fSQersqNDFvcqXjqwLwhr" id="3fSQersqNDFvcqXjqwLwhr" duration="2818299" release_date="2020-04-10"/>
+    <episodes name="Kort: Wanda Mashadi og topp 3 morsomste personer i Norge" uri="spotify:episode:7w8tkVs19S0KVrJjlT8yth" id="7w8tkVs19S0KVrJjlT8yth" duration="900232" release_date="2020-04-07"/>
+    <episodes name="#54 John Christian Elden, sannheten bak advokatyrket og topp 3 small talk-temas" uri="spotify:episode:4mVsanVmet8cCmSeK638il" id="4mVsanVmet8cCmSeK638il" duration="2661303" release_date="2020-04-03"/>
+    <episodes name="Kort: Emilie Nicolas og topp 3 animasjonsfilmer" uri="spotify:episode:6eATqm9tBPqQ2cItkIwmKs" id="6eATqm9tBPqQ2cItkIwmKs" duration="899683" release_date="2020-03-31"/>
+  </shows>
+  <shows name="Harm og Hegseth" uri="spotify:show:3vag1pwyV1VU0dquxFVmVq" id="3vag1pwyV1VU0dquxFVmVq" explicit="true" total_episodes="271" description=" Vegard Harm og Morten Hegseth snakker om Gud og Jesus. Gud er Gaute Gr&#xf8;tte Grav og Jesus er Jenny Skavlan! Og vi skal selvf&#xf8;lgelig snakke om alle andre kjendiser ogs&#xe5;, bortsett fra Arne Treholt. Han var russisk spion. @harmoghegseth     ">
+    <episodes name="#267 Kim K, skattelister og vb h&#xe5;ndballjenter" uri="spotify:episode:5wg8FBcs9PFsjZmNW0PIWd" id="5wg8FBcs9PFsjZmNW0PIWd" duration="4073064" release_date="2020-12-10"/>
+    <episodes name="#266 P3 Gull, fotoshoot og &#xf8;sters" uri="spotify:episode:0r16ISAgYUMn6r7Zzm9Pgz" id="0r16ISAgYUMn6r7Zzm9Pgz" duration="2850048" release_date="2020-12-03"/>
+    <episodes name="#265 Telefonskrekk, Diana og Grammy-drama" uri="spotify:episode:0D5mwShD1zlNxNn7KkANSo" id="0D5mwShD1zlNxNn7KkANSo" duration="2078064" release_date="2020-11-26"/>
+    <episodes name="#264 The Crown, Norges best kledde og hjemmeporno" uri="spotify:episode:6735jU4ZiCd1hoeJmsQFoK" id="6735jU4ZiCd1hoeJmsQFoK" duration="3406576" release_date="2020-11-20"/>
+    <episodes name="#263 Basic bitches, Maskorama og Kamala" uri="spotify:episode:6XVf7Lz5N8ZwSqvJKDwize" id="6XVf7Lz5N8ZwSqvJKDwize" duration="2988173" release_date="2020-11-12"/>
+    <episodes name="#262 Snikskryt, Paris Hilton og viktige politiske analyser" uri="spotify:episode:1AxnMUJeFxCxYv2kcRgCS5" id="1AxnMUJeFxCxYv2kcRgCS5" duration="3366720" release_date="2020-11-06"/>
+    <episodes name="#261 Chrissy Teigen, Sommerhytta og telefonsex" uri="spotify:episode:5jkVzle0yHD7edmz3go0Cn" id="5jkVzle0yHD7edmz3go0Cn" duration="3507048" release_date="2020-10-30"/>
+    <episodes name="Annons&#xf8;rinnhold fra Huseierne: Mortens mansion og Vegards dr&#xf8;mmebolig" uri="spotify:episode:4216rMSLNTYjsOw9DkoR1n" id="4216rMSLNTYjsOw9DkoR1n" duration="2197128" release_date="2020-10-26"/>
+    <episodes name="#260 Costume Awards, influencere i fengsel og fine dining" uri="spotify:episode:4LQ3P0A56DlJbDE2XROrgx" id="4LQ3P0A56DlJbDE2XROrgx" duration="3814296" release_date="2020-10-23"/>
+    <episodes name="Anbefaling: Gi meg alle detaljene med Linn&#xe9;a Myhre" uri="spotify:episode:1O7rIf6hPSIp0wibp6P5hp" id="1O7rIf6hPSIp0wibp6P5hp" duration="209816" release_date="2020-10-21"/>
+    <episodes name="#259 Drunk shopping, flaut tyveri og Stjernekamp" uri="spotify:episode:1UXGQBuE3HKFNhUIPp1H0g" id="1UXGQBuE3HKFNhUIPp1H0g" duration="3529300" release_date="2020-10-15"/>
+    <episodes name="#258 Savage moteshow, klein kos og mys i Trondheim" uri="spotify:episode:3qAI20Qw4CY3ImJtWJ6Xz0" id="3qAI20Qw4CY3ImJtWJ6Xz0" duration="3738305" release_date="2020-10-08"/>
+    <episodes name="#257 D&#xf8;dsbo, helge-TV og shellac" uri="spotify:episode:49eFb3ku1CmYdZ2XHslKO3" id="49eFb3ku1CmYdZ2XHslKO3" duration="3715997" release_date="2020-10-01"/>
+    <episodes name="Anbefaling: Skikk og bruk" uri="spotify:episode:5578k4LYSl2Q15JmfGDF2n" id="5578k4LYSl2Q15JmfGDF2n" duration="342335" release_date="2020-09-30"/>
+    <episodes name="#256 Gr&#xe5;ting i milit&#xe6;ret, Mads Hansen-rangering og Kardashians" uri="spotify:episode:6ivvRFlI17I6MzqRu32Ehx" id="6ivvRFlI17I6MzqRu32Ehx" duration="2938749" release_date="2020-09-25"/>
+    <episodes name="#255 Utlevering, bedrevitere og turn-offs" uri="spotify:episode:233K1hjYwV0MQaUeznljJ7" id="233K1hjYwV0MQaUeznljJ7" duration="3011808" release_date="2020-09-18"/>
+    <episodes name="#254 Kompani Lauritzen, divaer og grottefest" uri="spotify:episode:46QNrVe4PNAsGK2BUdmIcf" id="46QNrVe4PNAsGK2BUdmIcf" duration="3103056" release_date="2020-09-11"/>
+    <episodes name="#253 Parterapi og komming" uri="spotify:episode:0S1axq2h1H1bgb5Dkc9Dtm" id="0S1axq2h1H1bgb5Dkc9Dtm" duration="2666808" release_date="2020-09-04"/>
+    <episodes name="Anbefaling: Hvordan har du det, mann?" uri="spotify:episode:2SY0mFbVL4pqvKVggvMv3G" id="2SY0mFbVL4pqvKVggvMv3G" duration="306834" release_date="2020-08-31"/>
+    <episodes name="#252 Scam, sorg og shaming" uri="spotify:episode:04V2RXF8P2s2EOonWY1RjI" id="04V2RXF8P2s2EOonWY1RjI" duration="3167478" release_date="2020-08-27"/>
+    <episodes name="#251 Northug, dansere og bloggstjerner" uri="spotify:episode:4fRhwD1geLDxVQ7aBBSIvx" id="4fRhwD1geLDxVQ7aBBSIvx" duration="3466841" release_date="2020-08-21"/>
+    <episodes name="#250 Alle f&#xe5;r ikke alt, h&#xf8;ylytte venner og Real Housewives" uri="spotify:episode:3wjtVYcTCAnItVDksqgisj" id="3wjtVYcTCAnItVDksqgisj" duration="2789303" release_date="2020-08-14"/>
+    <episodes name="#249 RIP sommeren 2020, traktorfest og sexr&#xe5;d" uri="spotify:episode:5uQjSKPWrglDtBVHzF9S1s" id="5uQjSKPWrglDtBVHzF9S1s" explicit="true" duration="3000294" release_date="2020-08-07"/>
+    <episodes name="#248 Folklore, Ellen og #challengeaccepted" uri="spotify:episode:1Ou1bU8oyypLndVYpk7WHV" id="1Ou1bU8oyypLndVYpk7WHV" explicit="true" duration="2242011" release_date="2020-07-31"/>
+    <episodes name="#247 Free Britney, Kanye West og litt lyx" uri="spotify:episode:28Fr4QMnkMCurUcSqU1Nun" id="28Fr4QMnkMCurUcSqU1Nun" duration="2729744" release_date="2020-07-24"/>
+    <episodes name="#246 Ligging og kjendiser" uri="spotify:episode:2DQEcYGmftshsmo1bQ6cHe" id="2DQEcYGmftshsmo1bQ6cHe" explicit="true" duration="1983217" release_date="2020-07-17"/>
+    <episodes name="#245 Kjendisfest, YouTube-drama og hipsterfestival" uri="spotify:episode:77uxenIVHazs5kd3gI9JwJ" id="77uxenIVHazs5kd3gI9JwJ" duration="2401306" release_date="2020-07-10"/>
+    <episodes name="#244 Talkshow, livets bil og Vogue-Baby" uri="spotify:episode:6fOdDpZ47BvGMncB2CXK8C" id="6fOdDpZ47BvGMncB2CXK8C" duration="2804323" release_date="2020-07-03"/>
+    <episodes name="#243 Krenka, LA lifestyle og henging med gutta" uri="spotify:episode:6T69ZWqcagwzQpgEV9fKnv" id="6T69ZWqcagwzQpgEV9fKnv" duration="3014008" release_date="2020-06-26"/>
+    <episodes name="#242 Black Trans Lives Matter, Paradise-baby og norsk Selena Gomez" uri="spotify:episode:7xfzualFg5NHFgvViys6OD" id="7xfzualFg5NHFgvViys6OD" explicit="true" duration="3355977" release_date="2020-06-19"/>
+    <episodes name="#241 Normal People og norske Hollywoodfruer" uri="spotify:episode:5zwAqGuiIMG3Rl6bNcxd4q" id="5zwAqGuiIMG3Rl6bNcxd4q" duration="3434318" release_date="2020-06-12"/>
+    <episodes name="#240 Black Lives Matter og Gullruten vs TikTok" uri="spotify:episode:2iq36dHtCgM96aeBpqAhbB" id="2iq36dHtCgM96aeBpqAhbB" duration="3404304" release_date="2020-06-05"/>
+    <episodes name="#239 Hipstere, Farmen og homofile Disney-karakterer" uri="spotify:episode:4tW53SZz4b09FrBKaO4Xj7" id="4tW53SZz4b09FrBKaO4Xj7" duration="3278315" release_date="2020-05-29"/>
+    <episodes name="#238 Motesladder, kjendispar og influencerl&#xf8;nn" uri="spotify:episode:4BZnzjLhdgH85Gf0XAznLi" id="4BZnzjLhdgH85Gf0XAznLi" duration="3357649" release_date="2020-05-22"/>
+    <episodes name="#237 Kjendismiddag, klining og Hollywood" uri="spotify:episode:18O8ROnX1MUHNSfN9THnX9" id="18O8ROnX1MUHNSfN9THnX9" duration="3225287" release_date="2020-05-15"/>
+    <episodes name="#236 Britney, Adele og Spellemann" uri="spotify:episode:3BM3uF5Tg3pGvFohg8R87h" id="3BM3uF5Tg3pGvFohg8R87h" duration="3566185" release_date="2020-05-08"/>
+    <episodes name="#235 Gigi, L&#xf8;renskog og verdens beste gjesteliste" uri="spotify:episode:4XkTUCeMi1rExU6IDjR97y" id="4XkTUCeMi1rExU6IDjR97y" duration="2701297" release_date="2020-05-01"/>
+    <episodes name="#234 Fyllamelding, kjendisfest og kred-klubb" uri="spotify:episode:39wL43zezwVnYphYMtIdKc" id="39wL43zezwVnYphYMtIdKc" duration="2340284" release_date="2020-04-28"/>
+    <episodes name="#233 Insta-snacks, nye vaner og livets pust" uri="spotify:episode:15XZdNfvX3uIKFzVg3afFR" id="15XZdNfvX3uIKFzVg3afFR" duration="2782563" release_date="2020-04-24"/>
+    <episodes name="#232 Bursdag, corona-konsert og to kjerringer" uri="spotify:episode:2Go6tmMEWkfKqXQzmnhGSX" id="2Go6tmMEWkfKqXQzmnhGSX" duration="2986057" release_date="2020-04-21"/>
+    <episodes name="#231 Scandinavian Star, 20-&#xe5;rene og rike kjendiser" uri="spotify:episode:1S9G8ifHAOPx47JHytH110" id="1S9G8ifHAOPx47JHytH110" explicit="true" duration="2704901" release_date="2020-04-17"/>
+    <episodes name="#230 Digital russefeiring, h&#xe5;rklipp og Call Me By Your Name #2" uri="spotify:episode:4oEgGXFi1wyrervOCootNa" id="4oEgGXFi1wyrervOCootNa" explicit="true" duration="2618044" release_date="2020-04-10"/>
+    <episodes name="#229 Ellen-rykter, babylansering og tr&#xf8;ndersang" uri="spotify:episode:73GVLBConkZbnuPU6sPURJ" id="73GVLBConkZbnuPU6sPURJ" duration="2971585" release_date="2020-04-07"/>
+    <episodes name="#228 Pride, trening p&#xe5; Insta og Tiger King" uri="spotify:episode:5ka7xObRLISJBsx28qnGPl" id="5ka7xObRLISJBsx28qnGPl" explicit="true" duration="2863125" release_date="2020-04-03"/>
+    <episodes name="#227 MGP-kritikk, konspirasjon og ny h&#xe5;rtrend" uri="spotify:episode:4LvsrNEdTZTkV7Kmc6i3YM" id="4LvsrNEdTZTkV7Kmc6i3YM" duration="1863289" release_date="2020-03-31"/>
+    <episodes name="#226 Pornhub, Queen Vegard og kjendiser i coronakrise" uri="spotify:episode:5GoQBk3IOWC8C0rdrqr4wV" id="5GoQBk3IOWC8C0rdrqr4wV" duration="2579540" release_date="2020-03-27"/>
+    <episodes name="#225 Kanye vs. Taylor, myyys i Sverige og Corona Police" uri="spotify:episode:3EDL5qFRLMXKXIHEW3XxnZ" id="3EDL5qFRLMXKXIHEW3XxnZ" duration="2918635" release_date="2020-03-24"/>
+    <episodes name="#224 Botoxkrise, Red Zone og Ernas &#xf8;yenskygge" uri="spotify:episode:4TwUebDVddmUCdZLPyApjp" id="4TwUebDVddmUCdZLPyApjp" explicit="true" duration="3092637" release_date="2020-03-20"/>
+    <episodes name="#223 Coronarapport og karantenetips" uri="spotify:episode:7JXUKtx4gUl8ZU1s4AAc0r" id="7JXUKtx4gUl8ZU1s4AAc0r" duration="2149016" release_date="2020-03-17"/>
+    <episodes name="#222 Klining med Lilli Bendriss, Durek og kjeft" uri="spotify:episode:2HyxMpKXdtAQE12DEjyvPP" id="2HyxMpKXdtAQE12DEjyvPP" explicit="true" duration="3377084" release_date="2020-03-13"/>
+  </shows>
+  <playlists name="Top 50 Global" tracks="//@albums.0/@tracks.0 //@albums.1/@tracks.10 //@albums.2/@tracks.1 //@albums.2/@tracks.2 //@albums.0/@tracks.5 //@albums.0/@tracks.3 //@albums.2/@tracks.4 //@albums.3/@tracks.1 //@albums.2/@tracks.6 //@albums.4/@tracks.0 //@albums.0/@tracks.8 //@albums.0/@tracks.7 //@albums.5/@tracks.11 //@albums.6/@tracks.0 //@albums.2/@tracks.9 //@albums.0/@tracks.14 //@albums.7/@tracks.0 //@albums.0/@tracks.11 //@albums.8/@tracks.8 //@albums.2/@tracks.10 //@albums.9/@tracks.1 //@albums.10/@tracks.0 //@albums.1/@tracks.4 //@albums.0/@tracks.12 //@albums.11/@tracks.16 //@albums.12/@tracks.0 //@albums.13/@tracks.7 //@albums.0/@tracks.13 //@albums.14/@tracks.0 //@albums.15/@tracks.0 //@albums.9/@tracks.7 //@albums.5/@tracks.1 //@albums.9/@tracks.3 //@albums.16/@tracks.0 //@albums.17/@tracks.8 //@albums.9/@tracks.2 //@albums.18/@tracks.3 //@albums.19/@tracks.14 //@albums.20/@tracks.0 //@albums.21/@tracks.1 //@albums.22/@tracks.0 //@albums.23/@tracks.6 //@albums.24/@tracks.0 //@albums.25/@tracks.3 //@albums.26/@tracks.0 //@albums.9/@tracks.4 //@albums.27/@tracks.2 //@albums.28/@tracks.0 //@albums.9/@tracks.8 //@albums.29/@tracks.1"/>
+  <albums name="evermore" uri="spotify:album:5jmVg7rwRcgd6ARPAeYNSm" id="5jmVg7rwRcgd6ARPAeYNSm" label="Taylor Swift" release_date="2020-12-10">
+    <tracks name="willow" uri="spotify:track:3Uo7WG0vmLQ07WB4BDwy7D" duration_ms="214706" id="3Uo7WG0vmLQ07WB4BDwy7D">
+      <artists name="Taylor Swift" uri="spotify:artist:06HL4z0CvFAxyc27GXpf02"/>
+    </tracks>
+    <tracks name="champagne problems" uri="spotify:track:6rap8NpGq8LDcVaJWkKFPn" duration_ms="244000" id="6rap8NpGq8LDcVaJWkKFPn">
+      <artists name="Taylor Swift" uri="spotify:artist:06HL4z0CvFAxyc27GXpf02"/>
+    </tracks>
+    <tracks name="gold rush" uri="spotify:track:2ZTKWFG6OtHI3ewy9OGNOY" duration_ms="185320" id="2ZTKWFG6OtHI3ewy9OGNOY">
+      <artists name="Taylor Swift" uri="spotify:artist:06HL4z0CvFAxyc27GXpf02"/>
+    </tracks>
+    <tracks name="&#x2018;tis the damn season" uri="spotify:track:4GBkffrtA51p17JH35irGA" duration_ms="229840" id="4GBkffrtA51p17JH35irGA">
+      <artists name="Taylor Swift" uri="spotify:artist:06HL4z0CvFAxyc27GXpf02"/>
+    </tracks>
+    <tracks name="tolerate it" uri="spotify:track:1t2M7UYoUpmhfZNMBsymJr" duration_ms="245440" id="1t2M7UYoUpmhfZNMBsymJr">
+      <artists name="Taylor Swift" uri="spotify:artist:06HL4z0CvFAxyc27GXpf02"/>
+    </tracks>
+    <tracks name="no body, no crime (feat. HAIM)" uri="spotify:track:6NriykdkRrjQMZo1sfVYUo" duration_ms="215626" id="6NriykdkRrjQMZo1sfVYUo">
+      <artists name="Taylor Swift" uri="spotify:artist:06HL4z0CvFAxyc27GXpf02"/>
+      <artists name="HAIM" uri="spotify:artist:4Ui2kfOqGujY81UcPrb5KE"/>
+    </tracks>
+    <tracks name="happiness" uri="spotify:track:0EFdoyXHpRHhEmsOlQhIXO" duration_ms="315146" id="0EFdoyXHpRHhEmsOlQhIXO">
+      <artists name="Taylor Swift" uri="spotify:artist:06HL4z0CvFAxyc27GXpf02"/>
+    </tracks>
+    <tracks name="dorothea" uri="spotify:track:3w9VRlKPvNxj40RdUGRweH" duration_ms="225880" id="3w9VRlKPvNxj40RdUGRweH">
+      <artists name="Taylor Swift" uri="spotify:artist:06HL4z0CvFAxyc27GXpf02"/>
+    </tracks>
+    <tracks name="coney island (feat. The National)" uri="spotify:track:4tyX1rw9X309WkEdh2As4B" duration_ms="275320" id="4tyX1rw9X309WkEdh2As4B">
+      <artists name="Taylor Swift" uri="spotify:artist:06HL4z0CvFAxyc27GXpf02"/>
+      <artists name="The National" uri="spotify:artist:2cCUtGK9sDU2EoElnk0GNB"/>
+    </tracks>
+    <tracks name="ivy" uri="spotify:track:7tXMHAFEOzcUaUQqovRGho" duration_ms="260440" id="7tXMHAFEOzcUaUQqovRGho">
+      <artists name="Taylor Swift" uri="spotify:artist:06HL4z0CvFAxyc27GXpf02"/>
+    </tracks>
+    <tracks name="cowboy like me" uri="spotify:track:3qy4znWySY3rwzS2vHDOeg" duration_ms="275040" id="3qy4znWySY3rwzS2vHDOeg">
+      <artists name="Taylor Swift" uri="spotify:artist:06HL4z0CvFAxyc27GXpf02"/>
+    </tracks>
+    <tracks name="long story short" uri="spotify:track:0vVMlbdYx2080Oa9FndPZr" duration_ms="215920" id="0vVMlbdYx2080Oa9FndPZr">
+      <artists name="Taylor Swift" uri="spotify:artist:06HL4z0CvFAxyc27GXpf02"/>
+    </tracks>
+    <tracks name="marjorie" uri="spotify:track:7vBNFh3NIZTj6tB5s1IBjE" duration_ms="257773" id="7vBNFh3NIZTj6tB5s1IBjE">
+      <artists name="Taylor Swift" uri="spotify:artist:06HL4z0CvFAxyc27GXpf02"/>
+    </tracks>
+    <tracks name="closure" uri="spotify:track:3uayvzcbqFydIbgUeC6EJh" duration_ms="180653" id="3uayvzcbqFydIbgUeC6EJh">
+      <artists name="Taylor Swift" uri="spotify:artist:06HL4z0CvFAxyc27GXpf02"/>
+    </tracks>
+    <tracks name="evermore (feat. Bon Iver)" uri="spotify:track:0AaV4MJrgmLV3XhoiWXjjb" duration_ms="304106" id="0AaV4MJrgmLV3XhoiWXjjb">
+      <artists name="Taylor Swift" uri="spotify:artist:06HL4z0CvFAxyc27GXpf02"/>
+      <artists name="Bon Iver" uri="spotify:artist:4LEiUm1SRbFMgfqnQTwUbQ"/>
+    </tracks>
+    <artist name="Taylor Swift" uri="spotify:artist:06HL4z0CvFAxyc27GXpf02"/>
+  </albums>
+  <albums name="EL &#xda;LTIMO TOUR DEL MUNDO" uri="spotify:album:2d9BCZeAAhiZWPpbX9aPCW" id="2d9BCZeAAhiZWPpbX9aPCW" label="Rimas Entertainment LLC" release_date="2020-11-27">
+    <tracks name="EL MUNDO ES M&#xcd;O" uri="spotify:track:36DHxTW2xdr9GG15T9oK9L" duration_ms="165199" id="36DHxTW2xdr9GG15T9oK9L">
+      <artists name="Bad Bunny" uri="spotify:artist:4q3ewBCX7sLwd24euuV69X"/>
+    </tracks>
+    <tracks name="TE MUDASTE" uri="spotify:track:5RubKOuDoPn5Kj5TLVxSxY" explicit="true" duration_ms="130013" id="5RubKOuDoPn5Kj5TLVxSxY">
+      <artists name="Bad Bunny" uri="spotify:artist:4q3ewBCX7sLwd24euuV69X"/>
+    </tracks>
+    <tracks name="HOY COBR&#xc9;" uri="spotify:track:0tjZv2hChdHZCW1zFXpy1J" explicit="true" duration_ms="162151" id="0tjZv2hChdHZCW1zFXpy1J">
+      <artists name="Bad Bunny" uri="spotify:artist:4q3ewBCX7sLwd24euuV69X"/>
+    </tracks>
+    <tracks name="MALDITA POBREZA" uri="spotify:track:0Lsis3LB0XAK6XlTHXaJk2" explicit="true" duration_ms="213609" id="0Lsis3LB0XAK6XlTHXaJk2">
+      <artists name="Bad Bunny" uri="spotify:artist:4q3ewBCX7sLwd24euuV69X"/>
+    </tracks>
+    <tracks name="LA NOCHE DE ANOCHE" uri="spotify:track:2XIc1pqjXV3Cr2BQUGNBck" duration_ms="203200" id="2XIc1pqjXV3Cr2BQUGNBck">
+      <artists name="Bad Bunny" uri="spotify:artist:4q3ewBCX7sLwd24euuV69X"/>
+      <artists name="ROSAL&#xcd;A" uri="spotify:artist:7ltDVBr6mKbRvohxheJ9h1"/>
+    </tracks>
+    <tracks name="TE DESEO LO MEJOR" uri="spotify:track:23XjN1s3DZC8Q9ZwuorYY4" explicit="true" duration_ms="139576" id="23XjN1s3DZC8Q9ZwuorYY4">
+      <artists name="Bad Bunny" uri="spotify:artist:4q3ewBCX7sLwd24euuV69X"/>
+    </tracks>
+    <tracks name="YO VISTO AS&#xcd;" uri="spotify:track:5fROvzNghPid8mbKNDYvpJ" duration_ms="191526" id="5fROvzNghPid8mbKNDYvpJ">
+      <artists name="Bad Bunny" uri="spotify:artist:4q3ewBCX7sLwd24euuV69X"/>
+    </tracks>
+    <tracks name="HACIENDO QUE ME AMAS" uri="spotify:track:26QApq0cuO9brJigr0C0W4" explicit="true" duration_ms="217768" id="26QApq0cuO9brJigr0C0W4">
+      <artists name="Bad Bunny" uri="spotify:artist:4q3ewBCX7sLwd24euuV69X"/>
+    </tracks>
+    <tracks name="BOOKER T" uri="spotify:track:26w9NTiE9NGjW1ZvIOd1So" explicit="true" duration_ms="156430" id="26w9NTiE9NGjW1ZvIOd1So">
+      <artists name="Bad Bunny" uri="spotify:artist:4q3ewBCX7sLwd24euuV69X"/>
+    </tracks>
+    <tracks name="LA DROGA" uri="spotify:track:67ACYA3UI6QMNtHX6b34wX" explicit="true" duration_ms="162299" id="67ACYA3UI6QMNtHX6b34wX">
+      <artists name="Bad Bunny" uri="spotify:artist:4q3ewBCX7sLwd24euuV69X"/>
+    </tracks>
+    <tracks name="D&#xc1;KITI" uri="spotify:track:4MzXwWMhyBbmu6hOcLVD49" explicit="true" duration_ms="205090" id="4MzXwWMhyBbmu6hOcLVD49">
+      <artists name="Bad Bunny" uri="spotify:artist:4q3ewBCX7sLwd24euuV69X"/>
+      <artists name="Jhay Cortez" uri="spotify:artist:0EFisYRi20PTADoJrifHrz"/>
+    </tracks>
+    <tracks name="TRELLAS" uri="spotify:track:09WAnxdBuebQopKhJT3oZS" duration_ms="157673" id="09WAnxdBuebQopKhJT3oZS">
+      <artists name="Bad Bunny" uri="spotify:artist:4q3ewBCX7sLwd24euuV69X"/>
+    </tracks>
+    <tracks name="SORRY PAPI" uri="spotify:track:5jZ32WOU7sqzDYbzINwMUk" explicit="true" duration_ms="163053" id="5jZ32WOU7sqzDYbzINwMUk">
+      <artists name="Bad Bunny" uri="spotify:artist:4q3ewBCX7sLwd24euuV69X"/>
+      <artists name="ABRA" uri="spotify:artist:3ZJxEmjYZd5VOqZ8o3aXiL"/>
+    </tracks>
+    <tracks name="120" uri="spotify:track:3KJ3opyV29269SXkPrc19l" explicit="true" duration_ms="151506" id="3KJ3opyV29269SXkPrc19l">
+      <artists name="Bad Bunny" uri="spotify:artist:4q3ewBCX7sLwd24euuV69X"/>
+    </tracks>
+    <tracks name="ANTES QUE SE ACABE" uri="spotify:track:7kjEqI6eZ7YlFrGhxixnlN" duration_ms="221186" id="7kjEqI6eZ7YlFrGhxixnlN">
+      <artists name="Bad Bunny" uri="spotify:artist:4q3ewBCX7sLwd24euuV69X"/>
+    </tracks>
+    <tracks name="CANTARES DE NAVIDAD" uri="spotify:track:2Iv6YBslkxslMJQsxshZh5" duration_ms="199720" id="2Iv6YBslkxslMJQsxshZh5">
+      <artists name="Trio Vegabaje&#xf1;o" uri="spotify:artist:5TphiK6LsT4X5NOZxq3NJB"/>
+    </tracks>
+    <artist name="Bad Bunny" uri="spotify:artist:4q3ewBCX7sLwd24euuV69X"/>
+  </albums>
+  <albums name="evermore" uri="spotify:album:2Xoteh7uEpea4TohMxjtaq" id="2Xoteh7uEpea4TohMxjtaq" label="Taylor Swift" release_date="2020-12-11">
+    <tracks name="willow" uri="spotify:track:0lx2cLdOt3piJbcaXIV74f" duration_ms="214706" id="0lx2cLdOt3piJbcaXIV74f">
+      <artists name="Taylor Swift" uri="spotify:artist:06HL4z0CvFAxyc27GXpf02"/>
+    </tracks>
+    <tracks name="champagne problems" uri="spotify:track:0sY6ZUTh4yoctD8VIXz339" explicit="true" duration_ms="244000" id="0sY6ZUTh4yoctD8VIXz339">
+      <artists name="Taylor Swift" uri="spotify:artist:06HL4z0CvFAxyc27GXpf02"/>
+    </tracks>
+    <tracks name="gold rush" uri="spotify:track:5BK0uqwY9DNfZ630STAEaq" explicit="true" duration_ms="185320" id="5BK0uqwY9DNfZ630STAEaq">
+      <artists name="Taylor Swift" uri="spotify:artist:06HL4z0CvFAxyc27GXpf02"/>
+    </tracks>
+    <tracks name="&#x2018;tis the damn season" uri="spotify:track:7dW84mWkdWE5a6lFWxJCBG" duration_ms="229840" id="7dW84mWkdWE5a6lFWxJCBG">
+      <artists name="Taylor Swift" uri="spotify:artist:06HL4z0CvFAxyc27GXpf02"/>
+    </tracks>
+    <tracks name="tolerate it" uri="spotify:track:0PurA4JVJ8YQgSVopY8fn6" explicit="true" duration_ms="245440" id="0PurA4JVJ8YQgSVopY8fn6">
+      <artists name="Taylor Swift" uri="spotify:artist:06HL4z0CvFAxyc27GXpf02"/>
+    </tracks>
+    <tracks name="no body, no crime (feat. HAIM)" uri="spotify:track:3RaT22zZsxVYxxKR7TAaYF" duration_ms="215626" id="3RaT22zZsxVYxxKR7TAaYF">
+      <artists name="Taylor Swift" uri="spotify:artist:06HL4z0CvFAxyc27GXpf02"/>
+      <artists name="HAIM" uri="spotify:artist:4Ui2kfOqGujY81UcPrb5KE"/>
+    </tracks>
+    <tracks name="happiness" uri="spotify:track:73YUReisjb3A9ActdLLjJQ" explicit="true" duration_ms="315146" id="73YUReisjb3A9ActdLLjJQ">
+      <artists name="Taylor Swift" uri="spotify:artist:06HL4z0CvFAxyc27GXpf02"/>
+    </tracks>
+    <tracks name="dorothea" uri="spotify:track:670fUmXf4KQekzbEgaXyPA" duration_ms="225880" id="670fUmXf4KQekzbEgaXyPA">
+      <artists name="Taylor Swift" uri="spotify:artist:06HL4z0CvFAxyc27GXpf02"/>
+    </tracks>
+    <tracks name="coney island (feat. The National)" uri="spotify:track:3k7ne7VmH43ZPWxPdvPUgR" duration_ms="275320" id="3k7ne7VmH43ZPWxPdvPUgR">
+      <artists name="Taylor Swift" uri="spotify:artist:06HL4z0CvFAxyc27GXpf02"/>
+      <artists name="The National" uri="spotify:artist:2cCUtGK9sDU2EoElnk0GNB"/>
+    </tracks>
+    <tracks name="ivy" uri="spotify:track:19CSr8rwW05VJL2F91KFNK" explicit="true" duration_ms="260440" id="19CSr8rwW05VJL2F91KFNK">
+      <artists name="Taylor Swift" uri="spotify:artist:06HL4z0CvFAxyc27GXpf02"/>
+    </tracks>
+    <tracks name="cowboy like me" uri="spotify:track:1XjHRolIXL2M1EEOUsGGR4" explicit="true" duration_ms="275040" id="1XjHRolIXL2M1EEOUsGGR4">
+      <artists name="Taylor Swift" uri="spotify:artist:06HL4z0CvFAxyc27GXpf02"/>
+    </tracks>
+    <tracks name="long story short" uri="spotify:track:2o2sgVJIgFXk8GQjWTgI6U" duration_ms="215920" id="2o2sgVJIgFXk8GQjWTgI6U">
+      <artists name="Taylor Swift" uri="spotify:artist:06HL4z0CvFAxyc27GXpf02"/>
+    </tracks>
+    <tracks name="marjorie" uri="spotify:track:12ntTeqEeTg7GAVpe8Mhpl" duration_ms="257773" id="12ntTeqEeTg7GAVpe8Mhpl">
+      <artists name="Taylor Swift" uri="spotify:artist:06HL4z0CvFAxyc27GXpf02"/>
+    </tracks>
+    <tracks name="closure" uri="spotify:track:35rdVq36LMHQX0Suw9a6tK" duration_ms="180653" id="35rdVq36LMHQX0Suw9a6tK">
+      <artists name="Taylor Swift" uri="spotify:artist:06HL4z0CvFAxyc27GXpf02"/>
+    </tracks>
+    <tracks name="evermore (feat. Bon Iver)" uri="spotify:track:3O5osWf1rSoKMwe6E9ZaXP" duration_ms="304106" id="3O5osWf1rSoKMwe6E9ZaXP">
+      <artists name="Taylor Swift" uri="spotify:artist:06HL4z0CvFAxyc27GXpf02"/>
+      <artists name="Bon Iver" uri="spotify:artist:4LEiUm1SRbFMgfqnQTwUbQ"/>
+    </tracks>
+    <artist name="Taylor Swift" uri="spotify:artist:06HL4z0CvFAxyc27GXpf02"/>
+  </albums>
+  <albums name="Merry Christmas" uri="spotify:album:61ulfFSmmxMhc2wCdmdMkN" id="61ulfFSmmxMhc2wCdmdMkN" label="Columbia" release_date="1994-11-01">
+    <tracks name="Silent Night" uri="spotify:track:1sFWEpf1aPYN576LS1aa4Y" duration_ms="219293" id="1sFWEpf1aPYN576LS1aa4Y">
+      <artists name="Mariah Carey" uri="spotify:artist:4iHNK0tOyZPYnBU7nGAgpQ"/>
+    </tracks>
+    <tracks name="All I Want for Christmas Is You" uri="spotify:track:0bYg9bo50gSsH3LtXe2SQn" duration_ms="241106" id="0bYg9bo50gSsH3LtXe2SQn">
+      <artists name="Mariah Carey" uri="spotify:artist:4iHNK0tOyZPYnBU7nGAgpQ"/>
+    </tracks>
+    <tracks name="O Holy Night" uri="spotify:track:3B7FO3kJ5kv3mX7yiaB7sT" duration_ms="266933" id="3B7FO3kJ5kv3mX7yiaB7sT">
+      <artists name="Mariah Carey" uri="spotify:artist:4iHNK0tOyZPYnBU7nGAgpQ"/>
+    </tracks>
+    <tracks name="Christmas (Baby Please Come Home)" uri="spotify:track:3PIDciSFdrQxSQSihim3hN" duration_ms="153240" id="3PIDciSFdrQxSQSihim3hN">
+      <artists name="Mariah Carey" uri="spotify:artist:4iHNK0tOyZPYnBU7nGAgpQ"/>
+    </tracks>
+    <tracks name="Miss You Most (At Christmas Time)" uri="spotify:track:1uQRAiaDstq15Vd52ryoI7" duration_ms="271560" id="1uQRAiaDstq15Vd52ryoI7">
+      <artists name="Mariah Carey" uri="spotify:artist:4iHNK0tOyZPYnBU7nGAgpQ"/>
+    </tracks>
+    <tracks name="Joy to the World" uri="spotify:track:2OggiWqL8exckT6kOrcDuA" duration_ms="257933" id="2OggiWqL8exckT6kOrcDuA">
+      <artists name="Mariah Carey" uri="spotify:artist:4iHNK0tOyZPYnBU7nGAgpQ"/>
+    </tracks>
+    <tracks name="Jesus Born on This Day" uri="spotify:track:6AoXseJVabZFmKEYjQCXPS" duration_ms="220840" id="6AoXseJVabZFmKEYjQCXPS">
+      <artists name="Mariah Carey" uri="spotify:artist:4iHNK0tOyZPYnBU7nGAgpQ"/>
+    </tracks>
+    <tracks name="Santa Claus Is Comin' to Town" uri="spotify:track:1f2lkuLldqRzvaFjJdjGXX" duration_ms="204173" id="1f2lkuLldqRzvaFjJdjGXX">
+      <artists name="Mariah Carey" uri="spotify:artist:4iHNK0tOyZPYnBU7nGAgpQ"/>
+    </tracks>
+    <tracks name="Hark! The Herald Angels Sing / Gloria (In Excelsis Deo)" uri="spotify:track:74VQqRHWXDUyErPqwdeG5D" duration_ms="179440" id="74VQqRHWXDUyErPqwdeG5D">
+      <artists name="Mariah Carey" uri="spotify:artist:4iHNK0tOyZPYnBU7nGAgpQ"/>
+    </tracks>
+    <tracks name="Jesus Oh What a Wonderful Child" uri="spotify:track:7zAoR3Od28Xj97fTLgnaGi" duration_ms="266226" id="7zAoR3Od28Xj97fTLgnaGi">
+      <artists name="Mariah Carey" uri="spotify:artist:4iHNK0tOyZPYnBU7nGAgpQ"/>
+    </tracks>
+    <artist name="Mariah Carey" uri="spotify:artist:4iHNK0tOyZPYnBU7nGAgpQ"/>
+  </albums>
+  <albums name="LAST CHRISTMAS" uri="spotify:album:6egzU9NKfora01qaNbvwfZ" id="6egzU9NKfora01qaNbvwfZ" label="Epic" release_date="1984-11-29">
+    <tracks name="Last Christmas" uri="spotify:track:2FRnf9qhLbvw8fu4IBXx78" duration_ms="262960" id="2FRnf9qhLbvw8fu4IBXx78">
+      <artists name="Wham!" uri="spotify:artist:5lpH0xAS4fVfLkACg9DAuM"/>
+    </tracks>
+    <tracks name="Last Christmas - Pudding Mix" uri="spotify:track:73OZT1XgLleDwperqGjWH4" duration_ms="398466" id="73OZT1XgLleDwperqGjWH4">
+      <artists name="Wham!" uri="spotify:artist:5lpH0xAS4fVfLkACg9DAuM"/>
+    </tracks>
+    <tracks name="Everything She Wants" uri="spotify:track:4GSIXi1NcsvfWQtZXyPYfy" duration_ms="328333" id="4GSIXi1NcsvfWQtZXyPYfy">
+      <artists name="Wham!" uri="spotify:artist:5lpH0xAS4fVfLkACg9DAuM"/>
+    </tracks>
+    <artist name="Wham!" uri="spotify:artist:5lpH0xAS4fVfLkACg9DAuM"/>
+  </albums>
+  <albums name="Positions" uri="spotify:album:3euz4vS7ezKGnNSwgyvKcd" id="3euz4vS7ezKGnNSwgyvKcd" label="Republic Records" release_date="2020-10-30">
+    <tracks name="shut up" uri="spotify:track:3ko9jEHNt4O5fjKN65ULJp" explicit="true" duration_ms="157710" id="3ko9jEHNt4O5fjKN65ULJp">
+      <artists name="Ariana Grande" uri="spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"/>
+    </tracks>
+    <tracks name="34+35" uri="spotify:track:6Im9k8u9iIzKMrmV7BWtlF" explicit="true" duration_ms="173710" id="6Im9k8u9iIzKMrmV7BWtlF">
+      <artists name="Ariana Grande" uri="spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"/>
+    </tracks>
+    <tracks name="motive (with Doja Cat)" uri="spotify:track:5GkQIP5mWPi4KZLLXeuFTT" explicit="true" duration_ms="167989" id="5GkQIP5mWPi4KZLLXeuFTT">
+      <artists name="Ariana Grande" uri="spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"/>
+      <artists name="Doja Cat" uri="spotify:artist:5cj0lLjcoR7YOSnhnX0Po5"/>
+    </tracks>
+    <tracks name="just like magic" uri="spotify:track:7Dx9Z6Aon1qPS2N0rHSWTe" explicit="true" duration_ms="149900" id="7Dx9Z6Aon1qPS2N0rHSWTe">
+      <artists name="Ariana Grande" uri="spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"/>
+    </tracks>
+    <tracks name="off the table (with The Weeknd)" uri="spotify:track:7E1jVNoWuemqUryI4FxsVD" duration_ms="239949" id="7E1jVNoWuemqUryI4FxsVD">
+      <artists name="Ariana Grande" uri="spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"/>
+      <artists name="The Weeknd" uri="spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"/>
+    </tracks>
+    <tracks name="six thirty" uri="spotify:track:2IKJtXeR5UsaUjZB46fTOK" explicit="true" duration_ms="183874" id="2IKJtXeR5UsaUjZB46fTOK">
+      <artists name="Ariana Grande" uri="spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"/>
+    </tracks>
+    <tracks name="safety net (feat. Ty Dolla $ign)" uri="spotify:track:14gkWVFMwdxBMyqBw1wmIg" duration_ms="208457" id="14gkWVFMwdxBMyqBw1wmIg">
+      <artists name="Ariana Grande" uri="spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"/>
+      <artists name="Ty Dolla $ign" uri="spotify:artist:7c0XG5cIJTrrAgEC3ULPiq"/>
+    </tracks>
+    <tracks name="my hair" uri="spotify:track:6u7gmPOz7pzzaeR9xSBpsR" duration_ms="158436" id="6u7gmPOz7pzzaeR9xSBpsR">
+      <artists name="Ariana Grande" uri="spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"/>
+    </tracks>
+    <tracks name="nasty" uri="spotify:track:0sci7ppTZFm4mjcH3nu8yO" explicit="true" duration_ms="200732" id="0sci7ppTZFm4mjcH3nu8yO">
+      <artists name="Ariana Grande" uri="spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"/>
+    </tracks>
+    <tracks name="west side" uri="spotify:track:1whfVLMKWqAX3uk97VXsNN" duration_ms="132278" id="1whfVLMKWqAX3uk97VXsNN">
+      <artists name="Ariana Grande" uri="spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"/>
+    </tracks>
+    <tracks name="love language" uri="spotify:track:6NYtLvyThMT0oALFdJFdzq" explicit="true" duration_ms="179860" id="6NYtLvyThMT0oALFdJFdzq">
+      <artists name="Ariana Grande" uri="spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"/>
+    </tracks>
+    <tracks name="positions" uri="spotify:track:35mvY5S1H3J2QZyna3TFe0" explicit="true" duration_ms="172324" id="35mvY5S1H3J2QZyna3TFe0">
+      <artists name="Ariana Grande" uri="spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"/>
+    </tracks>
+    <tracks name="obvious" uri="spotify:track:0q85C1JiECyYIQthz1posA" explicit="true" duration_ms="146958" id="0q85C1JiECyYIQthz1posA">
+      <artists name="Ariana Grande" uri="spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"/>
+    </tracks>
+    <tracks name="pov" uri="spotify:track:3UoULw70kMsiVXxW0L3A33" duration_ms="201882" id="3UoULw70kMsiVXxW0L3A33">
+      <artists name="Ariana Grande" uri="spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"/>
+    </tracks>
+    <artist name="Ariana Grande" uri="spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"/>
+  </albums>
+  <albums name="Mood (feat. iann dior)" uri="spotify:album:4YMnOf4a7obOcN1Gy2QEuM" id="4YMnOf4a7obOcN1Gy2QEuM" label="Records/Columbia" release_date="2020-07-24">
+    <tracks name="Mood (feat. iann dior)" uri="spotify:track:3tjFYV6RSFtuktYl3ZtYcq" explicit="true" duration_ms="140525" id="3tjFYV6RSFtuktYl3ZtYcq">
+      <artists name="24kGoldn" uri="spotify:artist:6fWVd57NKTalqvmjRd2t8Z"/>
+      <artists name="iann dior" uri="spotify:artist:6ASri4ePR7RlsvIQgWPJpS"/>
+    </tracks>
+    <artist name="24kGoldn" uri="spotify:artist:6fWVd57NKTalqvmjRd2t8Z"/>
+  </albums>
+  <albums name="BICHOTA" uri="spotify:album:6LO6I2uJMkc0u7GHBYHa4Y" id="6LO6I2uJMkc0u7GHBYHa4Y" label="UMLE - Latino" release_date="2020-10-23">
+    <tracks name="BICHOTA" uri="spotify:track:7vrJn5hDSXRmdXoR30KgF1" explicit="true" duration_ms="178946" id="7vrJn5hDSXRmdXoR30KgF1">
+      <artists name="KAROL G" uri="spotify:artist:790FomKkXshlbRYZFtlgla"/>
+    </tracks>
+    <artist name="KAROL G" uri="spotify:artist:790FomKkXshlbRYZFtlgla"/>
+  </albums>
+  <albums name="After Hours" uri="spotify:album:4yP0hdKOZPNshxUOjY0cZj" id="4yP0hdKOZPNshxUOjY0cZj" label="Republic Records" release_date="2020-03-20">
+    <tracks name="Alone Again" uri="spotify:track:6b5P51m8xx2XA6U7sdNZ5E" explicit="true" duration_ms="250053" id="6b5P51m8xx2XA6U7sdNZ5E">
+      <artists name="The Weeknd" uri="spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"/>
+    </tracks>
+    <tracks name="Too Late" uri="spotify:track:2K9Ovn1o2bTGqbsABGC6m3" explicit="true" duration_ms="239973" id="2K9Ovn1o2bTGqbsABGC6m3">
+      <artists name="The Weeknd" uri="spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"/>
+    </tracks>
+    <tracks name="Hardest To Love" uri="spotify:track:6kWxIqQDsKFYCJGbU4AjCX" explicit="true" duration_ms="211400" id="6kWxIqQDsKFYCJGbU4AjCX">
+      <artists name="The Weeknd" uri="spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"/>
+    </tracks>
+    <tracks name="Scared To Live" uri="spotify:track:4BGZF4oLbTL0pWm7C18pbv" explicit="true" duration_ms="191306" id="4BGZF4oLbTL0pWm7C18pbv">
+      <artists name="The Weeknd" uri="spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"/>
+    </tracks>
+    <tracks name="Snowchild" uri="spotify:track:3WlbeuhfRSqU7ylK2Ui5U7" explicit="true" duration_ms="247186" id="3WlbeuhfRSqU7ylK2Ui5U7">
+      <artists name="The Weeknd" uri="spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"/>
+    </tracks>
+    <tracks name="Escape From LA" uri="spotify:track:1sOW4PuG5X3Ie3EXUhAopJ" explicit="true" duration_ms="355960" id="1sOW4PuG5X3Ie3EXUhAopJ">
+      <artists name="The Weeknd" uri="spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"/>
+    </tracks>
+    <tracks name="Heartless" uri="spotify:track:6bnF93Rx87YqUBLSgjiMU8" explicit="true" duration_ms="198266" id="6bnF93Rx87YqUBLSgjiMU8">
+      <artists name="The Weeknd" uri="spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"/>
+    </tracks>
+    <tracks name="Faith" uri="spotify:track:3orEOtd8CPL8GFlpRpKuoE" explicit="true" duration_ms="283226" id="3orEOtd8CPL8GFlpRpKuoE">
+      <artists name="The Weeknd" uri="spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"/>
+    </tracks>
+    <tracks name="Blinding Lights" uri="spotify:track:0VjIjW4GlUZAMYd2vXMi3b" duration_ms="200040" id="0VjIjW4GlUZAMYd2vXMi3b">
+      <artists name="The Weeknd" uri="spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"/>
+    </tracks>
+    <tracks name="In Your Eyes" uri="spotify:track:7szuecWAPwGoV1e5vGu8tl" explicit="true" duration_ms="237520" id="7szuecWAPwGoV1e5vGu8tl">
+      <artists name="The Weeknd" uri="spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"/>
+    </tracks>
+    <tracks name="Save Your Tears" uri="spotify:track:5QO79kh1waicV47BqGRL3g" explicit="true" duration_ms="215626" id="5QO79kh1waicV47BqGRL3g">
+      <artists name="The Weeknd" uri="spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"/>
+    </tracks>
+    <tracks name="Repeat After Me (Interlude)" uri="spotify:track:40U8d12pC5UHqmHwXjHjjl" explicit="true" duration_ms="195813" id="40U8d12pC5UHqmHwXjHjjl">
+      <artists name="The Weeknd" uri="spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"/>
+    </tracks>
+    <tracks name="After Hours" uri="spotify:track:2p8IUWQDrpjuFltbdgLOag" duration_ms="361026" id="2p8IUWQDrpjuFltbdgLOag">
+      <artists name="The Weeknd" uri="spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"/>
+    </tracks>
+    <tracks name="Until I Bleed Out" uri="spotify:track:2BcnxwxBuar5wjCaLqm5N3" explicit="true" duration_ms="190173" id="2BcnxwxBuar5wjCaLqm5N3">
+      <artists name="The Weeknd" uri="spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"/>
+    </tracks>
+    <artist name="The Weeknd" uri="spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"/>
+  </albums>
+  <albums name="Man On The Moon III: The Chosen" uri="spotify:album:64nbgEEIcY4g1ElVLONJ0w" id="64nbgEEIcY4g1ElVLONJ0w" label="Republic Records" release_date="2020-12-11">
+    <tracks name="Beautiful Trip" uri="spotify:track:4IIuCotvqijraSdnVLaFnM" duration_ms="37013" id="4IIuCotvqijraSdnVLaFnM">
+      <artists name="Kid Cudi" uri="spotify:artist:0fA0VVWsXO9YnASrzqfmYu"/>
+    </tracks>
+    <tracks name="Tequila Shots" uri="spotify:track:30KctD1WsHKTIYczXjip5a" explicit="true" duration_ms="193293" id="30KctD1WsHKTIYczXjip5a">
+      <artists name="Kid Cudi" uri="spotify:artist:0fA0VVWsXO9YnASrzqfmYu"/>
+    </tracks>
+    <tracks name="Another Day" uri="spotify:track:6myUpr3GDR80Dg3zqNTmmG" explicit="true" duration_ms="199786" id="6myUpr3GDR80Dg3zqNTmmG">
+      <artists name="Kid Cudi" uri="spotify:artist:0fA0VVWsXO9YnASrzqfmYu"/>
+    </tracks>
+    <tracks name="She Knows This" uri="spotify:track:1xzUQMiCoY5pdego0pHMeV" explicit="true" duration_ms="216560" id="1xzUQMiCoY5pdego0pHMeV">
+      <artists name="Kid Cudi" uri="spotify:artist:0fA0VVWsXO9YnASrzqfmYu"/>
+    </tracks>
+    <tracks name="Dive" uri="spotify:track:7Hc3YL8oDiAzbiAW32KXrw" explicit="true" duration_ms="148706" id="7Hc3YL8oDiAzbiAW32KXrw">
+      <artists name="Kid Cudi" uri="spotify:artist:0fA0VVWsXO9YnASrzqfmYu"/>
+    </tracks>
+    <tracks name="Damaged" uri="spotify:track:2n7Ao4nyESBa5ti8gcAbBt" explicit="true" duration_ms="150853" id="2n7Ao4nyESBa5ti8gcAbBt">
+      <artists name="Kid Cudi" uri="spotify:artist:0fA0VVWsXO9YnASrzqfmYu"/>
+    </tracks>
+    <tracks name="Heaven On Earth" uri="spotify:track:2koUj1Fn5TKFEkChSmBPIb" explicit="true" duration_ms="201093" id="2koUj1Fn5TKFEkChSmBPIb">
+      <artists name="Kid Cudi" uri="spotify:artist:0fA0VVWsXO9YnASrzqfmYu"/>
+    </tracks>
+    <tracks name="Show Out (with Skepta &amp; Pop Smoke)" uri="spotify:track:5CFJRZRq6sdKKtRwNPWbYv" explicit="true" duration_ms="174960" id="5CFJRZRq6sdKKtRwNPWbYv">
+      <artists name="Kid Cudi" uri="spotify:artist:0fA0VVWsXO9YnASrzqfmYu"/>
+      <artists name="Skepta" uri="spotify:artist:2p1fiYHYiXz9qi0JJyxBzN"/>
+      <artists name="Pop Smoke" uri="spotify:artist:0eDvMgVFoNV3TpwtrVCoTj"/>
+    </tracks>
+    <tracks name="Mr. Solo Dolo III" uri="spotify:track:27oVCAziETRbNuo5A8LNpg" explicit="true" duration_ms="242266" id="27oVCAziETRbNuo5A8LNpg">
+      <artists name="Kid Cudi" uri="spotify:artist:0fA0VVWsXO9YnASrzqfmYu"/>
+    </tracks>
+    <tracks name="Sad People" uri="spotify:track:4nuAslShoN77tq12fzwjUq" explicit="true" duration_ms="176026" id="4nuAslShoN77tq12fzwjUq">
+      <artists name="Kid Cudi" uri="spotify:artist:0fA0VVWsXO9YnASrzqfmYu"/>
+    </tracks>
+    <tracks name="Elsie's Baby Boy (flashback)" uri="spotify:track:6jiwr6xTHqjdun5d3cEwXV" explicit="true" duration_ms="219213" id="6jiwr6xTHqjdun5d3cEwXV">
+      <artists name="Kid Cudi" uri="spotify:artist:0fA0VVWsXO9YnASrzqfmYu"/>
+    </tracks>
+    <tracks name="Sept. 16" uri="spotify:track:3Uw2se3aQU1UFrpRBvBnB4" duration_ms="249040" id="3Uw2se3aQU1UFrpRBvBnB4">
+      <artists name="Kid Cudi" uri="spotify:artist:0fA0VVWsXO9YnASrzqfmYu"/>
+    </tracks>
+    <tracks name="The Void" uri="spotify:track:2yg7MXp8nSPaf61HVkhEr3" explicit="true" duration_ms="325413" id="2yg7MXp8nSPaf61HVkhEr3">
+      <artists name="Kid Cudi" uri="spotify:artist:0fA0VVWsXO9YnASrzqfmYu"/>
+    </tracks>
+    <tracks name="Lovin&#x2019; Me (feat. Phoebe Bridgers)" uri="spotify:track:3JdwGk8j7lHN5qdzJZklam" duration_ms="165893" id="3JdwGk8j7lHN5qdzJZklam">
+      <artists name="Kid Cudi" uri="spotify:artist:0fA0VVWsXO9YnASrzqfmYu"/>
+      <artists name="Phoebe Bridgers" uri="spotify:artist:1r1uxoy19fzMxunt3ONAkG"/>
+    </tracks>
+    <tracks name="The Pale Moonlight" uri="spotify:track:4EjbAh7YHU3VARkfkamZ8R" explicit="true" duration_ms="176293" id="4EjbAh7YHU3VARkfkamZ8R">
+      <artists name="Kid Cudi" uri="spotify:artist:0fA0VVWsXO9YnASrzqfmYu"/>
+    </tracks>
+    <tracks name="Rockstar Knights (with Trippie Redd)" uri="spotify:track:4J9SI7do4KOEsCexqEbjmR" explicit="true" duration_ms="231466" id="4J9SI7do4KOEsCexqEbjmR">
+      <artists name="Kid Cudi" uri="spotify:artist:0fA0VVWsXO9YnASrzqfmYu"/>
+      <artists name="Trippie Redd" uri="spotify:artist:6Xgp2XMz1fhVYe7i6yNAax"/>
+    </tracks>
+    <tracks name="4 Da Kidz" uri="spotify:track:2ZDRkJrKbceJRgLKkuex14" explicit="true" duration_ms="184240" id="2ZDRkJrKbceJRgLKkuex14">
+      <artists name="Kid Cudi" uri="spotify:artist:0fA0VVWsXO9YnASrzqfmYu"/>
+    </tracks>
+    <tracks name="Lord I Know" uri="spotify:track:7f2voPcnDEAzX4yB8SLnU2" explicit="true" duration_ms="212040" id="7f2voPcnDEAzX4yB8SLnU2">
+      <artists name="Kid Cudi" uri="spotify:artist:0fA0VVWsXO9YnASrzqfmYu"/>
+    </tracks>
+    <artist name="Kid Cudi" uri="spotify:artist:0fA0VVWsXO9YnASrzqfmYu"/>
+  </albums>
+  <albums name="Santa Tell Me" uri="spotify:album:27MNgBEnLCKoafz1g2Zu97" id="27MNgBEnLCKoafz1g2Zu97" label="Universal Records" release_date="2014-11-24">
+    <tracks name="Santa Tell Me" uri="spotify:track:0lizgQ7Qw35od7CYaoMBZb" duration_ms="204093" id="0lizgQ7Qw35od7CYaoMBZb">
+      <artists name="Ariana Grande" uri="spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"/>
+    </tracks>
+    <artist name="Ariana Grande" uri="spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"/>
+  </albums>
+  <albums name="B4 The Storm" uri="spotify:album:2vGU0DOcfsDee0euvhl1iZ" id="2vGU0DOcfsDee0euvhl1iZ" label="Internet Money Records/ TenThousand Projects" release_date="2020-08-28">
+    <tracks name="Message (feat. TyFontaine)" uri="spotify:track:24rdY7YxaEBcOGOtkDEKVe" explicit="true" duration_ms="88888" id="24rdY7YxaEBcOGOtkDEKVe">
+      <artists name="Internet Money" uri="spotify:artist:6MPCFvOQv5cIGfw3jODMF0"/>
+      <artists name="TyFontaine" uri="spotify:artist:3U1jsFYwwJHv7VB4Frf3F4"/>
+    </tracks>
+    <tracks name="Really Redd (feat. Trippie Redd, Lil Keed, Young Nudy)" uri="spotify:track:6JaehWULm97mbTTVxQXQAY" explicit="true" duration_ms="186000" id="6JaehWULm97mbTTVxQXQAY">
+      <artists name="Internet Money" uri="spotify:artist:6MPCFvOQv5cIGfw3jODMF0"/>
+      <artists name="Trippie Redd" uri="spotify:artist:6Xgp2XMz1fhVYe7i6yNAax"/>
+      <artists name="Lil Keed" uri="spotify:artist:3uJx5SnOM59Li7lCxA3b29"/>
+      <artists name="Young Nudy" uri="spotify:artist:5yPzzu25VzEk8qrGTLIrE1"/>
+    </tracks>
+    <tracks name="Lost Me (feat. Lil Mosey, iann dior &amp; Lil Skies)" uri="spotify:track:4k6ag7W7KJLM8QcdhvgXVN" explicit="true" duration_ms="178329" id="4k6ag7W7KJLM8QcdhvgXVN">
+      <artists name="Internet Money" uri="spotify:artist:6MPCFvOQv5cIGfw3jODMF0"/>
+      <artists name="iann dior" uri="spotify:artist:6ASri4ePR7RlsvIQgWPJpS"/>
+      <artists name="Lil Skies" uri="spotify:artist:7d3WFRME3vBY2cgoP38RDo"/>
+      <artists name="Lil Mosey" uri="spotify:artist:5zctI4wO9XSKS8XwcnqEHk"/>
+    </tracks>
+    <tracks name="Right Now (feat. Cochise &amp; TyFontaine)" uri="spotify:track:76dwa2dQdnKiZ3V0zzPrfj" explicit="true" duration_ms="178064" id="76dwa2dQdnKiZ3V0zzPrfj">
+      <artists name="Internet Money" uri="spotify:artist:6MPCFvOQv5cIGfw3jODMF0"/>
+      <artists name="TyFontaine" uri="spotify:artist:3U1jsFYwwJHv7VB4Frf3F4"/>
+      <artists name="Cochise" uri="spotify:artist:46HzS7yz0c9udVwtbHk1sx"/>
+    </tracks>
+    <tracks name="Familiar (feat. TheHxliday)" uri="spotify:track:7sNcVgHG52lT2e1rDYcWFx" explicit="true" duration_ms="159018" id="7sNcVgHG52lT2e1rDYcWFx">
+      <artists name="Internet Money" uri="spotify:artist:6MPCFvOQv5cIGfw3jODMF0"/>
+      <artists name="TheHxliday" uri="spotify:artist:2e3LzbZx1VP4wBNFCaxZVD"/>
+    </tracks>
+    <tracks name="JLO (feat. Lil Tecca)" uri="spotify:track:4kK0SDeGHtCtZwN52nhg6L" explicit="true" duration_ms="163636" id="4kK0SDeGHtCtZwN52nhg6L">
+      <artists name="Internet Money" uri="spotify:artist:6MPCFvOQv5cIGfw3jODMF0"/>
+      <artists name="Lil Tecca" uri="spotify:artist:4Ga1P7PMIsmqEZqhYZQgDo"/>
+    </tracks>
+    <tracks name="Thrusting (feat. Swae Lee &amp; Future)" uri="spotify:track:0ShIftP1VFRovK53oQn8KJ" explicit="true" duration_ms="222680" id="0ShIftP1VFRovK53oQn8KJ">
+      <artists name="Internet Money" uri="spotify:artist:6MPCFvOQv5cIGfw3jODMF0"/>
+      <artists name="Swae Lee" uri="spotify:artist:1zNqQNIdeOUZHb8zbZRFMX"/>
+      <artists name="Future" uri="spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"/>
+    </tracks>
+    <tracks name="Speak (feat. The Kid Laroi)" uri="spotify:track:7vvCvoT0rBvFOOWCcGUkh8" explicit="true" duration_ms="122278" id="7vvCvoT0rBvFOOWCcGUkh8">
+      <artists name="Internet Money" uri="spotify:artist:6MPCFvOQv5cIGfw3jODMF0"/>
+      <artists name="The Kid LAROI" uri="spotify:artist:2tIP7SsRs7vjIcLrU85W8J"/>
+    </tracks>
+    <tracks name="Blastoff (feat. Juice Wrld &amp; Trippie Redd)" uri="spotify:track:7dH9TPjTWQ60wOJkmYay8a" explicit="true" duration_ms="174729" id="7dH9TPjTWQ60wOJkmYay8a">
+      <artists name="Internet Money" uri="spotify:artist:6MPCFvOQv5cIGfw3jODMF0"/>
+      <artists name="Juice WRLD" uri="spotify:artist:4MCBfE4596Uoi2O4DtmEMz"/>
+      <artists name="Trippie Redd" uri="spotify:artist:6Xgp2XMz1fhVYe7i6yNAax"/>
+    </tracks>
+    <tracks name="Take It Slow (feat. 24KGoldn &amp; TyFontaine)" uri="spotify:track:5OJhdmel6UeoV5bsM6T3Qp" explicit="true" duration_ms="234240" id="5OJhdmel6UeoV5bsM6T3Qp">
+      <artists name="Internet Money" uri="spotify:artist:6MPCFvOQv5cIGfw3jODMF0"/>
+      <artists name="24kGoldn" uri="spotify:artist:6fWVd57NKTalqvmjRd2t8Z"/>
+      <artists name="TyFontaine" uri="spotify:artist:3U1jsFYwwJHv7VB4Frf3F4"/>
+    </tracks>
+    <tracks name="Somebody (feat. A Boogie Wit Da Hoodie &amp; Lil Tecca)" uri="spotify:track:4yVpS65YGing0IChXRV9Yd" explicit="true" duration_ms="174333" id="4yVpS65YGing0IChXRV9Yd">
+      <artists name="Internet Money" uri="spotify:artist:6MPCFvOQv5cIGfw3jODMF0"/>
+      <artists name="Lil Tecca" uri="spotify:artist:4Ga1P7PMIsmqEZqhYZQgDo"/>
+      <artists name="A Boogie Wit da Hoodie" uri="spotify:artist:31W5EY0aAly4Qieq6OFu6I"/>
+    </tracks>
+    <tracks name="Giddy Up (feat. Wiz Khalifa &amp; 24KGoldn)" uri="spotify:track:7hKksb6gmn4XBvKvJJXGDn" explicit="true" duration_ms="157852" id="7hKksb6gmn4XBvKvJJXGDn">
+      <artists name="Internet Money" uri="spotify:artist:6MPCFvOQv5cIGfw3jODMF0"/>
+      <artists name="Wiz Khalifa" uri="spotify:artist:137W8MRPWKqSmrBGDBFSop"/>
+      <artists name="24kGoldn" uri="spotify:artist:6fWVd57NKTalqvmjRd2t8Z"/>
+    </tracks>
+    <tracks name="Block (feat. Trippie Redd &amp; StaySolidRocky)" uri="spotify:track:7yEhfCJXIItWdq92chkljY" explicit="true" duration_ms="154285" id="7yEhfCJXIItWdq92chkljY">
+      <artists name="Internet Money" uri="spotify:artist:6MPCFvOQv5cIGfw3jODMF0"/>
+      <artists name="Trippie Redd" uri="spotify:artist:6Xgp2XMz1fhVYe7i6yNAax"/>
+      <artists name="StaySolidRocky" uri="spotify:artist:1XLWox9w1Yvbodui0SRhUQ"/>
+    </tracks>
+    <tracks name="Devastated (feat. lilspirit)" uri="spotify:track:3gJJRTc5I22Eq41NYey8RT" explicit="true" duration_ms="139534" id="3gJJRTc5I22Eq41NYey8RT">
+      <artists name="Internet Money" uri="spotify:artist:6MPCFvOQv5cIGfw3jODMF0"/>
+      <artists name="lilspirit" uri="spotify:artist:3VWII9MTZSfIdOXr1DafzL"/>
+    </tracks>
+    <tracks name="Let You Down (feat. TyFontaine &amp; TheHxliday)" uri="spotify:track:0zNN2ezI0qylU2sIHyqfJa" explicit="true" duration_ms="162857" id="0zNN2ezI0qylU2sIHyqfJa">
+      <artists name="Internet Money" uri="spotify:artist:6MPCFvOQv5cIGfw3jODMF0"/>
+      <artists name="TyFontaine" uri="spotify:artist:3U1jsFYwwJHv7VB4Frf3F4"/>
+      <artists name="TheHxliday" uri="spotify:artist:2e3LzbZx1VP4wBNFCaxZVD"/>
+    </tracks>
+    <tracks name="No Option (feat. Kevin Gates)" uri="spotify:track:1oVf17THhE9TZUE3BgHgWZ" explicit="true" duration_ms="201595" id="1oVf17THhE9TZUE3BgHgWZ">
+      <artists name="Internet Money" uri="spotify:artist:6MPCFvOQv5cIGfw3jODMF0"/>
+      <artists name="Kevin Gates" uri="spotify:artist:1gPhS1zisyXr5dHTYZyiMe"/>
+    </tracks>
+    <tracks name="Lemonade (feat. Gunna, Don Toliver &amp; NAV)" uri="spotify:track:7hxHWCCAIIxFLCzvDgnQHX" explicit="true" duration_ms="195428" id="7hxHWCCAIIxFLCzvDgnQHX">
+      <artists name="Internet Money" uri="spotify:artist:6MPCFvOQv5cIGfw3jODMF0"/>
+      <artists name="Gunna" uri="spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ"/>
+      <artists name="Don Toliver" uri="spotify:artist:4Gso3d4CscCijv0lmajZWs"/>
+      <artists name="NAV" uri="spotify:artist:7rkW85dBwwrJtlHRDkJDAC"/>
+    </tracks>
+    <artist name="Internet Money" uri="spotify:artist:6MPCFvOQv5cIGfw3jODMF0"/>
+  </albums>
+  <albums name="Merry Christmas From Brenda Lee" uri="spotify:album:34wa3zf2prXFMk47t9zHFG" id="34wa3zf2prXFMk47t9zHFG" label="MCA Nashville" release_date="1964-10-19">
+    <tracks name="Rockin' Around The Christmas Tree" uri="spotify:track:2EjXfH91m7f8HiJN1yQg97" duration_ms="126266" id="2EjXfH91m7f8HiJN1yQg97">
+      <artists name="Brenda Lee" uri="spotify:artist:4cPHsZM98sKzmV26wlwD2W"/>
+    </tracks>
+    <tracks name="This Time Of The Year" uri="spotify:track:2Eyul7GbpB8kYcsIxERtTb" duration_ms="156466" id="2Eyul7GbpB8kYcsIxERtTb">
+      <artists name="Brenda Lee" uri="spotify:artist:4cPHsZM98sKzmV26wlwD2W"/>
+    </tracks>
+    <tracks name="Jingle Bell Rock" uri="spotify:track:0MKnGJzNdEqOscI6xu9R3m" duration_ms="130199" id="0MKnGJzNdEqOscI6xu9R3m">
+      <artists name="Brenda Lee" uri="spotify:artist:4cPHsZM98sKzmV26wlwD2W"/>
+    </tracks>
+    <tracks name="Strawberry Snow" uri="spotify:track:4KUSZe7cG6cdCZ9DN2vMZc" duration_ms="149906" id="4KUSZe7cG6cdCZ9DN2vMZc">
+      <artists name="Brenda Lee" uri="spotify:artist:4cPHsZM98sKzmV26wlwD2W"/>
+    </tracks>
+    <tracks name="Santa Claus Is Coming To Town" uri="spotify:track:7xrpNuqDgFlf10X93CwixY" duration_ms="133133" id="7xrpNuqDgFlf10X93CwixY">
+      <artists name="Brenda Lee" uri="spotify:artist:4cPHsZM98sKzmV26wlwD2W"/>
+    </tracks>
+    <tracks name="Silver Bells" uri="spotify:track:2EsEYuptLJfVmq5wW5vwSA" duration_ms="127733" id="2EsEYuptLJfVmq5wW5vwSA">
+      <artists name="Brenda Lee" uri="spotify:artist:4cPHsZM98sKzmV26wlwD2W"/>
+    </tracks>
+    <tracks name="Winter Wonderland" uri="spotify:track:2jj7HmW0g5trcOsrvZ8GjC" duration_ms="141800" id="2jj7HmW0g5trcOsrvZ8GjC">
+      <artists name="Brenda Lee" uri="spotify:artist:4cPHsZM98sKzmV26wlwD2W"/>
+    </tracks>
+    <tracks name="Blue Christmas" uri="spotify:track:4AJI5lEcRGXWkvNGOnykEl" duration_ms="164240" id="4AJI5lEcRGXWkvNGOnykEl">
+      <artists name="Brenda Lee" uri="spotify:artist:4cPHsZM98sKzmV26wlwD2W"/>
+    </tracks>
+    <tracks name="A Marshmallow World" uri="spotify:track:6Eh1XqjaOX2BVL0hVCnwb0" duration_ms="152160" id="6Eh1XqjaOX2BVL0hVCnwb0">
+      <artists name="Brenda Lee" uri="spotify:artist:4cPHsZM98sKzmV26wlwD2W"/>
+    </tracks>
+    <tracks name="Christmas Will Be Just Another Lonely Day" uri="spotify:track:3pK8zrDVYe2XkeetzsSU4D" duration_ms="147893" id="3pK8zrDVYe2XkeetzsSU4D">
+      <artists name="Brenda Lee" uri="spotify:artist:4cPHsZM98sKzmV26wlwD2W"/>
+    </tracks>
+    <tracks name="Frosty The Snowman" uri="spotify:track:1EWKkEW5hcAjtPfwO5un30" duration_ms="142173" id="1EWKkEW5hcAjtPfwO5un30">
+      <artists name="Brenda Lee" uri="spotify:artist:4cPHsZM98sKzmV26wlwD2W"/>
+    </tracks>
+    <tracks name="The Angel And The Little Blue Bell" uri="spotify:track:2AXfC1jPkeU17S4D6P8MM0" duration_ms="175826" id="2AXfC1jPkeU17S4D6P8MM0">
+      <artists name="Brenda Lee" uri="spotify:artist:4cPHsZM98sKzmV26wlwD2W"/>
+    </tracks>
+    <artist name="Brenda Lee" uri="spotify:artist:4cPHsZM98sKzmV26wlwD2W"/>
+  </albums>
+  <albums name="BE" uri="spotify:album:2qehskW9lYGWfYb0xPZkrS" id="2qehskW9lYGWfYb0xPZkrS" label="2020 BigHit Entertainment" release_date="2020-11-20">
+    <tracks name="Life Goes On" uri="spotify:track:249gnXrbfmV8NG6jTEMSwD" duration_ms="207481" id="249gnXrbfmV8NG6jTEMSwD">
+      <artists name="BTS" uri="spotify:artist:3Nrfpe0tUJi4K4DXYWgMUX"/>
+    </tracks>
+    <tracks name="Fly To My Room" uri="spotify:track:3QH8rQGNFX8VLbCgZ7uPTS" duration_ms="222242" id="3QH8rQGNFX8VLbCgZ7uPTS">
+      <artists name="BTS" uri="spotify:artist:3Nrfpe0tUJi4K4DXYWgMUX"/>
+    </tracks>
+    <tracks name="Blue &amp; Grey" uri="spotify:track:0n2moJpAEWHwaPYYjkzMDl" duration_ms="254950" id="0n2moJpAEWHwaPYYjkzMDl">
+      <artists name="BTS" uri="spotify:artist:3Nrfpe0tUJi4K4DXYWgMUX"/>
+    </tracks>
+    <tracks name="Skit" uri="spotify:track:4GVwjLRT7oSsKby7Vy8EHr" duration_ms="179547" id="4GVwjLRT7oSsKby7Vy8EHr">
+      <artists name="BTS" uri="spotify:artist:3Nrfpe0tUJi4K4DXYWgMUX"/>
+    </tracks>
+    <tracks name="Telepathy" uri="spotify:track:2FVpOsjT1iquZ3SpCjZ9Ne" duration_ms="202313" id="2FVpOsjT1iquZ3SpCjZ9Ne">
+      <artists name="BTS" uri="spotify:artist:3Nrfpe0tUJi4K4DXYWgMUX"/>
+    </tracks>
+    <tracks name="Dis-ease" uri="spotify:track:54DmTIv86D3sYdiawjULQ0" duration_ms="239722" id="54DmTIv86D3sYdiawjULQ0">
+      <artists name="BTS" uri="spotify:artist:3Nrfpe0tUJi4K4DXYWgMUX"/>
+    </tracks>
+    <tracks name="Stay" uri="spotify:track:3ndCsZfq8OVwwkz9mmZvUz" duration_ms="204800" id="3ndCsZfq8OVwwkz9mmZvUz">
+      <artists name="BTS" uri="spotify:artist:3Nrfpe0tUJi4K4DXYWgMUX"/>
+    </tracks>
+    <tracks name="Dynamite" uri="spotify:track:4saklk6nie3yiGePpBwUoc" duration_ms="199053" id="4saklk6nie3yiGePpBwUoc">
+      <artists name="BTS" uri="spotify:artist:3Nrfpe0tUJi4K4DXYWgMUX"/>
+    </tracks>
+    <artist name="BTS" uri="spotify:artist:3Nrfpe0tUJi4K4DXYWgMUX"/>
+  </albums>
+  <albums name="Christmas" uri="spotify:album:3CKVXhODttZebJAzjUs2un" id="3CKVXhODttZebJAzjUs2un" label="143/Reprise" release_date="2011-10-14">
+    <tracks name="It's Beginning to Look a Lot like Christmas" uri="spotify:track:0lLdorYw7lVrJydTINhWdI" duration_ms="206639" id="0lLdorYw7lVrJydTINhWdI">
+      <artists name="Michael Bubl&#xe9;" uri="spotify:artist:1GxkXlMwML1oSg5eLPiAz3"/>
+    </tracks>
+    <tracks name="Santa Claus Is Coming to Town" uri="spotify:track:5Ber68jZ7ytegr2UISEdb7" duration_ms="171093" id="5Ber68jZ7ytegr2UISEdb7">
+      <artists name="Michael Bubl&#xe9;" uri="spotify:artist:1GxkXlMwML1oSg5eLPiAz3"/>
+    </tracks>
+    <tracks name="Jingle Bells (feat. The Puppini Sisters)" uri="spotify:track:4qBejt9FeqLI9blHI1Nq1x" duration_ms="159973" id="4qBejt9FeqLI9blHI1Nq1x">
+      <artists name="Michael Bubl&#xe9;" uri="spotify:artist:1GxkXlMwML1oSg5eLPiAz3"/>
+      <artists name="The Puppini Sisters" uri="spotify:artist:1svaANJTE5KrG16fTGDqOs"/>
+    </tracks>
+    <tracks name="White Christmas (with Shania Twain)" uri="spotify:track:2gbCG4Rt9984UZ7Tc0dIFd" duration_ms="216626" id="2gbCG4Rt9984UZ7Tc0dIFd">
+      <artists name="Michael Bubl&#xe9;" uri="spotify:artist:1GxkXlMwML1oSg5eLPiAz3"/>
+      <artists name="Shania Twain" uri="spotify:artist:5e4Dhzv426EvQe3aDb64jL"/>
+    </tracks>
+    <tracks name="All I Want for Christmas Is You" uri="spotify:track:0xPaZrF25ltzvz1a2Pm5DQ" duration_ms="171826" id="0xPaZrF25ltzvz1a2Pm5DQ">
+      <artists name="Michael Bubl&#xe9;" uri="spotify:artist:1GxkXlMwML1oSg5eLPiAz3"/>
+    </tracks>
+    <tracks name="Holly Jolly Christmas" uri="spotify:track:6tjituizSxwSmBB5vtgHZE" duration_ms="119786" id="6tjituizSxwSmBB5vtgHZE">
+      <artists name="Michael Bubl&#xe9;" uri="spotify:artist:1GxkXlMwML1oSg5eLPiAz3"/>
+    </tracks>
+    <tracks name="Santa Baby" uri="spotify:track:6DwnAl6l63e83dDgIzY8P4" duration_ms="231626" id="6DwnAl6l63e83dDgIzY8P4">
+      <artists name="Michael Bubl&#xe9;" uri="spotify:artist:1GxkXlMwML1oSg5eLPiAz3"/>
+    </tracks>
+    <tracks name="Have Yourself a Merry Little Christmas" uri="spotify:track:1DnSNqCQM3LUxqFuXt184Q" duration_ms="230306" id="1DnSNqCQM3LUxqFuXt184Q">
+      <artists name="Michael Bubl&#xe9;" uri="spotify:artist:1GxkXlMwML1oSg5eLPiAz3"/>
+    </tracks>
+    <tracks name="Christmas (Baby Please Come Home)" uri="spotify:track:66WPXyhXqMlkM1kZhyEXWK" duration_ms="187920" id="66WPXyhXqMlkM1kZhyEXWK">
+      <artists name="Michael Bubl&#xe9;" uri="spotify:artist:1GxkXlMwML1oSg5eLPiAz3"/>
+    </tracks>
+    <tracks name="Silent Night" uri="spotify:track:6B14wYcEpWhyDvxWRb9Df8" duration_ms="227520" id="6B14wYcEpWhyDvxWRb9Df8">
+      <artists name="Michael Bubl&#xe9;" uri="spotify:artist:1GxkXlMwML1oSg5eLPiAz3"/>
+    </tracks>
+    <tracks name="Blue Christmas" uri="spotify:track:6Lh85Pe18pqvNdDoWgTVUC" duration_ms="221706" id="6Lh85Pe18pqvNdDoWgTVUC">
+      <artists name="Michael Bubl&#xe9;" uri="spotify:artist:1GxkXlMwML1oSg5eLPiAz3"/>
+    </tracks>
+    <tracks name="Cold December Night" uri="spotify:track:4FPrAERfkPKOBKrRoyuxLu" duration_ms="198266" id="4FPrAERfkPKOBKrRoyuxLu">
+      <artists name="Michael Bubl&#xe9;" uri="spotify:artist:1GxkXlMwML1oSg5eLPiAz3"/>
+    </tracks>
+    <tracks name="I'll Be Home for Christmas" uri="spotify:track:0tXPhc8LvM4dPvoRwI66XQ" duration_ms="264826" id="0tXPhc8LvM4dPvoRwI66XQ">
+      <artists name="Michael Bubl&#xe9;" uri="spotify:artist:1GxkXlMwML1oSg5eLPiAz3"/>
+    </tracks>
+    <tracks name="Ave Maria" uri="spotify:track:3tAg5SGPaQmXuLdYlsp7QI" duration_ms="240226" id="3tAg5SGPaQmXuLdYlsp7QI">
+      <artists name="Michael Bubl&#xe9;" uri="spotify:artist:1GxkXlMwML1oSg5eLPiAz3"/>
+    </tracks>
+    <tracks name="Mis Deseos / Feliz Navidad (with Thalia)" uri="spotify:track:0kmrXYtFI8cgxsShrJpThx" duration_ms="264000" id="0kmrXYtFI8cgxsShrJpThx">
+      <artists name="Michael Bubl&#xe9;" uri="spotify:artist:1GxkXlMwML1oSg5eLPiAz3"/>
+      <artists name="Thalia" uri="spotify:artist:23wEWD21D4TPYiJugoXmYb"/>
+    </tracks>
+    <tracks name="Michael's Christmas Greeting - Hidden Track" uri="spotify:track:6gpUUJfsUfAWl5qq4nBCZj" duration_ms="4520" id="6gpUUJfsUfAWl5qq4nBCZj">
+      <artists name="Michael Bubl&#xe9;" uri="spotify:artist:1GxkXlMwML1oSg5eLPiAz3"/>
+    </tracks>
+    <artist name="Michael Bubl&#xe9;" uri="spotify:artist:1GxkXlMwML1oSg5eLPiAz3"/>
+  </albums>
+  <albums name="Therefore I Am" uri="spotify:album:5G58VVE9ub1KE01Mvbd8XM" id="5G58VVE9ub1KE01Mvbd8XM" label="Darkroom/Interscope Records" release_date="2020-11-12">
+    <tracks name="Therefore I Am" uri="spotify:track:54bFM56PmE4YLRnqpW6Tha" duration_ms="174321" id="54bFM56PmE4YLRnqpW6Tha">
+      <artists name="Billie Eilish" uri="spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"/>
+    </tracks>
+    <artist name="Billie Eilish" uri="spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"/>
+  </albums>
+  <albums name="Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)" uri="spotify:album:3wivyOdotHWZ9dcuXMjPKT" id="3wivyOdotHWZ9dcuXMjPKT" label="Geffen" release_date="1957-12-02">
+    <tracks name="Jingle Bell Rock" uri="spotify:track:7vQbuQcyTflfCIOu3Uzzya" duration_ms="130973" id="7vQbuQcyTflfCIOu3Uzzya">
+      <artists name="Bobby Helms" uri="spotify:artist:38EmEgXkgK51MT2tPY0EoC"/>
+    </tracks>
+    <tracks name="Captain Santa Claus" uri="spotify:track:3w0RchcsELYZEdFGr5Fqwz" duration_ms="151493" id="3w0RchcsELYZEdFGr5Fqwz">
+      <artists name="Bobby Helms" uri="spotify:artist:38EmEgXkgK51MT2tPY0EoC"/>
+    </tracks>
+    <artist name="Bobby Helms" uri="spotify:artist:38EmEgXkgK51MT2tPY0EoC"/>
+  </albums>
+  <albums name="Wonder" uri="spotify:album:3Lp4JKk2ZgNkybMRS3eZR5" id="3Lp4JKk2ZgNkybMRS3eZR5" label="Shawn Mendes LP4-5 PS/ Island" release_date="2020-12-04">
+    <tracks name="Intro" uri="spotify:track:138oQeapLds5IeJrdRfeUd" duration_ms="62422" id="138oQeapLds5IeJrdRfeUd">
+      <artists name="Shawn Mendes" uri="spotify:artist:7n2wHs1TKAczGzO7Dd2rGr"/>
+    </tracks>
+    <tracks name="Wonder" uri="spotify:track:6ZuahEctZD6w75peme58hm" duration_ms="172692" id="6ZuahEctZD6w75peme58hm">
+      <artists name="Shawn Mendes" uri="spotify:artist:7n2wHs1TKAczGzO7Dd2rGr"/>
+    </tracks>
+    <tracks name="Higher" uri="spotify:track:7nuQ1LgM6l5FLaJmlODoqj" duration_ms="160143" id="7nuQ1LgM6l5FLaJmlODoqj">
+      <artists name="Shawn Mendes" uri="spotify:artist:7n2wHs1TKAczGzO7Dd2rGr"/>
+    </tracks>
+    <tracks name="24 Hours" uri="spotify:track:385VOmGbguaPG57TgoW8Lh" duration_ms="150781" id="385VOmGbguaPG57TgoW8Lh">
+      <artists name="Shawn Mendes" uri="spotify:artist:7n2wHs1TKAczGzO7Dd2rGr"/>
+    </tracks>
+    <tracks name="Teach Me How To Love" uri="spotify:track:5LZtB6nxvjIhUoElp3Zqk0" duration_ms="202356" id="5LZtB6nxvjIhUoElp3Zqk0">
+      <artists name="Shawn Mendes" uri="spotify:artist:7n2wHs1TKAczGzO7Dd2rGr"/>
+    </tracks>
+    <tracks name="Call My Friends" uri="spotify:track:6KVxMOxlSYpC5nrvyWhYhx" duration_ms="171078" id="6KVxMOxlSYpC5nrvyWhYhx">
+      <artists name="Shawn Mendes" uri="spotify:artist:7n2wHs1TKAczGzO7Dd2rGr"/>
+    </tracks>
+    <tracks name="Dream" uri="spotify:track:0bZFa5DZcx9HWx25m2Nd19" duration_ms="214751" id="0bZFa5DZcx9HWx25m2Nd19">
+      <artists name="Shawn Mendes" uri="spotify:artist:7n2wHs1TKAczGzO7Dd2rGr"/>
+    </tracks>
+    <tracks name="Song For No One" uri="spotify:track:2LUOkrWpTz1q5QeZY5jAHi" duration_ms="191887" id="2LUOkrWpTz1q5QeZY5jAHi">
+      <artists name="Shawn Mendes" uri="spotify:artist:7n2wHs1TKAczGzO7Dd2rGr"/>
+    </tracks>
+    <tracks name="Monster (Shawn Mendes &amp; Justin Bieber)" uri="spotify:track:1HbA4N1MiOsPthALesGFR1" duration_ms="178994" id="1HbA4N1MiOsPthALesGFR1">
+      <artists name="Shawn Mendes" uri="spotify:artist:7n2wHs1TKAczGzO7Dd2rGr"/>
+      <artists name="Justin Bieber" uri="spotify:artist:1uNFoZAHBGtllmzznpCI3s"/>
+    </tracks>
+    <tracks name="305" uri="spotify:track:5ld8E3DVBXCCWQ54yrkWVp" duration_ms="189072" id="5ld8E3DVBXCCWQ54yrkWVp">
+      <artists name="Shawn Mendes" uri="spotify:artist:7n2wHs1TKAczGzO7Dd2rGr"/>
+    </tracks>
+    <tracks name="Always Been You" uri="spotify:track:56KDoLjFIm7Yc7fX1XgpNw" duration_ms="167193" id="56KDoLjFIm7Yc7fX1XgpNw">
+      <artists name="Shawn Mendes" uri="spotify:artist:7n2wHs1TKAczGzO7Dd2rGr"/>
+    </tracks>
+    <tracks name="Piece Of You" uri="spotify:track:5jpNBhgAk5OmfB0W5i5NaO" duration_ms="175781" id="5jpNBhgAk5OmfB0W5i5NaO">
+      <artists name="Shawn Mendes" uri="spotify:artist:7n2wHs1TKAczGzO7Dd2rGr"/>
+    </tracks>
+    <tracks name="Look Up At The Stars" uri="spotify:track:0UauNGiFTVXTsgvVz6LBMf" duration_ms="211850" id="0UauNGiFTVXTsgvVz6LBMf">
+      <artists name="Shawn Mendes" uri="spotify:artist:7n2wHs1TKAczGzO7Dd2rGr"/>
+    </tracks>
+    <tracks name="Can&#x2019;t Imagine" uri="spotify:track:2GwberkV36NoC5snp51cLC" duration_ms="149768" id="2GwberkV36NoC5snp51cLC">
+      <artists name="Shawn Mendes" uri="spotify:artist:7n2wHs1TKAczGzO7Dd2rGr"/>
+    </tracks>
+    <artist name="Shawn Mendes" uri="spotify:artist:7n2wHs1TKAczGzO7Dd2rGr"/>
+  </albums>
+  <albums name="The Andy Williams Christmas Album" uri="spotify:album:30eO7X0doSEWKhDLAFLMuW" id="30eO7X0doSEWKhDLAFLMuW" label="Columbia" release_date="1963">
+    <tracks name="White Christmas" uri="spotify:track:5dvqHEDqmWDzdXKr3NQWCG" duration_ms="149000" id="5dvqHEDqmWDzdXKr3NQWCG">
+      <artists name="Andy Williams" uri="spotify:artist:4sj6D0zlMOl25nprDJBiU9"/>
+    </tracks>
+    <tracks name="Happy Holiday / The Holiday Season" uri="spotify:track:1Wf14bTyb6UeKojy8ykPYm" duration_ms="157000" id="1Wf14bTyb6UeKojy8ykPYm">
+      <artists name="Andy Williams" uri="spotify:artist:4sj6D0zlMOl25nprDJBiU9"/>
+    </tracks>
+    <tracks name="The Christmas Song (Chestnuts Roasting On an Open Fire)" uri="spotify:track:4A742PQbmGq3JVJ7aKjk2K" duration_ms="152000" id="4A742PQbmGq3JVJ7aKjk2K">
+      <artists name="Andy Williams" uri="spotify:artist:4sj6D0zlMOl25nprDJBiU9"/>
+    </tracks>
+    <tracks name="It's the Most Wonderful Time of the Year" uri="spotify:track:1IcR6RlgvDczfvoWJSSY2A" duration_ms="151000" id="1IcR6RlgvDczfvoWJSSY2A">
+      <artists name="Andy Williams" uri="spotify:artist:4sj6D0zlMOl25nprDJBiU9"/>
+    </tracks>
+    <tracks name="A Song and a Christmas Tree (The Twelve Days of Christmas)" uri="spotify:track:4g16n5UqShTD6ATUDJxptr" duration_ms="235000" id="4g16n5UqShTD6ATUDJxptr">
+      <artists name="Andy Williams" uri="spotify:artist:4sj6D0zlMOl25nprDJBiU9"/>
+    </tracks>
+    <tracks name="Kay Thompson's Jingle Bells" uri="spotify:track:7srPiYewLoI3yxrMLkxg4w" duration_ms="124000" id="7srPiYewLoI3yxrMLkxg4w">
+      <artists name="Andy Williams" uri="spotify:artist:4sj6D0zlMOl25nprDJBiU9"/>
+    </tracks>
+    <tracks name="The First No&#xeb;l" uri="spotify:track:4r87anpJZfl5p6OsBZnrZs" duration_ms="187000" id="4r87anpJZfl5p6OsBZnrZs">
+      <artists name="Andy Williams" uri="spotify:artist:4sj6D0zlMOl25nprDJBiU9"/>
+    </tracks>
+    <tracks name="O Holy Night" uri="spotify:track:6L3FbkEbk0ShcRhuGKa2aO" duration_ms="202000" id="6L3FbkEbk0ShcRhuGKa2aO">
+      <artists name="Andy Williams" uri="spotify:artist:4sj6D0zlMOl25nprDJBiU9"/>
+    </tracks>
+    <tracks name="Away in a Manger" uri="spotify:track:74ryx9WQAducVtwg0vbLqm" duration_ms="171000" id="74ryx9WQAducVtwg0vbLqm">
+      <artists name="Andy Williams" uri="spotify:artist:4sj6D0zlMOl25nprDJBiU9"/>
+    </tracks>
+    <tracks name="Sweet Little Jesus Boy" uri="spotify:track:7sWxLHaNTvufqV8f8YryB3" duration_ms="196000" id="7sWxLHaNTvufqV8f8YryB3">
+      <artists name="Andy Williams" uri="spotify:artist:4sj6D0zlMOl25nprDJBiU9"/>
+    </tracks>
+    <tracks name="The Little Drummer Boy" uri="spotify:track:2u0urnJ9urQezzj9YjLKDu" duration_ms="135000" id="2u0urnJ9urQezzj9YjLKDu">
+      <artists name="Andy Williams" uri="spotify:artist:4sj6D0zlMOl25nprDJBiU9"/>
+    </tracks>
+    <tracks name="Silent Night, Holy Night" uri="spotify:track:5ctK9cQkeqXiGkqFUDq7D6" duration_ms="136000" id="5ctK9cQkeqXiGkqFUDq7D6">
+      <artists name="Andy Williams" uri="spotify:artist:4sj6D0zlMOl25nprDJBiU9"/>
+    </tracks>
+    <artist name="Andy Williams" uri="spotify:artist:4sj6D0zlMOl25nprDJBiU9"/>
+  </albums>
+  <albums name="Shoot For The Stars Aim For The Moon" uri="spotify:album:7e7t0MCrNDcJZsPwUKjmOc" id="7e7t0MCrNDcJZsPwUKjmOc" label="Victor Victor Worldwide" release_date="2020-07-03">
+    <tracks name="Bad Bitch From Tokyo (Intro)" uri="spotify:track:4OGIeHtYhRTJ8iW21UUyZW" explicit="true" duration_ms="48000" id="4OGIeHtYhRTJ8iW21UUyZW">
+      <artists name="Pop Smoke" uri="spotify:artist:0eDvMgVFoNV3TpwtrVCoTj"/>
+    </tracks>
+    <tracks name="Aim For The Moon (feat. Quavo)" uri="spotify:track:6O7fPYTsb2mY0PiFt2ymDB" explicit="true" duration_ms="175756" id="6O7fPYTsb2mY0PiFt2ymDB">
+      <artists name="Pop Smoke" uri="spotify:artist:0eDvMgVFoNV3TpwtrVCoTj"/>
+      <artists name="Quavo" uri="spotify:artist:0VRj0yCOv2FXJNP47XQnx5"/>
+    </tracks>
+    <tracks name="For The Night (feat. Lil Baby &amp; DaBaby)" uri="spotify:track:0PvFJmanyNQMseIFrU708S" explicit="true" duration_ms="190476" id="0PvFJmanyNQMseIFrU708S">
+      <artists name="Pop Smoke" uri="spotify:artist:0eDvMgVFoNV3TpwtrVCoTj"/>
+      <artists name="Lil Baby" uri="spotify:artist:5f7VJjfbwm532GiveGC0ZK"/>
+      <artists name="DaBaby" uri="spotify:artist:4r63FhuTkUYltbVAg5TQnk"/>
+    </tracks>
+    <tracks name="44 BullDog" uri="spotify:track:7sjFIZ1g5QLJLGja3k592K" explicit="true" duration_ms="150857" id="7sjFIZ1g5QLJLGja3k592K">
+      <artists name="Pop Smoke" uri="spotify:artist:0eDvMgVFoNV3TpwtrVCoTj"/>
+    </tracks>
+    <tracks name="Gangstas" uri="spotify:track:1hg3RlqFZXJb5YgRoK9qmF" explicit="true" duration_ms="160000" id="1hg3RlqFZXJb5YgRoK9qmF">
+      <artists name="Pop Smoke" uri="spotify:artist:0eDvMgVFoNV3TpwtrVCoTj"/>
+    </tracks>
+    <tracks name="Yea Yea" uri="spotify:track:0bjgQ24UZGwKikldIyEOgf" explicit="true" duration_ms="185803" id="0bjgQ24UZGwKikldIyEOgf">
+      <artists name="Pop Smoke" uri="spotify:artist:0eDvMgVFoNV3TpwtrVCoTj"/>
+    </tracks>
+    <tracks name="Creature (feat. Swae Lee)" uri="spotify:track:3eV2WT9YhfzkxbufnBF8wK" explicit="true" duration_ms="202815" id="3eV2WT9YhfzkxbufnBF8wK">
+      <artists name="Pop Smoke" uri="spotify:artist:0eDvMgVFoNV3TpwtrVCoTj"/>
+      <artists name="Swae Lee" uri="spotify:artist:1zNqQNIdeOUZHb8zbZRFMX"/>
+    </tracks>
+    <tracks name="Snitching (feat. Quavo &amp; Future)" uri="spotify:track:2FhEj9lvEIaJihjFprRrGt" explicit="true" duration_ms="259346" id="2FhEj9lvEIaJihjFprRrGt">
+      <artists name="Pop Smoke" uri="spotify:artist:0eDvMgVFoNV3TpwtrVCoTj"/>
+      <artists name="Quavo" uri="spotify:artist:0VRj0yCOv2FXJNP47XQnx5"/>
+      <artists name="Future" uri="spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"/>
+    </tracks>
+    <tracks name="Make It Rain (feat. Rowdy Rebel)" uri="spotify:track:71d7LaAgPcNcUopu3OzmP7" explicit="true" duration_ms="202443" id="71d7LaAgPcNcUopu3OzmP7">
+      <artists name="Pop Smoke" uri="spotify:artist:0eDvMgVFoNV3TpwtrVCoTj"/>
+      <artists name="Rowdy Rebel" uri="spotify:artist:6LXRvV2OAtXF7685fzh3mj"/>
+    </tracks>
+    <tracks name="The Woo (feat. 50 Cent &amp; Roddy Ricch)" uri="spotify:track:1H7KnK26kc1YyellpbINEn" explicit="true" duration_ms="201600" id="1H7KnK26kc1YyellpbINEn">
+      <artists name="Pop Smoke" uri="spotify:artist:0eDvMgVFoNV3TpwtrVCoTj"/>
+      <artists name="50 Cent" uri="spotify:artist:3q7HBObVc0L8jNeTe5Gofh"/>
+      <artists name="Roddy Ricch" uri="spotify:artist:757aE44tKEUQEqRuT6GnEB"/>
+    </tracks>
+    <tracks name="West Coast Shit (feat. Tyga &amp; Quavo)" uri="spotify:track:1JDhNQ0oOT7XpclZn3aQ8F" explicit="true" duration_ms="192000" id="1JDhNQ0oOT7XpclZn3aQ8F">
+      <artists name="Pop Smoke" uri="spotify:artist:0eDvMgVFoNV3TpwtrVCoTj"/>
+      <artists name="Tyga" uri="spotify:artist:5LHRHt1k9lMyONurDHEdrp"/>
+      <artists name="Quavo" uri="spotify:artist:0VRj0yCOv2FXJNP47XQnx5"/>
+    </tracks>
+    <tracks name="Enjoy Yourself (feat. Karol G)" uri="spotify:track:3NWrHCwvyII4fTx05PN3IO" explicit="true" duration_ms="197938" id="3NWrHCwvyII4fTx05PN3IO">
+      <artists name="Pop Smoke" uri="spotify:artist:0eDvMgVFoNV3TpwtrVCoTj"/>
+      <artists name="KAROL G" uri="spotify:artist:790FomKkXshlbRYZFtlgla"/>
+    </tracks>
+    <tracks name="Mood Swings (feat. Lil Tjay)" uri="spotify:track:5rZlwNFl01HqLWBQGryKSm" explicit="true" duration_ms="213333" id="5rZlwNFl01HqLWBQGryKSm">
+      <artists name="Pop Smoke" uri="spotify:artist:0eDvMgVFoNV3TpwtrVCoTj"/>
+      <artists name="Lil Tjay" uri="spotify:artist:6jGMq4yGs7aQzuGsMgVgZR"/>
+    </tracks>
+    <tracks name="Something Special" uri="spotify:track:5kkaSMcf4BFlhRRICCKZb6" explicit="true" duration_ms="158466" id="5kkaSMcf4BFlhRRICCKZb6">
+      <artists name="Pop Smoke" uri="spotify:artist:0eDvMgVFoNV3TpwtrVCoTj"/>
+    </tracks>
+    <tracks name="What You Know Bout Love" uri="spotify:track:1tkg4EHVoqnhR6iFEXb60y" explicit="true" duration_ms="160000" id="1tkg4EHVoqnhR6iFEXb60y">
+      <artists name="Pop Smoke" uri="spotify:artist:0eDvMgVFoNV3TpwtrVCoTj"/>
+    </tracks>
+    <tracks name="Diana (feat. King Combs)" uri="spotify:track:4Tc9PHEoeP17PQj3OOKXPu" explicit="true" duration_ms="188976" id="4Tc9PHEoeP17PQj3OOKXPu">
+      <artists name="Pop Smoke" uri="spotify:artist:0eDvMgVFoNV3TpwtrVCoTj"/>
+      <artists name="King Combs" uri="spotify:artist:41I5xI04kixwmonDBl0Sda"/>
+    </tracks>
+    <tracks name="Got It On Me" uri="spotify:track:25zlnOAzbVoOzIeXSvQFf1" explicit="true" duration_ms="164579" id="25zlnOAzbVoOzIeXSvQFf1">
+      <artists name="Pop Smoke" uri="spotify:artist:0eDvMgVFoNV3TpwtrVCoTj"/>
+    </tracks>
+    <tracks name="Tunnel Vision (Outro)" uri="spotify:track:2SxR5RitJdsG6wINvJLBSD" explicit="true" duration_ms="132587" id="2SxR5RitJdsG6wINvJLBSD">
+      <artists name="Pop Smoke" uri="spotify:artist:0eDvMgVFoNV3TpwtrVCoTj"/>
+    </tracks>
+    <tracks name="Dior - Bonus" uri="spotify:track:6PnTgx9lyvLGIcPnroCvc2" explicit="true" duration_ms="216243" id="6PnTgx9lyvLGIcPnroCvc2">
+      <artists name="Pop Smoke" uri="spotify:artist:0eDvMgVFoNV3TpwtrVCoTj"/>
+    </tracks>
+    <artist name="Pop Smoke" uri="spotify:artist:0eDvMgVFoNV3TpwtrVCoTj"/>
+  </albums>
+  <albums name="Whoopty" uri="spotify:album:5oBYG6dEI2Er6EeLnmonGE" id="5oBYG6dEI2Er6EeLnmonGE" label="CJ Music Group" release_date="2020-08-20">
+    <tracks name="Whoopty" uri="spotify:track:5vGLcdRuSbUhD8ScwsGSdA" explicit="true" duration_ms="123428" id="5vGLcdRuSbUhD8ScwsGSdA">
+      <artists name="CJ" uri="spotify:artist:7arQA31aZVS8yS6zUveWzb"/>
+    </tracks>
+    <artist name="CJ" uri="spotify:artist:7arQA31aZVS8yS6zUveWzb"/>
+  </albums>
+  <albums name="Wrapped In Red" uri="spotify:album:0t70lpfTyHEv0uuq21fhdZ" id="0t70lpfTyHEv0uuq21fhdZ" label="RCA Records Label" release_date="2013-10-25">
+    <tracks name="Wrapped in Red" uri="spotify:track:2nMZx7QHerfo4Wv37xNUEC" duration_ms="216906" id="2nMZx7QHerfo4Wv37xNUEC">
+      <artists name="Kelly Clarkson" uri="spotify:artist:3BmGtnKgCSGYIUhmivXKWX"/>
+    </tracks>
+    <tracks name="Underneath the Tree" uri="spotify:track:3nAp4IvdMPPWEH9uuXFFV5" duration_ms="229640" id="3nAp4IvdMPPWEH9uuXFFV5">
+      <artists name="Kelly Clarkson" uri="spotify:artist:3BmGtnKgCSGYIUhmivXKWX"/>
+    </tracks>
+    <tracks name="Have Yourself a Merry Little Christmas" uri="spotify:track:1WDfe4w7jgh9ZpVn56gmrv" duration_ms="219120" id="1WDfe4w7jgh9ZpVn56gmrv">
+      <artists name="Kelly Clarkson" uri="spotify:artist:3BmGtnKgCSGYIUhmivXKWX"/>
+    </tracks>
+    <tracks name="Run Run Rudolph" uri="spotify:track:4bcH4Qux77P70oawdihgIa" duration_ms="147986" id="4bcH4Qux77P70oawdihgIa">
+      <artists name="Kelly Clarkson" uri="spotify:artist:3BmGtnKgCSGYIUhmivXKWX"/>
+    </tracks>
+    <tracks name="Please Come Home for Christmas (Bells Will Be Ringing)" uri="spotify:track:42X0uRpzqXXHJzX0mzThGL" duration_ms="199080" id="42X0uRpzqXXHJzX0mzThGL">
+      <artists name="Kelly Clarkson" uri="spotify:artist:3BmGtnKgCSGYIUhmivXKWX"/>
+    </tracks>
+    <tracks name="Every Christmas" uri="spotify:track:3x5Uvh0XPdJUuNB92OZBO9" duration_ms="226986" id="3x5Uvh0XPdJUuNB92OZBO9">
+      <artists name="Kelly Clarkson" uri="spotify:artist:3BmGtnKgCSGYIUhmivXKWX"/>
+    </tracks>
+    <tracks name="Blue Christmas" uri="spotify:track:0ba3E5awT0IGhCVAOTxSMu" duration_ms="172613" id="0ba3E5awT0IGhCVAOTxSMu">
+      <artists name="Kelly Clarkson" uri="spotify:artist:3BmGtnKgCSGYIUhmivXKWX"/>
+    </tracks>
+    <tracks name="Baby, It's Cold Outside (feat. Ronnie Dunn)" uri="spotify:track:5cXaKZblS9ala9yO3j4dAc" duration_ms="181506" id="5cXaKZblS9ala9yO3j4dAc">
+      <artists name="Kelly Clarkson" uri="spotify:artist:3BmGtnKgCSGYIUhmivXKWX"/>
+      <artists name="Ronnie Dunn" uri="spotify:artist:1iLuTmIgxCEiEllDSWkeIy"/>
+    </tracks>
+    <tracks name="Winter Dreams (Brandon's Song)" uri="spotify:track:4EEWeQlsEkP8uDc1zvOG5B" duration_ms="202093" id="4EEWeQlsEkP8uDc1zvOG5B">
+      <artists name="Kelly Clarkson" uri="spotify:artist:3BmGtnKgCSGYIUhmivXKWX"/>
+    </tracks>
+    <tracks name="White Christmas" uri="spotify:track:7q0vS6Mnb1wOFIyaqzSnfx" duration_ms="182293" id="7q0vS6Mnb1wOFIyaqzSnfx">
+      <artists name="Kelly Clarkson" uri="spotify:artist:3BmGtnKgCSGYIUhmivXKWX"/>
+    </tracks>
+    <tracks name="My Favorite Things" uri="spotify:track:01i3BDtgXG4mXQ3lXIWfqj" duration_ms="169093" id="01i3BDtgXG4mXQ3lXIWfqj">
+      <artists name="Kelly Clarkson" uri="spotify:artist:3BmGtnKgCSGYIUhmivXKWX"/>
+    </tracks>
+    <tracks name="4 Carats" uri="spotify:track:4Qm7H1gEdY5iCDjH1fzUWd" duration_ms="208413" id="4Qm7H1gEdY5iCDjH1fzUWd">
+      <artists name="Kelly Clarkson" uri="spotify:artist:3BmGtnKgCSGYIUhmivXKWX"/>
+    </tracks>
+    <tracks name="Just for Now" uri="spotify:track:3b3UASX1zmY2Pf90oK2R6E" duration_ms="210933" id="3b3UASX1zmY2Pf90oK2R6E">
+      <artists name="Kelly Clarkson" uri="spotify:artist:3BmGtnKgCSGYIUhmivXKWX"/>
+    </tracks>
+    <tracks name="Silent Night (feat. Reba McEntire &amp; Trisha Yearwood)" uri="spotify:track:34k0Ce1ybXCTUEYhuKYpK3" duration_ms="249240" id="34k0Ce1ybXCTUEYhuKYpK3">
+      <artists name="Kelly Clarkson" uri="spotify:artist:3BmGtnKgCSGYIUhmivXKWX"/>
+      <artists name="Reba McEntire" uri="spotify:artist:02rd0anEWfMtF7iMku9uor"/>
+      <artists name="Trisha Yearwood" uri="spotify:artist:3XlIhgydjvC4EniPFZT20j"/>
+    </tracks>
+    <tracks name="I'll Be Home for Christmas" uri="spotify:track:1rixIFk3eRIJrABKtKLltf" duration_ms="174560" id="1rixIFk3eRIJrABKtKLltf">
+      <artists name="Kelly Clarkson" uri="spotify:artist:3BmGtnKgCSGYIUhmivXKWX"/>
+    </tracks>
+    <tracks name="Oh Come, Oh Come Emmanuel" uri="spotify:track:3TvMqASHWuXGE7Q7j8WlSf" duration_ms="120600" id="3TvMqASHWuXGE7Q7j8WlSf">
+      <artists name="Kelly Clarkson" uri="spotify:artist:3BmGtnKgCSGYIUhmivXKWX"/>
+    </tracks>
+    <artist name="Kelly Clarkson" uri="spotify:artist:3BmGtnKgCSGYIUhmivXKWX"/>
+  </albums>
+  <albums name="Man On The Moon III: The Chosen" uri="spotify:album:7vLxDionyOHSDmYS7Wpwdp" id="7vLxDionyOHSDmYS7Wpwdp" label="Republic Records" release_date="2020-12-11">
+    <tracks name="Beautiful Trip" uri="spotify:track:3Z5taVHYljiWv6itioRRRw" duration_ms="37013" id="3Z5taVHYljiWv6itioRRRw">
+      <artists name="Kid Cudi" uri="spotify:artist:0fA0VVWsXO9YnASrzqfmYu"/>
+    </tracks>
+    <tracks name="Tequila Shots" uri="spotify:track:0iAyh8IRB5WxusAS49DNz4" duration_ms="193293" id="0iAyh8IRB5WxusAS49DNz4">
+      <artists name="Kid Cudi" uri="spotify:artist:0fA0VVWsXO9YnASrzqfmYu"/>
+    </tracks>
+    <tracks name="Another Day" uri="spotify:track:2fghiDodS0NYp3ZrJvexuf" duration_ms="199786" id="2fghiDodS0NYp3ZrJvexuf">
+      <artists name="Kid Cudi" uri="spotify:artist:0fA0VVWsXO9YnASrzqfmYu"/>
+    </tracks>
+    <tracks name="She Knows This" uri="spotify:track:1AgW0DVxsv35FnVKXD3V2U" duration_ms="216560" id="1AgW0DVxsv35FnVKXD3V2U">
+      <artists name="Kid Cudi" uri="spotify:artist:0fA0VVWsXO9YnASrzqfmYu"/>
+    </tracks>
+    <tracks name="Dive" uri="spotify:track:4FentohLfxELieGeyXO8Zq" duration_ms="148706" id="4FentohLfxELieGeyXO8Zq">
+      <artists name="Kid Cudi" uri="spotify:artist:0fA0VVWsXO9YnASrzqfmYu"/>
+    </tracks>
+    <tracks name="Damaged" uri="spotify:track:7FrwXABmXJAwcwPmLWr3pm" duration_ms="150853" id="7FrwXABmXJAwcwPmLWr3pm">
+      <artists name="Kid Cudi" uri="spotify:artist:0fA0VVWsXO9YnASrzqfmYu"/>
+    </tracks>
+    <tracks name="Heaven On Earth" uri="spotify:track:3A0fb3Wk9vw3fghe2qU4F3" duration_ms="201093" id="3A0fb3Wk9vw3fghe2qU4F3">
+      <artists name="Kid Cudi" uri="spotify:artist:0fA0VVWsXO9YnASrzqfmYu"/>
+    </tracks>
+    <tracks name="Show Out (with Skepta &amp; Pop Smoke)" uri="spotify:track:6uryhDRzRZQLOYju9DT2uQ" duration_ms="174960" id="6uryhDRzRZQLOYju9DT2uQ">
+      <artists name="Kid Cudi" uri="spotify:artist:0fA0VVWsXO9YnASrzqfmYu"/>
+      <artists name="Skepta" uri="spotify:artist:2p1fiYHYiXz9qi0JJyxBzN"/>
+      <artists name="Pop Smoke" uri="spotify:artist:0eDvMgVFoNV3TpwtrVCoTj"/>
+    </tracks>
+    <tracks name="Mr. Solo Dolo III" uri="spotify:track:4CpAkw63H23GA95wyo4y9Y" duration_ms="242266" id="4CpAkw63H23GA95wyo4y9Y">
+      <artists name="Kid Cudi" uri="spotify:artist:0fA0VVWsXO9YnASrzqfmYu"/>
+    </tracks>
+    <tracks name="Sad People" uri="spotify:track:072rGfDcef311h0v3phYO8" duration_ms="176026" id="072rGfDcef311h0v3phYO8">
+      <artists name="Kid Cudi" uri="spotify:artist:0fA0VVWsXO9YnASrzqfmYu"/>
+    </tracks>
+    <tracks name="Elsie's Baby Boy (flashback)" uri="spotify:track:3mewjGmX8zeWWa9W8Pzbq9" duration_ms="219213" id="3mewjGmX8zeWWa9W8Pzbq9">
+      <artists name="Kid Cudi" uri="spotify:artist:0fA0VVWsXO9YnASrzqfmYu"/>
+    </tracks>
+    <tracks name="Sept. 16" uri="spotify:track:1io64CMOqNXcSIRuXR3lrE" duration_ms="249040" id="1io64CMOqNXcSIRuXR3lrE">
+      <artists name="Kid Cudi" uri="spotify:artist:0fA0VVWsXO9YnASrzqfmYu"/>
+    </tracks>
+    <tracks name="The Void" uri="spotify:track:01h92A2S8XFFgbdOeFRFlR" duration_ms="325413" id="01h92A2S8XFFgbdOeFRFlR">
+      <artists name="Kid Cudi" uri="spotify:artist:0fA0VVWsXO9YnASrzqfmYu"/>
+    </tracks>
+    <tracks name="Lovin&#x2019; Me (feat. Phoebe Bridgers)" uri="spotify:track:0dtymMXtmfuJjCCdQla1K3" duration_ms="165893" id="0dtymMXtmfuJjCCdQla1K3">
+      <artists name="Kid Cudi" uri="spotify:artist:0fA0VVWsXO9YnASrzqfmYu"/>
+      <artists name="Phoebe Bridgers" uri="spotify:artist:1r1uxoy19fzMxunt3ONAkG"/>
+    </tracks>
+    <tracks name="The Pale Moonlight" uri="spotify:track:05vOSaaHvSFoZRRO9rkzim" duration_ms="176293" id="05vOSaaHvSFoZRRO9rkzim">
+      <artists name="Kid Cudi" uri="spotify:artist:0fA0VVWsXO9YnASrzqfmYu"/>
+    </tracks>
+    <tracks name="Rockstar Knights (with Trippie Redd)" uri="spotify:track:2HDybiCRVN0kMbF54i0qU8" duration_ms="231466" id="2HDybiCRVN0kMbF54i0qU8">
+      <artists name="Kid Cudi" uri="spotify:artist:0fA0VVWsXO9YnASrzqfmYu"/>
+      <artists name="Trippie Redd" uri="spotify:artist:6Xgp2XMz1fhVYe7i6yNAax"/>
+    </tracks>
+    <tracks name="4 Da Kidz" uri="spotify:track:3L90LHk1hAmHtBeZtHq8Lv" duration_ms="184240" id="3L90LHk1hAmHtBeZtHq8Lv">
+      <artists name="Kid Cudi" uri="spotify:artist:0fA0VVWsXO9YnASrzqfmYu"/>
+    </tracks>
+    <tracks name="Lord I Know" uri="spotify:track:5RNI5WChDjlBiMBhkX8lQ1" duration_ms="212040" id="5RNI5WChDjlBiMBhkX8lQ1">
+      <artists name="Kid Cudi" uri="spotify:artist:0fA0VVWsXO9YnASrzqfmYu"/>
+    </tracks>
+    <artist name="Kid Cudi" uri="spotify:artist:0fA0VVWsXO9YnASrzqfmYu"/>
+  </albums>
+  <albums name="F*CK LOVE (SAVAGE)" uri="spotify:album:3YjfdLdpQcVI72uKhooZst" id="3YjfdLdpQcVI72uKhooZst" label="Columbia" release_date="2020-11-06">
+    <tracks name="PIKACHU" uri="spotify:track:33QXHN1SzNgHIRPr7qYknV" explicit="true" duration_ms="133723" id="33QXHN1SzNgHIRPr7qYknV">
+      <artists name="The Kid LAROI" uri="spotify:artist:2tIP7SsRs7vjIcLrU85W8J"/>
+    </tracks>
+    <tracks name="SO DONE" uri="spotify:track:3qgPpwtuRu5oP8EtFSj8HE" duration_ms="126521" id="3qgPpwtuRu5oP8EtFSj8HE">
+      <artists name="The Kid LAROI" uri="spotify:artist:2tIP7SsRs7vjIcLrU85W8J"/>
+    </tracks>
+    <tracks name="TRAGIC (feat. Youngboy Never Broke Again &amp; Internet Money)" uri="spotify:track:13EW51DKru044OJDJ9Bm8o" explicit="true" duration_ms="153147" id="13EW51DKru044OJDJ9Bm8o">
+      <artists name="The Kid LAROI" uri="spotify:artist:2tIP7SsRs7vjIcLrU85W8J"/>
+      <artists name="YoungBoy Never Broke Again" uri="spotify:artist:7wlFDEWiM5OoIAt8RSli8b"/>
+      <artists name="Internet Money" uri="spotify:artist:6MPCFvOQv5cIGfw3jODMF0"/>
+    </tracks>
+    <tracks name="ALWAYS DO" uri="spotify:track:3QCU8BT0zDS9LPVfEhRFEE" explicit="true" duration_ms="151704" id="3QCU8BT0zDS9LPVfEhRFEE">
+      <artists name="The Kid LAROI" uri="spotify:artist:2tIP7SsRs7vjIcLrU85W8J"/>
+    </tracks>
+    <tracks name="FEEL SOMETHING (feat. Marshmello)" uri="spotify:track:1yP6g2Ka4CisR3i2cuIcjK" explicit="true" duration_ms="139040" id="1yP6g2Ka4CisR3i2cuIcjK">
+      <artists name="The Kid LAROI" uri="spotify:artist:2tIP7SsRs7vjIcLrU85W8J"/>
+      <artists name="Marshmello" uri="spotify:artist:64KEffDW9EtZ1y2vBYgq8T"/>
+    </tracks>
+    <tracks name="F*CK YOU, GOODBYE (feat. Machine Gun Kelly)" uri="spotify:track:0DYNL4xbYWgNzppUamtyR4" explicit="true" duration_ms="144860" id="0DYNL4xbYWgNzppUamtyR4">
+      <artists name="The Kid LAROI" uri="spotify:artist:2tIP7SsRs7vjIcLrU85W8J"/>
+      <artists name="Machine Gun Kelly" uri="spotify:artist:6TIYQ3jFPwQSRmorSezPxX"/>
+    </tracks>
+    <tracks name="WITHOUT YOU" uri="spotify:track:27OeeYzk6klgBh83TSvGMA" explicit="true" duration_ms="161384" id="27OeeYzk6klgBh83TSvGMA">
+      <artists name="The Kid LAROI" uri="spotify:artist:2tIP7SsRs7vjIcLrU85W8J"/>
+    </tracks>
+    <tracks name="BOOTY CALL (skit)" uri="spotify:track:1KDsnpM14Y6CXbJHDaRV2B" explicit="true" duration_ms="56808" id="1KDsnpM14Y6CXbJHDaRV2B">
+      <artists name="The Kid LAROI" uri="spotify:artist:2tIP7SsRs7vjIcLrU85W8J"/>
+    </tracks>
+    <tracks name="MAYBE" uri="spotify:track:7syEMMetYY9CmyR5aE2ia6" explicit="true" duration_ms="174182" id="7syEMMetYY9CmyR5aE2ia6">
+      <artists name="The Kid LAROI" uri="spotify:artist:2tIP7SsRs7vjIcLrU85W8J"/>
+    </tracks>
+    <tracks name="WRONG (feat. Lil Mosey)" uri="spotify:track:0OtK6gE4DipBy7u3rUWBvJ" explicit="true" duration_ms="183567" id="0OtK6gE4DipBy7u3rUWBvJ">
+      <artists name="The Kid LAROI" uri="spotify:artist:2tIP7SsRs7vjIcLrU85W8J"/>
+      <artists name="Lil Mosey" uri="spotify:artist:5zctI4wO9XSKS8XwcnqEHk"/>
+    </tracks>
+    <tracks name="I WISH" uri="spotify:track:0pvwmAfJnszOzg2gw5wvn1" duration_ms="125571" id="0pvwmAfJnszOzg2gw5wvn1">
+      <artists name="The Kid LAROI" uri="spotify:artist:2tIP7SsRs7vjIcLrU85W8J"/>
+    </tracks>
+    <tracks name="NOT FAIR (feat. Corbin)" uri="spotify:track:7E7JTt9rsLPcZcakQcTZXA" explicit="true" duration_ms="166688" id="7E7JTt9rsLPcZcakQcTZXA">
+      <artists name="The Kid LAROI" uri="spotify:artist:2tIP7SsRs7vjIcLrU85W8J"/>
+      <artists name="Corbin" uri="spotify:artist:3K40SMapVhc8PxyYFofHff"/>
+    </tracks>
+    <tracks name="BATHROOM (skit)" uri="spotify:track:3cUrfbOtj6VsbyNxQCPXex" explicit="true" duration_ms="24939" id="3cUrfbOtj6VsbyNxQCPXex">
+      <artists name="The Kid LAROI" uri="spotify:artist:2tIP7SsRs7vjIcLrU85W8J"/>
+    </tracks>
+    <tracks name="GO (feat. Juice WRLD)" uri="spotify:track:6rladQVZPz1K5AgocaUgop" explicit="true" duration_ms="181688" id="6rladQVZPz1K5AgocaUgop">
+      <artists name="The Kid LAROI" uri="spotify:artist:2tIP7SsRs7vjIcLrU85W8J"/>
+      <artists name="Juice WRLD" uri="spotify:artist:4MCBfE4596Uoi2O4DtmEMz"/>
+    </tracks>
+    <tracks name="TELL ME WHY" uri="spotify:track:1FOEQiszPh2XuMuaY4ZIUq" explicit="true" duration_ms="195268" id="1FOEQiszPh2XuMuaY4ZIUq">
+      <artists name="The Kid LAROI" uri="spotify:artist:2tIP7SsRs7vjIcLrU85W8J"/>
+    </tracks>
+    <tracks name="SAME THING" uri="spotify:track:1v7yjddEltY6J51Wx7mXTa" duration_ms="124589" id="1v7yjddEltY6J51Wx7mXTa">
+      <artists name="The Kid LAROI" uri="spotify:artist:2tIP7SsRs7vjIcLrU85W8J"/>
+    </tracks>
+    <tracks name="NEW GUY (skit)" uri="spotify:track:6RIBhblsOnnzWBlQspZHXu" explicit="true" duration_ms="21937" id="6RIBhblsOnnzWBlQspZHXu">
+      <artists name="The Kid LAROI" uri="spotify:artist:2tIP7SsRs7vjIcLrU85W8J"/>
+    </tracks>
+    <tracks name="ERASE U" uri="spotify:track:5AYFdu0Y60pOLAPDpAYONJ" explicit="true" duration_ms="109094" id="5AYFdu0Y60pOLAPDpAYONJ">
+      <artists name="The Kid LAROI" uri="spotify:artist:2tIP7SsRs7vjIcLrU85W8J"/>
+    </tracks>
+    <tracks name="RUNNING" uri="spotify:track:6Tex46h3174Y009Mf1jG09" explicit="true" duration_ms="135241" id="6Tex46h3174Y009Mf1jG09">
+      <artists name="The Kid LAROI" uri="spotify:artist:2tIP7SsRs7vjIcLrU85W8J"/>
+    </tracks>
+    <tracks name="WISH YOU WELL (skit)" uri="spotify:track:0WyFvqmfNViCxZqdfkclsb" explicit="true" duration_ms="35300" id="0WyFvqmfNViCxZqdfkclsb">
+      <artists name="The Kid LAROI" uri="spotify:artist:2tIP7SsRs7vjIcLrU85W8J"/>
+    </tracks>
+    <tracks name="NEED YOU MOST (So Sick)" uri="spotify:track:75UvJXVZZKA6lMSupSf46d" explicit="true" duration_ms="135227" id="75UvJXVZZKA6lMSupSf46d">
+      <artists name="The Kid LAROI" uri="spotify:artist:2tIP7SsRs7vjIcLrU85W8J"/>
+    </tracks>
+    <tracks name="SELFISH" uri="spotify:track:76iQqn9vdVis8CkCoUR8I8" explicit="true" duration_ms="196202" id="76iQqn9vdVis8CkCoUR8I8">
+      <artists name="The Kid LAROI" uri="spotify:artist:2tIP7SsRs7vjIcLrU85W8J"/>
+    </tracks>
+    <artist name="The Kid LAROI" uri="spotify:artist:2tIP7SsRs7vjIcLrU85W8J"/>
+  </albums>
+  <albums name="HOLIDAY" uri="spotify:album:4EvukZrmNBiqJbs3LwOSHu" id="4EvukZrmNBiqJbs3LwOSHu" label="Columbia" release_date="2020-11-13">
+    <tracks name="HOLIDAY" uri="spotify:track:6zFMeegAMYQo0mt8rXtrli" explicit="true" duration_ms="154997" id="6zFMeegAMYQo0mt8rXtrli">
+      <artists name="Lil Nas X" uri="spotify:artist:7jVv8c5Fj3E9VhNjxT4snq"/>
+    </tracks>
+    <artist name="Lil Nas X" uri="spotify:artist:7jVv8c5Fj3E9VhNjxT4snq"/>
+  </albums>
+  <albums name="Plastic Hearts" uri="spotify:album:5BRhg6NSEZOj0BR6Iz56fR" id="5BRhg6NSEZOj0BR6Iz56fR" label="RCA Records Label" release_date="2020-11-27">
+    <tracks name="WTF Do I Know" uri="spotify:track:37PJvlIfYWqEX6fgjHlnTf" explicit="true" duration_ms="171800" id="37PJvlIfYWqEX6fgjHlnTf">
+      <artists name="Miley Cyrus" uri="spotify:artist:5YGY8feqx7naU7z4HrwZM6"/>
+    </tracks>
+    <tracks name="Plastic Hearts" uri="spotify:track:6qCsKKS7Ol63SJW3LOIX5R" duration_ms="205733" id="6qCsKKS7Ol63SJW3LOIX5R">
+      <artists name="Miley Cyrus" uri="spotify:artist:5YGY8feqx7naU7z4HrwZM6"/>
+    </tracks>
+    <tracks name="Angels Like You" uri="spotify:track:1daDRI9ahBonbWD8YcxOIB" duration_ms="196453" id="1daDRI9ahBonbWD8YcxOIB">
+      <artists name="Miley Cyrus" uri="spotify:artist:5YGY8feqx7naU7z4HrwZM6"/>
+    </tracks>
+    <tracks name="Prisoner (feat. Dua Lipa)" uri="spotify:track:2Oycxb8QbPkpHTo8ZrmG0B" duration_ms="169333" id="2Oycxb8QbPkpHTo8ZrmG0B">
+      <artists name="Miley Cyrus" uri="spotify:artist:5YGY8feqx7naU7z4HrwZM6"/>
+      <artists name="Dua Lipa" uri="spotify:artist:6M2wZ9GZgrQXHCFfjv46we"/>
+    </tracks>
+    <tracks name="Gimme What I Want" uri="spotify:track:4v8jmsVox8VwU5js3JHOJZ" duration_ms="151720" id="4v8jmsVox8VwU5js3JHOJZ">
+      <artists name="Miley Cyrus" uri="spotify:artist:5YGY8feqx7naU7z4HrwZM6"/>
+    </tracks>
+    <tracks name="Night Crawling (feat. Billy Idol)" uri="spotify:track:4U34WsyOvppOMnRfq7DuOy" duration_ms="189013" id="4U34WsyOvppOMnRfq7DuOy">
+      <artists name="Miley Cyrus" uri="spotify:artist:5YGY8feqx7naU7z4HrwZM6"/>
+      <artists name="Billy Idol" uri="spotify:artist:7lzordPuZEXxwt9aoVZYmG"/>
+    </tracks>
+    <tracks name="Midnight Sky" uri="spotify:track:4i2qxFEVVUi8yOYoxB8TCX" duration_ms="223280" id="4i2qxFEVVUi8yOYoxB8TCX">
+      <artists name="Miley Cyrus" uri="spotify:artist:5YGY8feqx7naU7z4HrwZM6"/>
+    </tracks>
+    <tracks name="High" uri="spotify:track:2LseyBkPJv7r7wCt2yMEgX" duration_ms="196760" id="2LseyBkPJv7r7wCt2yMEgX">
+      <artists name="Miley Cyrus" uri="spotify:artist:5YGY8feqx7naU7z4HrwZM6"/>
+    </tracks>
+    <tracks name="Hate Me" uri="spotify:track:0rFcav2bUNH6NC9576Viiu" duration_ms="157800" id="0rFcav2bUNH6NC9576Viiu">
+      <artists name="Miley Cyrus" uri="spotify:artist:5YGY8feqx7naU7z4HrwZM6"/>
+    </tracks>
+    <tracks name="Bad Karma (feat. Joan Jett)" uri="spotify:track:47KegqqrzpKw0jdHFWqtNb" explicit="true" duration_ms="188200" id="47KegqqrzpKw0jdHFWqtNb">
+      <artists name="Miley Cyrus" uri="spotify:artist:5YGY8feqx7naU7z4HrwZM6"/>
+      <artists name="Joan Jett &amp; The Blackhearts" uri="spotify:artist:1Fmb52lZ6Jv7FMWXXTPO3K"/>
+    </tracks>
+    <tracks name="Never Be Me" uri="spotify:track:1M7qLcfozANPcMKfgMEHOt" duration_ms="215520" id="1M7qLcfozANPcMKfgMEHOt">
+      <artists name="Miley Cyrus" uri="spotify:artist:5YGY8feqx7naU7z4HrwZM6"/>
+    </tracks>
+    <tracks name="Golden G String" uri="spotify:track:68qkDbsvprJRG5xw2R02dy" duration_ms="235746" id="68qkDbsvprJRG5xw2R02dy">
+      <artists name="Miley Cyrus" uri="spotify:artist:5YGY8feqx7naU7z4HrwZM6"/>
+    </tracks>
+    <tracks name="Edge of Midnight (Midnight Sky Remix) (feat. Stevie Nicks)" uri="spotify:track:1Tip6R4swhC7E6hgILBjrE" duration_ms="220636" id="1Tip6R4swhC7E6hgILBjrE">
+      <artists name="Miley Cyrus" uri="spotify:artist:5YGY8feqx7naU7z4HrwZM6"/>
+      <artists name="Stevie Nicks" uri="spotify:artist:7crPfGd2k81ekOoSqQKWWz"/>
+    </tracks>
+    <tracks name="Heart Of Glass (Live from the iHeart Festival)" uri="spotify:track:5GK1GYXH16RdfmltogHhAk" duration_ms="213671" id="5GK1GYXH16RdfmltogHhAk">
+      <artists name="Miley Cyrus" uri="spotify:artist:5YGY8feqx7naU7z4HrwZM6"/>
+    </tracks>
+    <tracks name="Zombie (Live from the NIVA Save Our Stages Festival)" uri="spotify:track:0olaaJrCBTMJJvqPdvNpsx" duration_ms="290767" id="0olaaJrCBTMJJvqPdvNpsx">
+      <artists name="Miley Cyrus" uri="spotify:artist:5YGY8feqx7naU7z4HrwZM6"/>
+    </tracks>
+    <artist name="Miley Cyrus" uri="spotify:artist:5YGY8feqx7naU7z4HrwZM6"/>
+  </albums>
+  <albums name="WAP (feat. Megan Thee Stallion)" uri="spotify:album:2ogiazbrNEx0kQHGl5ZBTQ" id="2ogiazbrNEx0kQHGl5ZBTQ" label="Atlantic/KSR" release_date="2020-08-07">
+    <tracks name="WAP (feat. Megan Thee Stallion)" uri="spotify:track:4Oun2ylbjFKMPTiaSbbCih" explicit="true" duration_ms="187541" id="4Oun2ylbjFKMPTiaSbbCih">
+      <artists name="Cardi B" uri="spotify:artist:4kYSro6naA4h99UJvo89HB"/>
+      <artists name="Megan Thee Stallion" uri="spotify:artist:181bsRPaVXVlUKXrxwZfHK"/>
+    </tracks>
+    <artist name="Cardi B" uri="spotify:artist:4kYSro6naA4h99UJvo89HB"/>
+  </albums>
+  <albums name="PAPI JUANCHO" uri="spotify:album:0p2yf6DucEgvj8Uk8KXJJv" id="0p2yf6DucEgvj8Uk8KXJJv" label="Sony Music Latin" release_date="2020-08-21">
+    <tracks name="Medallo City" uri="spotify:track:4MOCTTqqdLyATKQG3tj4at" duration_ms="233280" id="4MOCTTqqdLyATKQG3tj4at">
+      <artists name="Maluma" uri="spotify:artist:1r4hJ1h58CWwUQe3MxPuau"/>
+    </tracks>
+    <tracks name="Bella-K (feat. Zion &amp; Randy)" uri="spotify:track:2pNfUdUipHAODmv11pZtNk" explicit="true" duration_ms="223989" id="2pNfUdUipHAODmv11pZtNk">
+      <artists name="Maluma" uri="spotify:artist:1r4hJ1h58CWwUQe3MxPuau"/>
+      <artists name="Zion" uri="spotify:artist:1pgDilWYDWLoOgGjf1iHNu"/>
+      <artists name="Randy" uri="spotify:artist:6J4e8oWHITp1msfeyZg66B"/>
+    </tracks>
+    <tracks name="Haw&#xe1;i" uri="spotify:track:1yoMvmasuxZfqHEipJhRbp" duration_ms="199112" id="1yoMvmasuxZfqHEipJhRbp">
+      <artists name="Maluma" uri="spotify:artist:1r4hJ1h58CWwUQe3MxPuau"/>
+    </tracks>
+    <tracks name="Cielo a un Diablo" uri="spotify:track:7fOmJs2dwIJGFc90D8UzRu" duration_ms="205714" id="7fOmJs2dwIJGFc90D8UzRu">
+      <artists name="Maluma" uri="spotify:artist:1r4hJ1h58CWwUQe3MxPuau"/>
+    </tracks>
+    <tracks name="Perd&#xf3;n (feat. Yandel)" uri="spotify:track:4Pe8xNpIPm0Wx8M8QW5Nn7" duration_ms="180472" id="4Pe8xNpIPm0Wx8M8QW5Nn7">
+      <artists name="Maluma" uri="spotify:artist:1r4hJ1h58CWwUQe3MxPuau"/>
+      <artists name="Yandel" uri="spotify:artist:0eHQ9o50hj6ZDNBt6Ys1sD"/>
+    </tracks>
+    <tracks name="La Cura" uri="spotify:track:5uAkYtrUSKMY1tC18YCEbp" explicit="true" duration_ms="176663" id="5uAkYtrUSKMY1tC18YCEbp">
+      <artists name="Maluma" uri="spotify:artist:1r4hJ1h58CWwUQe3MxPuau"/>
+    </tracks>
+    <tracks name="Luz Verde" uri="spotify:track:3ngk8mwDOK0ALLtWIYyBI5" explicit="true" duration_ms="183860" id="3ngk8mwDOK0ALLtWIYyBI5">
+      <artists name="Maluma" uri="spotify:artist:1r4hJ1h58CWwUQe3MxPuau"/>
+    </tracks>
+    <tracks name="Cuidau (feat. Yomo)" uri="spotify:track:7nGpFKxGqKIUc3LLIp3EPD" explicit="true" duration_ms="213995" id="7nGpFKxGqKIUc3LLIp3EPD">
+      <artists name="Maluma" uri="spotify:artist:1r4hJ1h58CWwUQe3MxPuau"/>
+      <artists name="Yomo" uri="spotify:artist:4myAXQmMuS1lZe8T6Y7eBg"/>
+    </tracks>
+    <tracks name="Parce (feat. Justin Quiles)" uri="spotify:track:4RJz8NfIe09gpKMiRUWKhJ" duration_ms="248345" id="4RJz8NfIe09gpKMiRUWKhJ">
+      <artists name="Maluma" uri="spotify:artist:1r4hJ1h58CWwUQe3MxPuau"/>
+      <artists name="Lenny Tav&#xe1;rez" uri="spotify:artist:1pQWsZQehhS4wavwh7Fnxd"/>
+      <artists name="Justin Quiles" uri="spotify:artist:14zUHaJZo1mnYtn6IBRaRP"/>
+    </tracks>
+    <tracks name="Viento (Interlude)" uri="spotify:track:6THKdMvrQX2qgA9soG0sv6" duration_ms="162485" id="6THKdMvrQX2qgA9soG0sv6">
+      <artists name="Maluma" uri="spotify:artist:1r4hJ1h58CWwUQe3MxPuau"/>
+    </tracks>
+    <tracks name="Madrid (feat. Myke Towers)" uri="spotify:track:19OXtYzrJyCrQvTbfukt4H" explicit="true" duration_ms="198569" id="19OXtYzrJyCrQvTbfukt4H">
+      <artists name="Maluma" uri="spotify:artist:1r4hJ1h58CWwUQe3MxPuau"/>
+      <artists name="Myke Towers" uri="spotify:artist:7iK8PXO48WeuP03g8YR51W"/>
+    </tracks>
+    <tracks name="Salida de Escape" uri="spotify:track:7GPjZzWf2nBGwWD0rcGzjJ" duration_ms="184327" id="7GPjZzWf2nBGwWD0rcGzjJ">
+      <artists name="Maluma" uri="spotify:artist:1r4hJ1h58CWwUQe3MxPuau"/>
+    </tracks>
+    <tracks name="Ansiedad" uri="spotify:track:78B3uJ9LpahkfNljpCCTlc" duration_ms="220812" id="78B3uJ9LpahkfNljpCCTlc">
+      <artists name="Maluma" uri="spotify:artist:1r4hJ1h58CWwUQe3MxPuau"/>
+    </tracks>
+    <tracks name="Mai Mai (feat. &#xd1;engo Flow &amp; Jory Boy)" uri="spotify:track:3Mje1Tsr45PnoS42Tsddo7" duration_ms="237655" id="3Mje1Tsr45PnoS42Tsddo7">
+      <artists name="Maluma" uri="spotify:artist:1r4hJ1h58CWwUQe3MxPuau"/>
+      <artists name="&#xd1;engo Flow" uri="spotify:artist:12vb80Km0Ew53ABfJOepVz"/>
+      <artists name="Jory Boy" uri="spotify:artist:5lFhCi03HDneWzvCxGctrT"/>
+    </tracks>
+    <tracks name="Vete Vete (feat. &#xd1;ejo &amp; D&#xe1;lmata)" uri="spotify:track:4cKVehDVyrOPny1bXr5wU6" duration_ms="243560" id="4cKVehDVyrOPny1bXr5wU6">
+      <artists name="Maluma" uri="spotify:artist:1r4hJ1h58CWwUQe3MxPuau"/>
+      <artists name="&#xd1;ejo" uri="spotify:artist:2OHKEe204spO7G7NcbeO2o"/>
+      <artists name="Dalmata" uri="spotify:artist:3jGlU8UMMo44I2xeLQ6FD3"/>
+    </tracks>
+    <tracks name="Me Acuerdo de Ti (feat. Darell)" uri="spotify:track:70jFIrXsqhcLTlmT4vPpVf" duration_ms="223708" id="70jFIrXsqhcLTlmT4vPpVf">
+      <artists name="Maluma" uri="spotify:artist:1r4hJ1h58CWwUQe3MxPuau"/>
+      <artists name="Darell" uri="spotify:artist:1TtXnWcUs0FCkaZDPGYHdf"/>
+    </tracks>
+    <tracks name="Boy Toy" uri="spotify:track:5NmUsKhn9DCDUrlTGO30gP" duration_ms="195508" id="5NmUsKhn9DCDUrlTGO30gP">
+      <artists name="Maluma" uri="spotify:artist:1r4hJ1h58CWwUQe3MxPuau"/>
+    </tracks>
+    <tracks name="Booty" uri="spotify:track:7iJCieqadL6UtIpreqU8j2" explicit="true" duration_ms="157020" id="7iJCieqadL6UtIpreqU8j2">
+      <artists name="Maluma" uri="spotify:artist:1r4hJ1h58CWwUQe3MxPuau"/>
+    </tracks>
+    <tracks name="Quality" uri="spotify:track:6L1VsVaEGlLvdInKLvR9xc" duration_ms="161311" id="6L1VsVaEGlLvdInKLvR9xc">
+      <artists name="Maluma" uri="spotify:artist:1r4hJ1h58CWwUQe3MxPuau"/>
+    </tracks>
+    <tracks name="Copas de Vino" uri="spotify:track:16aMGPjpPDIeFkszebR0lf" duration_ms="192000" id="16aMGPjpPDIeFkszebR0lf">
+      <artists name="Maluma" uri="spotify:artist:1r4hJ1h58CWwUQe3MxPuau"/>
+    </tracks>
+    <tracks name="ADMV" uri="spotify:track:4j3iq13kHs5PB94jdTp3Y3" duration_ms="193699" id="4j3iq13kHs5PB94jdTp3Y3">
+      <artists name="Maluma" uri="spotify:artist:1r4hJ1h58CWwUQe3MxPuau"/>
+    </tracks>
+    <tracks name="ADMV - Versi&#xf3;n Urbana" uri="spotify:track:3LoNDgFKiaFYSyzhNESwo3" duration_ms="185263" id="3LoNDgFKiaFYSyzhNESwo3">
+      <artists name="Maluma" uri="spotify:artist:1r4hJ1h58CWwUQe3MxPuau"/>
+    </tracks>
+    <artist name="Maluma" uri="spotify:artist:1r4hJ1h58CWwUQe3MxPuau"/>
+  </albums>
+  <albums name="Lonely (with benny blanco)" uri="spotify:album:3P5WIUJO0Ots1lQx09TOxk" id="3P5WIUJO0Ots1lQx09TOxk" label="Friends Keep Secrets/Def Jam Recordings/Interscope Records" release_date="2020-10-16">
+    <tracks name="Lonely (with benny blanco)" uri="spotify:track:4y4spB9m0Q6026KfkAvy9Q" explicit="true" duration_ms="149297" id="4y4spB9m0Q6026KfkAvy9Q">
+      <artists name="Justin Bieber" uri="spotify:artist:1uNFoZAHBGtllmzznpCI3s"/>
+      <artists name="benny blanco" uri="spotify:artist:5CiGnKThu5ctn9pBxv7DGa"/>
+    </tracks>
+    <artist name="Justin Bieber" uri="spotify:artist:1uNFoZAHBGtllmzznpCI3s"/>
+  </albums>
+  <albums name="Fine Line" uri="spotify:album:7xV2TzoaVc0ycW7fwBwAml" id="7xV2TzoaVc0ycW7fwBwAml" label="Columbia" release_date="2019-12-13">
+    <tracks name="Golden" uri="spotify:track:45S5WTQEGOB1VHr1Q4FuPl" duration_ms="208906" id="45S5WTQEGOB1VHr1Q4FuPl">
+      <artists name="Harry Styles" uri="spotify:artist:6KImCVD70vtIoJWnq6nGn3"/>
+    </tracks>
+    <tracks name="Watermelon Sugar" uri="spotify:track:6UelLqGlWMcVH1E5c4H7lY" duration_ms="174000" id="6UelLqGlWMcVH1E5c4H7lY">
+      <artists name="Harry Styles" uri="spotify:artist:6KImCVD70vtIoJWnq6nGn3"/>
+    </tracks>
+    <tracks name="Adore You" uri="spotify:track:3jjujdWJ72nww5eGnfs2E7" duration_ms="207133" id="3jjujdWJ72nww5eGnfs2E7">
+      <artists name="Harry Styles" uri="spotify:artist:6KImCVD70vtIoJWnq6nGn3"/>
+    </tracks>
+    <tracks name="Lights Up" uri="spotify:track:4jAIqgrPjKLTY9Gbez25Qb" duration_ms="172213" id="4jAIqgrPjKLTY9Gbez25Qb">
+      <artists name="Harry Styles" uri="spotify:artist:6KImCVD70vtIoJWnq6nGn3"/>
+    </tracks>
+    <tracks name="Cherry" uri="spotify:track:2IOFZdYYkFxEHVz1w34PoL" duration_ms="259186" id="2IOFZdYYkFxEHVz1w34PoL">
+      <artists name="Harry Styles" uri="spotify:artist:6KImCVD70vtIoJWnq6nGn3"/>
+    </tracks>
+    <tracks name="Falling" uri="spotify:track:1ZMiCix7XSAbfAJlEZWMCp" duration_ms="240133" id="1ZMiCix7XSAbfAJlEZWMCp">
+      <artists name="Harry Styles" uri="spotify:artist:6KImCVD70vtIoJWnq6nGn3"/>
+    </tracks>
+    <tracks name="To Be So Lonely" uri="spotify:track:5JiH89mHrv9oWHlD0T326z" duration_ms="192080" id="5JiH89mHrv9oWHlD0T326z">
+      <artists name="Harry Styles" uri="spotify:artist:6KImCVD70vtIoJWnq6nGn3"/>
+    </tracks>
+    <tracks name="She" uri="spotify:track:6SQLk9HSNketfgs2AyIiMs" duration_ms="362653" id="6SQLk9HSNketfgs2AyIiMs">
+      <artists name="Harry Styles" uri="spotify:artist:6KImCVD70vtIoJWnq6nGn3"/>
+    </tracks>
+    <tracks name="Sunflower, Vol. 6" uri="spotify:track:6iYMfxznTBlcVOgRHab2W0" duration_ms="221826" id="6iYMfxznTBlcVOgRHab2W0">
+      <artists name="Harry Styles" uri="spotify:artist:6KImCVD70vtIoJWnq6nGn3"/>
+    </tracks>
+    <tracks name="Canyon Moon" uri="spotify:track:5IhzJOXNE7ki0IIJbZbnGq" duration_ms="189786" id="5IhzJOXNE7ki0IIJbZbnGq">
+      <artists name="Harry Styles" uri="spotify:artist:6KImCVD70vtIoJWnq6nGn3"/>
+    </tracks>
+    <tracks name="Treat People With Kindness" uri="spotify:track:03mMSLEJCPoGJwQhHpN5y0" duration_ms="197346" id="03mMSLEJCPoGJwQhHpN5y0">
+      <artists name="Harry Styles" uri="spotify:artist:6KImCVD70vtIoJWnq6nGn3"/>
+    </tracks>
+    <tracks name="Fine Line" uri="spotify:track:6VzcQuzTNTMFnJ6rBSaLH9" duration_ms="377960" id="6VzcQuzTNTMFnJ6rBSaLH9">
+      <artists name="Harry Styles" uri="spotify:artist:6KImCVD70vtIoJWnq6nGn3"/>
+    </tracks>
+    <artist name="Harry Styles" uri="spotify:artist:6KImCVD70vtIoJWnq6nGn3"/>
+  </albums>
+</spo:Spotify>

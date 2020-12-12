@@ -1,0 +1,963 @@
+{
+  "items" : [ {
+    "track" : {
+      "album" : {
+        "id" : "5jmVg7rwRcgd6ARPAeYNSm",
+        "name" : "evermore",
+        "uri" : "spotify:album:5jmVg7rwRcgd6ARPAeYNSm"
+      },
+      "artists" : [ {
+        "id" : "06HL4z0CvFAxyc27GXpf02",
+        "name" : "Taylor Swift",
+        "uri" : "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      } ],
+      "duration_ms" : 214706,
+      "explicit" : false,
+      "id" : "3Uo7WG0vmLQ07WB4BDwy7D",
+      "name" : "willow",
+      "uri" : "spotify:track:3Uo7WG0vmLQ07WB4BDwy7D"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "2d9BCZeAAhiZWPpbX9aPCW",
+        "name" : "EL ÚLTIMO TOUR DEL MUNDO",
+        "uri" : "spotify:album:2d9BCZeAAhiZWPpbX9aPCW"
+      },
+      "artists" : [ {
+        "id" : "4q3ewBCX7sLwd24euuV69X",
+        "name" : "Bad Bunny",
+        "uri" : "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+      }, {
+        "id" : "0EFisYRi20PTADoJrifHrz",
+        "name" : "Jhay Cortez",
+        "uri" : "spotify:artist:0EFisYRi20PTADoJrifHrz"
+      } ],
+      "duration_ms" : 205090,
+      "explicit" : true,
+      "id" : "4MzXwWMhyBbmu6hOcLVD49",
+      "name" : "DÁKITI",
+      "uri" : "spotify:track:4MzXwWMhyBbmu6hOcLVD49"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "2Xoteh7uEpea4TohMxjtaq",
+        "name" : "evermore",
+        "uri" : "spotify:album:2Xoteh7uEpea4TohMxjtaq"
+      },
+      "artists" : [ {
+        "id" : "06HL4z0CvFAxyc27GXpf02",
+        "name" : "Taylor Swift",
+        "uri" : "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      } ],
+      "duration_ms" : 244000,
+      "explicit" : true,
+      "id" : "0sY6ZUTh4yoctD8VIXz339",
+      "name" : "champagne problems",
+      "uri" : "spotify:track:0sY6ZUTh4yoctD8VIXz339"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "2Xoteh7uEpea4TohMxjtaq",
+        "name" : "evermore",
+        "uri" : "spotify:album:2Xoteh7uEpea4TohMxjtaq"
+      },
+      "artists" : [ {
+        "id" : "06HL4z0CvFAxyc27GXpf02",
+        "name" : "Taylor Swift",
+        "uri" : "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      } ],
+      "duration_ms" : 185320,
+      "explicit" : true,
+      "id" : "5BK0uqwY9DNfZ630STAEaq",
+      "name" : "gold rush",
+      "uri" : "spotify:track:5BK0uqwY9DNfZ630STAEaq"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "5jmVg7rwRcgd6ARPAeYNSm",
+        "name" : "evermore",
+        "uri" : "spotify:album:5jmVg7rwRcgd6ARPAeYNSm"
+      },
+      "artists" : [ {
+        "id" : "06HL4z0CvFAxyc27GXpf02",
+        "name" : "Taylor Swift",
+        "uri" : "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }, {
+        "id" : "4Ui2kfOqGujY81UcPrb5KE",
+        "name" : "HAIM",
+        "uri" : "spotify:artist:4Ui2kfOqGujY81UcPrb5KE"
+      } ],
+      "duration_ms" : 215626,
+      "explicit" : false,
+      "id" : "6NriykdkRrjQMZo1sfVYUo",
+      "name" : "no body, no crime (feat. HAIM)",
+      "uri" : "spotify:track:6NriykdkRrjQMZo1sfVYUo"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "5jmVg7rwRcgd6ARPAeYNSm",
+        "name" : "evermore",
+        "uri" : "spotify:album:5jmVg7rwRcgd6ARPAeYNSm"
+      },
+      "artists" : [ {
+        "id" : "06HL4z0CvFAxyc27GXpf02",
+        "name" : "Taylor Swift",
+        "uri" : "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      } ],
+      "duration_ms" : 229840,
+      "explicit" : false,
+      "id" : "4GBkffrtA51p17JH35irGA",
+      "name" : "‘tis the damn season",
+      "uri" : "spotify:track:4GBkffrtA51p17JH35irGA"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "2Xoteh7uEpea4TohMxjtaq",
+        "name" : "evermore",
+        "uri" : "spotify:album:2Xoteh7uEpea4TohMxjtaq"
+      },
+      "artists" : [ {
+        "id" : "06HL4z0CvFAxyc27GXpf02",
+        "name" : "Taylor Swift",
+        "uri" : "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      } ],
+      "duration_ms" : 245440,
+      "explicit" : true,
+      "id" : "0PurA4JVJ8YQgSVopY8fn6",
+      "name" : "tolerate it",
+      "uri" : "spotify:track:0PurA4JVJ8YQgSVopY8fn6"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "61ulfFSmmxMhc2wCdmdMkN",
+        "name" : "Merry Christmas",
+        "uri" : "spotify:album:61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists" : [ {
+        "id" : "4iHNK0tOyZPYnBU7nGAgpQ",
+        "name" : "Mariah Carey",
+        "uri" : "spotify:artist:4iHNK0tOyZPYnBU7nGAgpQ"
+      } ],
+      "duration_ms" : 241106,
+      "explicit" : false,
+      "id" : "0bYg9bo50gSsH3LtXe2SQn",
+      "name" : "All I Want for Christmas Is You",
+      "uri" : "spotify:track:0bYg9bo50gSsH3LtXe2SQn"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "2Xoteh7uEpea4TohMxjtaq",
+        "name" : "evermore",
+        "uri" : "spotify:album:2Xoteh7uEpea4TohMxjtaq"
+      },
+      "artists" : [ {
+        "id" : "06HL4z0CvFAxyc27GXpf02",
+        "name" : "Taylor Swift",
+        "uri" : "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      } ],
+      "duration_ms" : 315146,
+      "explicit" : true,
+      "id" : "73YUReisjb3A9ActdLLjJQ",
+      "name" : "happiness",
+      "uri" : "spotify:track:73YUReisjb3A9ActdLLjJQ"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "6egzU9NKfora01qaNbvwfZ",
+        "name" : "LAST CHRISTMAS",
+        "uri" : "spotify:album:6egzU9NKfora01qaNbvwfZ"
+      },
+      "artists" : [ {
+        "id" : "5lpH0xAS4fVfLkACg9DAuM",
+        "name" : "Wham!",
+        "uri" : "spotify:artist:5lpH0xAS4fVfLkACg9DAuM"
+      } ],
+      "duration_ms" : 262960,
+      "explicit" : false,
+      "id" : "2FRnf9qhLbvw8fu4IBXx78",
+      "name" : "Last Christmas",
+      "uri" : "spotify:track:2FRnf9qhLbvw8fu4IBXx78"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "5jmVg7rwRcgd6ARPAeYNSm",
+        "name" : "evermore",
+        "uri" : "spotify:album:5jmVg7rwRcgd6ARPAeYNSm"
+      },
+      "artists" : [ {
+        "id" : "06HL4z0CvFAxyc27GXpf02",
+        "name" : "Taylor Swift",
+        "uri" : "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }, {
+        "id" : "2cCUtGK9sDU2EoElnk0GNB",
+        "name" : "The National",
+        "uri" : "spotify:artist:2cCUtGK9sDU2EoElnk0GNB"
+      } ],
+      "duration_ms" : 275320,
+      "explicit" : false,
+      "id" : "4tyX1rw9X309WkEdh2As4B",
+      "name" : "coney island (feat. The National)",
+      "uri" : "spotify:track:4tyX1rw9X309WkEdh2As4B"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "5jmVg7rwRcgd6ARPAeYNSm",
+        "name" : "evermore",
+        "uri" : "spotify:album:5jmVg7rwRcgd6ARPAeYNSm"
+      },
+      "artists" : [ {
+        "id" : "06HL4z0CvFAxyc27GXpf02",
+        "name" : "Taylor Swift",
+        "uri" : "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      } ],
+      "duration_ms" : 225880,
+      "explicit" : false,
+      "id" : "3w9VRlKPvNxj40RdUGRweH",
+      "name" : "dorothea",
+      "uri" : "spotify:track:3w9VRlKPvNxj40RdUGRweH"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "3euz4vS7ezKGnNSwgyvKcd",
+        "name" : "Positions",
+        "uri" : "spotify:album:3euz4vS7ezKGnNSwgyvKcd"
+      },
+      "artists" : [ {
+        "id" : "66CXWjxzNUsdJxJ2JdwvnR",
+        "name" : "Ariana Grande",
+        "uri" : "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+      } ],
+      "duration_ms" : 172324,
+      "explicit" : true,
+      "id" : "35mvY5S1H3J2QZyna3TFe0",
+      "name" : "positions",
+      "uri" : "spotify:track:35mvY5S1H3J2QZyna3TFe0"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "4YMnOf4a7obOcN1Gy2QEuM",
+        "name" : "Mood (feat. iann dior)",
+        "uri" : "spotify:album:4YMnOf4a7obOcN1Gy2QEuM"
+      },
+      "artists" : [ {
+        "id" : "6fWVd57NKTalqvmjRd2t8Z",
+        "name" : "24kGoldn",
+        "uri" : "spotify:artist:6fWVd57NKTalqvmjRd2t8Z"
+      }, {
+        "id" : "6ASri4ePR7RlsvIQgWPJpS",
+        "name" : "iann dior",
+        "uri" : "spotify:artist:6ASri4ePR7RlsvIQgWPJpS"
+      } ],
+      "duration_ms" : 140525,
+      "explicit" : true,
+      "id" : "3tjFYV6RSFtuktYl3ZtYcq",
+      "name" : "Mood (feat. iann dior)",
+      "uri" : "spotify:track:3tjFYV6RSFtuktYl3ZtYcq"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "2Xoteh7uEpea4TohMxjtaq",
+        "name" : "evermore",
+        "uri" : "spotify:album:2Xoteh7uEpea4TohMxjtaq"
+      },
+      "artists" : [ {
+        "id" : "06HL4z0CvFAxyc27GXpf02",
+        "name" : "Taylor Swift",
+        "uri" : "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      } ],
+      "duration_ms" : 260440,
+      "explicit" : true,
+      "id" : "19CSr8rwW05VJL2F91KFNK",
+      "name" : "ivy",
+      "uri" : "spotify:track:19CSr8rwW05VJL2F91KFNK"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "5jmVg7rwRcgd6ARPAeYNSm",
+        "name" : "evermore",
+        "uri" : "spotify:album:5jmVg7rwRcgd6ARPAeYNSm"
+      },
+      "artists" : [ {
+        "id" : "06HL4z0CvFAxyc27GXpf02",
+        "name" : "Taylor Swift",
+        "uri" : "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }, {
+        "id" : "4LEiUm1SRbFMgfqnQTwUbQ",
+        "name" : "Bon Iver",
+        "uri" : "spotify:artist:4LEiUm1SRbFMgfqnQTwUbQ"
+      } ],
+      "duration_ms" : 304106,
+      "explicit" : false,
+      "id" : "0AaV4MJrgmLV3XhoiWXjjb",
+      "name" : "evermore (feat. Bon Iver)",
+      "uri" : "spotify:track:0AaV4MJrgmLV3XhoiWXjjb"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "6LO6I2uJMkc0u7GHBYHa4Y",
+        "name" : "BICHOTA",
+        "uri" : "spotify:album:6LO6I2uJMkc0u7GHBYHa4Y"
+      },
+      "artists" : [ {
+        "id" : "790FomKkXshlbRYZFtlgla",
+        "name" : "KAROL G",
+        "uri" : "spotify:artist:790FomKkXshlbRYZFtlgla"
+      } ],
+      "duration_ms" : 178946,
+      "explicit" : true,
+      "id" : "7vrJn5hDSXRmdXoR30KgF1",
+      "name" : "BICHOTA",
+      "uri" : "spotify:track:7vrJn5hDSXRmdXoR30KgF1"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "5jmVg7rwRcgd6ARPAeYNSm",
+        "name" : "evermore",
+        "uri" : "spotify:album:5jmVg7rwRcgd6ARPAeYNSm"
+      },
+      "artists" : [ {
+        "id" : "06HL4z0CvFAxyc27GXpf02",
+        "name" : "Taylor Swift",
+        "uri" : "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      } ],
+      "duration_ms" : 215920,
+      "explicit" : false,
+      "id" : "0vVMlbdYx2080Oa9FndPZr",
+      "name" : "long story short",
+      "uri" : "spotify:track:0vVMlbdYx2080Oa9FndPZr"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "4yP0hdKOZPNshxUOjY0cZj",
+        "name" : "After Hours",
+        "uri" : "spotify:album:4yP0hdKOZPNshxUOjY0cZj"
+      },
+      "artists" : [ {
+        "id" : "1Xyo4u8uXC1ZmMpatF05PJ",
+        "name" : "The Weeknd",
+        "uri" : "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+      } ],
+      "duration_ms" : 200040,
+      "explicit" : false,
+      "id" : "0VjIjW4GlUZAMYd2vXMi3b",
+      "name" : "Blinding Lights",
+      "uri" : "spotify:track:0VjIjW4GlUZAMYd2vXMi3b"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "2Xoteh7uEpea4TohMxjtaq",
+        "name" : "evermore",
+        "uri" : "spotify:album:2Xoteh7uEpea4TohMxjtaq"
+      },
+      "artists" : [ {
+        "id" : "06HL4z0CvFAxyc27GXpf02",
+        "name" : "Taylor Swift",
+        "uri" : "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      } ],
+      "duration_ms" : 275040,
+      "explicit" : true,
+      "id" : "1XjHRolIXL2M1EEOUsGGR4",
+      "name" : "cowboy like me",
+      "uri" : "spotify:track:1XjHRolIXL2M1EEOUsGGR4"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "64nbgEEIcY4g1ElVLONJ0w",
+        "name" : "Man On The Moon III: The Chosen",
+        "uri" : "spotify:album:64nbgEEIcY4g1ElVLONJ0w"
+      },
+      "artists" : [ {
+        "id" : "0fA0VVWsXO9YnASrzqfmYu",
+        "name" : "Kid Cudi",
+        "uri" : "spotify:artist:0fA0VVWsXO9YnASrzqfmYu"
+      } ],
+      "duration_ms" : 193293,
+      "explicit" : true,
+      "id" : "30KctD1WsHKTIYczXjip5a",
+      "name" : "Tequila Shots",
+      "uri" : "spotify:track:30KctD1WsHKTIYczXjip5a"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "27MNgBEnLCKoafz1g2Zu97",
+        "name" : "Santa Tell Me",
+        "uri" : "spotify:album:27MNgBEnLCKoafz1g2Zu97"
+      },
+      "artists" : [ {
+        "id" : "66CXWjxzNUsdJxJ2JdwvnR",
+        "name" : "Ariana Grande",
+        "uri" : "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+      } ],
+      "duration_ms" : 204093,
+      "explicit" : false,
+      "id" : "0lizgQ7Qw35od7CYaoMBZb",
+      "name" : "Santa Tell Me",
+      "uri" : "spotify:track:0lizgQ7Qw35od7CYaoMBZb"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "2d9BCZeAAhiZWPpbX9aPCW",
+        "name" : "EL ÚLTIMO TOUR DEL MUNDO",
+        "uri" : "spotify:album:2d9BCZeAAhiZWPpbX9aPCW"
+      },
+      "artists" : [ {
+        "id" : "4q3ewBCX7sLwd24euuV69X",
+        "name" : "Bad Bunny",
+        "uri" : "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+      }, {
+        "id" : "7ltDVBr6mKbRvohxheJ9h1",
+        "name" : "ROSALÍA",
+        "uri" : "spotify:artist:7ltDVBr6mKbRvohxheJ9h1"
+      } ],
+      "duration_ms" : 203200,
+      "explicit" : false,
+      "id" : "2XIc1pqjXV3Cr2BQUGNBck",
+      "name" : "LA NOCHE DE ANOCHE",
+      "uri" : "spotify:track:2XIc1pqjXV3Cr2BQUGNBck"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "5jmVg7rwRcgd6ARPAeYNSm",
+        "name" : "evermore",
+        "uri" : "spotify:album:5jmVg7rwRcgd6ARPAeYNSm"
+      },
+      "artists" : [ {
+        "id" : "06HL4z0CvFAxyc27GXpf02",
+        "name" : "Taylor Swift",
+        "uri" : "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      } ],
+      "duration_ms" : 257773,
+      "explicit" : false,
+      "id" : "7vBNFh3NIZTj6tB5s1IBjE",
+      "name" : "marjorie",
+      "uri" : "spotify:track:7vBNFh3NIZTj6tB5s1IBjE"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "2vGU0DOcfsDee0euvhl1iZ",
+        "name" : "B4 The Storm",
+        "uri" : "spotify:album:2vGU0DOcfsDee0euvhl1iZ"
+      },
+      "artists" : [ {
+        "id" : "6MPCFvOQv5cIGfw3jODMF0",
+        "name" : "Internet Money",
+        "uri" : "spotify:artist:6MPCFvOQv5cIGfw3jODMF0"
+      }, {
+        "id" : "2hlmm7s2ICUX0LVIhVFlZQ",
+        "name" : "Gunna",
+        "uri" : "spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ"
+      }, {
+        "id" : "4Gso3d4CscCijv0lmajZWs",
+        "name" : "Don Toliver",
+        "uri" : "spotify:artist:4Gso3d4CscCijv0lmajZWs"
+      }, {
+        "id" : "7rkW85dBwwrJtlHRDkJDAC",
+        "name" : "NAV",
+        "uri" : "spotify:artist:7rkW85dBwwrJtlHRDkJDAC"
+      } ],
+      "duration_ms" : 195428,
+      "explicit" : true,
+      "id" : "7hxHWCCAIIxFLCzvDgnQHX",
+      "name" : "Lemonade (feat. Gunna, Don Toliver & NAV)",
+      "uri" : "spotify:track:7hxHWCCAIIxFLCzvDgnQHX"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "34wa3zf2prXFMk47t9zHFG",
+        "name" : "Merry Christmas From Brenda Lee",
+        "uri" : "spotify:album:34wa3zf2prXFMk47t9zHFG"
+      },
+      "artists" : [ {
+        "id" : "4cPHsZM98sKzmV26wlwD2W",
+        "name" : "Brenda Lee",
+        "uri" : "spotify:artist:4cPHsZM98sKzmV26wlwD2W"
+      } ],
+      "duration_ms" : 126266,
+      "explicit" : false,
+      "id" : "2EjXfH91m7f8HiJN1yQg97",
+      "name" : "Rockin' Around The Christmas Tree",
+      "uri" : "spotify:track:2EjXfH91m7f8HiJN1yQg97"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "2qehskW9lYGWfYb0xPZkrS",
+        "name" : "BE",
+        "uri" : "spotify:album:2qehskW9lYGWfYb0xPZkrS"
+      },
+      "artists" : [ {
+        "id" : "3Nrfpe0tUJi4K4DXYWgMUX",
+        "name" : "BTS",
+        "uri" : "spotify:artist:3Nrfpe0tUJi4K4DXYWgMUX"
+      } ],
+      "duration_ms" : 199053,
+      "explicit" : false,
+      "id" : "4saklk6nie3yiGePpBwUoc",
+      "name" : "Dynamite",
+      "uri" : "spotify:track:4saklk6nie3yiGePpBwUoc"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "5jmVg7rwRcgd6ARPAeYNSm",
+        "name" : "evermore",
+        "uri" : "spotify:album:5jmVg7rwRcgd6ARPAeYNSm"
+      },
+      "artists" : [ {
+        "id" : "06HL4z0CvFAxyc27GXpf02",
+        "name" : "Taylor Swift",
+        "uri" : "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      } ],
+      "duration_ms" : 180653,
+      "explicit" : false,
+      "id" : "3uayvzcbqFydIbgUeC6EJh",
+      "name" : "closure",
+      "uri" : "spotify:track:3uayvzcbqFydIbgUeC6EJh"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "3CKVXhODttZebJAzjUs2un",
+        "name" : "Christmas",
+        "uri" : "spotify:album:3CKVXhODttZebJAzjUs2un"
+      },
+      "artists" : [ {
+        "id" : "1GxkXlMwML1oSg5eLPiAz3",
+        "name" : "Michael Bublé",
+        "uri" : "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+      } ],
+      "duration_ms" : 206639,
+      "explicit" : false,
+      "id" : "0lLdorYw7lVrJydTINhWdI",
+      "name" : "It's Beginning to Look a Lot like Christmas",
+      "uri" : "spotify:track:0lLdorYw7lVrJydTINhWdI"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "5G58VVE9ub1KE01Mvbd8XM",
+        "name" : "Therefore I Am",
+        "uri" : "spotify:album:5G58VVE9ub1KE01Mvbd8XM"
+      },
+      "artists" : [ {
+        "id" : "6qqNVTkY8uBg9cP3Jd7DAH",
+        "name" : "Billie Eilish",
+        "uri" : "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+      } ],
+      "duration_ms" : 174321,
+      "explicit" : false,
+      "id" : "54bFM56PmE4YLRnqpW6Tha",
+      "name" : "Therefore I Am",
+      "uri" : "spotify:track:54bFM56PmE4YLRnqpW6Tha"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "64nbgEEIcY4g1ElVLONJ0w",
+        "name" : "Man On The Moon III: The Chosen",
+        "uri" : "spotify:album:64nbgEEIcY4g1ElVLONJ0w"
+      },
+      "artists" : [ {
+        "id" : "0fA0VVWsXO9YnASrzqfmYu",
+        "name" : "Kid Cudi",
+        "uri" : "spotify:artist:0fA0VVWsXO9YnASrzqfmYu"
+      }, {
+        "id" : "2p1fiYHYiXz9qi0JJyxBzN",
+        "name" : "Skepta",
+        "uri" : "spotify:artist:2p1fiYHYiXz9qi0JJyxBzN"
+      }, {
+        "id" : "0eDvMgVFoNV3TpwtrVCoTj",
+        "name" : "Pop Smoke",
+        "uri" : "spotify:artist:0eDvMgVFoNV3TpwtrVCoTj"
+      } ],
+      "duration_ms" : 174960,
+      "explicit" : true,
+      "id" : "5CFJRZRq6sdKKtRwNPWbYv",
+      "name" : "Show Out (with Skepta & Pop Smoke)",
+      "uri" : "spotify:track:5CFJRZRq6sdKKtRwNPWbYv"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "3euz4vS7ezKGnNSwgyvKcd",
+        "name" : "Positions",
+        "uri" : "spotify:album:3euz4vS7ezKGnNSwgyvKcd"
+      },
+      "artists" : [ {
+        "id" : "66CXWjxzNUsdJxJ2JdwvnR",
+        "name" : "Ariana Grande",
+        "uri" : "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+      } ],
+      "duration_ms" : 173710,
+      "explicit" : true,
+      "id" : "6Im9k8u9iIzKMrmV7BWtlF",
+      "name" : "34+35",
+      "uri" : "spotify:track:6Im9k8u9iIzKMrmV7BWtlF"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "64nbgEEIcY4g1ElVLONJ0w",
+        "name" : "Man On The Moon III: The Chosen",
+        "uri" : "spotify:album:64nbgEEIcY4g1ElVLONJ0w"
+      },
+      "artists" : [ {
+        "id" : "0fA0VVWsXO9YnASrzqfmYu",
+        "name" : "Kid Cudi",
+        "uri" : "spotify:artist:0fA0VVWsXO9YnASrzqfmYu"
+      } ],
+      "duration_ms" : 216560,
+      "explicit" : true,
+      "id" : "1xzUQMiCoY5pdego0pHMeV",
+      "name" : "She Knows This",
+      "uri" : "spotify:track:1xzUQMiCoY5pdego0pHMeV"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "3wivyOdotHWZ9dcuXMjPKT",
+        "name" : "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
+        "uri" : "spotify:album:3wivyOdotHWZ9dcuXMjPKT"
+      },
+      "artists" : [ {
+        "id" : "38EmEgXkgK51MT2tPY0EoC",
+        "name" : "Bobby Helms",
+        "uri" : "spotify:artist:38EmEgXkgK51MT2tPY0EoC"
+      } ],
+      "duration_ms" : 130973,
+      "explicit" : false,
+      "id" : "7vQbuQcyTflfCIOu3Uzzya",
+      "name" : "Jingle Bell Rock",
+      "uri" : "spotify:track:7vQbuQcyTflfCIOu3Uzzya"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "3Lp4JKk2ZgNkybMRS3eZR5",
+        "name" : "Wonder",
+        "uri" : "spotify:album:3Lp4JKk2ZgNkybMRS3eZR5"
+      },
+      "artists" : [ {
+        "id" : "7n2wHs1TKAczGzO7Dd2rGr",
+        "name" : "Shawn Mendes",
+        "uri" : "spotify:artist:7n2wHs1TKAczGzO7Dd2rGr"
+      }, {
+        "id" : "1uNFoZAHBGtllmzznpCI3s",
+        "name" : "Justin Bieber",
+        "uri" : "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+      } ],
+      "duration_ms" : 178994,
+      "explicit" : false,
+      "id" : "1HbA4N1MiOsPthALesGFR1",
+      "name" : "Monster (Shawn Mendes & Justin Bieber)",
+      "uri" : "spotify:track:1HbA4N1MiOsPthALesGFR1"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "64nbgEEIcY4g1ElVLONJ0w",
+        "name" : "Man On The Moon III: The Chosen",
+        "uri" : "spotify:album:64nbgEEIcY4g1ElVLONJ0w"
+      },
+      "artists" : [ {
+        "id" : "0fA0VVWsXO9YnASrzqfmYu",
+        "name" : "Kid Cudi",
+        "uri" : "spotify:artist:0fA0VVWsXO9YnASrzqfmYu"
+      } ],
+      "duration_ms" : 199786,
+      "explicit" : true,
+      "id" : "6myUpr3GDR80Dg3zqNTmmG",
+      "name" : "Another Day",
+      "uri" : "spotify:track:6myUpr3GDR80Dg3zqNTmmG"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "30eO7X0doSEWKhDLAFLMuW",
+        "name" : "The Andy Williams Christmas Album",
+        "uri" : "spotify:album:30eO7X0doSEWKhDLAFLMuW"
+      },
+      "artists" : [ {
+        "id" : "4sj6D0zlMOl25nprDJBiU9",
+        "name" : "Andy Williams",
+        "uri" : "spotify:artist:4sj6D0zlMOl25nprDJBiU9"
+      } ],
+      "duration_ms" : 151000,
+      "explicit" : false,
+      "id" : "1IcR6RlgvDczfvoWJSSY2A",
+      "name" : "It's the Most Wonderful Time of the Year",
+      "uri" : "spotify:track:1IcR6RlgvDczfvoWJSSY2A"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "7e7t0MCrNDcJZsPwUKjmOc",
+        "name" : "Shoot For The Stars Aim For The Moon",
+        "uri" : "spotify:album:7e7t0MCrNDcJZsPwUKjmOc"
+      },
+      "artists" : [ {
+        "id" : "0eDvMgVFoNV3TpwtrVCoTj",
+        "name" : "Pop Smoke",
+        "uri" : "spotify:artist:0eDvMgVFoNV3TpwtrVCoTj"
+      } ],
+      "duration_ms" : 160000,
+      "explicit" : true,
+      "id" : "1tkg4EHVoqnhR6iFEXb60y",
+      "name" : "What You Know Bout Love",
+      "uri" : "spotify:track:1tkg4EHVoqnhR6iFEXb60y"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "5oBYG6dEI2Er6EeLnmonGE",
+        "name" : "Whoopty",
+        "uri" : "spotify:album:5oBYG6dEI2Er6EeLnmonGE"
+      },
+      "artists" : [ {
+        "id" : "7arQA31aZVS8yS6zUveWzb",
+        "name" : "CJ",
+        "uri" : "spotify:artist:7arQA31aZVS8yS6zUveWzb"
+      } ],
+      "duration_ms" : 123428,
+      "explicit" : true,
+      "id" : "5vGLcdRuSbUhD8ScwsGSdA",
+      "name" : "Whoopty",
+      "uri" : "spotify:track:5vGLcdRuSbUhD8ScwsGSdA"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "0t70lpfTyHEv0uuq21fhdZ",
+        "name" : "Wrapped In Red",
+        "uri" : "spotify:album:0t70lpfTyHEv0uuq21fhdZ"
+      },
+      "artists" : [ {
+        "id" : "3BmGtnKgCSGYIUhmivXKWX",
+        "name" : "Kelly Clarkson",
+        "uri" : "spotify:artist:3BmGtnKgCSGYIUhmivXKWX"
+      } ],
+      "duration_ms" : 229640,
+      "explicit" : false,
+      "id" : "3nAp4IvdMPPWEH9uuXFFV5",
+      "name" : "Underneath the Tree",
+      "uri" : "spotify:track:3nAp4IvdMPPWEH9uuXFFV5"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "7vLxDionyOHSDmYS7Wpwdp",
+        "name" : "Man On The Moon III: The Chosen",
+        "uri" : "spotify:album:7vLxDionyOHSDmYS7Wpwdp"
+      },
+      "artists" : [ {
+        "id" : "0fA0VVWsXO9YnASrzqfmYu",
+        "name" : "Kid Cudi",
+        "uri" : "spotify:artist:0fA0VVWsXO9YnASrzqfmYu"
+      } ],
+      "duration_ms" : 37013,
+      "explicit" : false,
+      "id" : "3Z5taVHYljiWv6itioRRRw",
+      "name" : "Beautiful Trip",
+      "uri" : "spotify:track:3Z5taVHYljiWv6itioRRRw"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "3YjfdLdpQcVI72uKhooZst",
+        "name" : "F*CK LOVE (SAVAGE)",
+        "uri" : "spotify:album:3YjfdLdpQcVI72uKhooZst"
+      },
+      "artists" : [ {
+        "id" : "2tIP7SsRs7vjIcLrU85W8J",
+        "name" : "The Kid LAROI",
+        "uri" : "spotify:artist:2tIP7SsRs7vjIcLrU85W8J"
+      } ],
+      "duration_ms" : 161384,
+      "explicit" : true,
+      "id" : "27OeeYzk6klgBh83TSvGMA",
+      "name" : "WITHOUT YOU",
+      "uri" : "spotify:track:27OeeYzk6klgBh83TSvGMA"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "4EvukZrmNBiqJbs3LwOSHu",
+        "name" : "HOLIDAY",
+        "uri" : "spotify:album:4EvukZrmNBiqJbs3LwOSHu"
+      },
+      "artists" : [ {
+        "id" : "7jVv8c5Fj3E9VhNjxT4snq",
+        "name" : "Lil Nas X",
+        "uri" : "spotify:artist:7jVv8c5Fj3E9VhNjxT4snq"
+      } ],
+      "duration_ms" : 154997,
+      "explicit" : true,
+      "id" : "6zFMeegAMYQo0mt8rXtrli",
+      "name" : "HOLIDAY",
+      "uri" : "spotify:track:6zFMeegAMYQo0mt8rXtrli"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "5BRhg6NSEZOj0BR6Iz56fR",
+        "name" : "Plastic Hearts",
+        "uri" : "spotify:album:5BRhg6NSEZOj0BR6Iz56fR"
+      },
+      "artists" : [ {
+        "id" : "5YGY8feqx7naU7z4HrwZM6",
+        "name" : "Miley Cyrus",
+        "uri" : "spotify:artist:5YGY8feqx7naU7z4HrwZM6"
+      }, {
+        "id" : "6M2wZ9GZgrQXHCFfjv46we",
+        "name" : "Dua Lipa",
+        "uri" : "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+      } ],
+      "duration_ms" : 169333,
+      "explicit" : false,
+      "id" : "2Oycxb8QbPkpHTo8ZrmG0B",
+      "name" : "Prisoner (feat. Dua Lipa)",
+      "uri" : "spotify:track:2Oycxb8QbPkpHTo8ZrmG0B"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "2ogiazbrNEx0kQHGl5ZBTQ",
+        "name" : "WAP (feat. Megan Thee Stallion)",
+        "uri" : "spotify:album:2ogiazbrNEx0kQHGl5ZBTQ"
+      },
+      "artists" : [ {
+        "id" : "4kYSro6naA4h99UJvo89HB",
+        "name" : "Cardi B",
+        "uri" : "spotify:artist:4kYSro6naA4h99UJvo89HB"
+      }, {
+        "id" : "181bsRPaVXVlUKXrxwZfHK",
+        "name" : "Megan Thee Stallion",
+        "uri" : "spotify:artist:181bsRPaVXVlUKXrxwZfHK"
+      } ],
+      "duration_ms" : 187541,
+      "explicit" : true,
+      "id" : "4Oun2ylbjFKMPTiaSbbCih",
+      "name" : "WAP (feat. Megan Thee Stallion)",
+      "uri" : "spotify:track:4Oun2ylbjFKMPTiaSbbCih"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "64nbgEEIcY4g1ElVLONJ0w",
+        "name" : "Man On The Moon III: The Chosen",
+        "uri" : "spotify:album:64nbgEEIcY4g1ElVLONJ0w"
+      },
+      "artists" : [ {
+        "id" : "0fA0VVWsXO9YnASrzqfmYu",
+        "name" : "Kid Cudi",
+        "uri" : "spotify:artist:0fA0VVWsXO9YnASrzqfmYu"
+      } ],
+      "duration_ms" : 148706,
+      "explicit" : true,
+      "id" : "7Hc3YL8oDiAzbiAW32KXrw",
+      "name" : "Dive",
+      "uri" : "spotify:track:7Hc3YL8oDiAzbiAW32KXrw"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "0p2yf6DucEgvj8Uk8KXJJv",
+        "name" : "PAPI JUANCHO",
+        "uri" : "spotify:album:0p2yf6DucEgvj8Uk8KXJJv"
+      },
+      "artists" : [ {
+        "id" : "1r4hJ1h58CWwUQe3MxPuau",
+        "name" : "Maluma",
+        "uri" : "spotify:artist:1r4hJ1h58CWwUQe3MxPuau"
+      } ],
+      "duration_ms" : 199112,
+      "explicit" : false,
+      "id" : "1yoMvmasuxZfqHEipJhRbp",
+      "name" : "Hawái",
+      "uri" : "spotify:track:1yoMvmasuxZfqHEipJhRbp"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "3P5WIUJO0Ots1lQx09TOxk",
+        "name" : "Lonely (with benny blanco)",
+        "uri" : "spotify:album:3P5WIUJO0Ots1lQx09TOxk"
+      },
+      "artists" : [ {
+        "id" : "1uNFoZAHBGtllmzznpCI3s",
+        "name" : "Justin Bieber",
+        "uri" : "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+      }, {
+        "id" : "5CiGnKThu5ctn9pBxv7DGa",
+        "name" : "benny blanco",
+        "uri" : "spotify:artist:5CiGnKThu5ctn9pBxv7DGa"
+      } ],
+      "duration_ms" : 149297,
+      "explicit" : true,
+      "id" : "4y4spB9m0Q6026KfkAvy9Q",
+      "name" : "Lonely (with benny blanco)",
+      "uri" : "spotify:track:4y4spB9m0Q6026KfkAvy9Q"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "64nbgEEIcY4g1ElVLONJ0w",
+        "name" : "Man On The Moon III: The Chosen",
+        "uri" : "spotify:album:64nbgEEIcY4g1ElVLONJ0w"
+      },
+      "artists" : [ {
+        "id" : "0fA0VVWsXO9YnASrzqfmYu",
+        "name" : "Kid Cudi",
+        "uri" : "spotify:artist:0fA0VVWsXO9YnASrzqfmYu"
+      } ],
+      "duration_ms" : 242266,
+      "explicit" : true,
+      "id" : "27oVCAziETRbNuo5A8LNpg",
+      "name" : "Mr. Solo Dolo III",
+      "uri" : "spotify:track:27oVCAziETRbNuo5A8LNpg"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "id" : "7xV2TzoaVc0ycW7fwBwAml",
+        "name" : "Fine Line",
+        "uri" : "spotify:album:7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists" : [ {
+        "id" : "6KImCVD70vtIoJWnq6nGn3",
+        "name" : "Harry Styles",
+        "uri" : "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+      } ],
+      "duration_ms" : 174000,
+      "explicit" : false,
+      "id" : "6UelLqGlWMcVH1E5c4H7lY",
+      "name" : "Watermelon Sugar",
+      "uri" : "spotify:track:6UelLqGlWMcVH1E5c4H7lY"
+    }
+  } ]
+}

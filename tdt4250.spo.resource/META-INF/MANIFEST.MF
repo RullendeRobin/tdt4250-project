@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Resource
+Bundle-SymbolicName: tdt4250.spo.resource
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: tdt4250.spo.resource
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Require-Bundle: tdt4250.spo.model;bundle-version="0.1.0",
+ com.fasterxml.jackson.core.jackson-annotations;bundle-version="2.6.2",
+ com.fasterxml.jackson.core.jackson-core;bundle-version="2.6.2",
+ com.fasterxml.jackson.core.jackson-databind;bundle-version="2.6.2"
+Import-Package: org.eclipse.emf.ecore.xmi.impl

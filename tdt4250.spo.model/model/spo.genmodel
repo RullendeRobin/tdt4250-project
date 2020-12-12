@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<genmodel:GenModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore"
+    xmlns:genmodel="http://www.eclipse.org/emf/2002/GenModel" modelDirectory="/tdt4250.spo.model/src" modelPluginID="tdt4250.spo.model"
+    modelName="Spo" rootExtendsClass="org.eclipse.emf.ecore.impl.MinimalEObjectImpl$Container"
+    importerID="org.eclipse.emf.importer.ecore" complianceLevel="5.0" copyrightFields="false"
+    operationReflection="true" importOrganizing="true">
+  <foreignModel>spo.ecore</foreignModel>
+  <genPackages prefix="Spo" basePackage="tdt4250" disposableProviderFactory="true"
+      ecorePackage="spo.ecore#/">
+    <genClasses ecoreClass="spo.ecore#//Playlist">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spo.ecore#//Playlist/name"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference spo.ecore#//Playlist/tracks"/>
+    </genClasses>
+    <genClasses ecoreClass="spo.ecore#//Track">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spo.ecore#//Track/name"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spo.ecore#//Track/uri"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spo.ecore#//Track/explicit"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spo.ecore#//Track/duration_ms"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference spo.ecore#//Track/artists"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference spo.ecore#//Track/album"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spo.ecore#//Track/id"/>
+    </genClasses>
+    <genClasses ecoreClass="spo.ecore#//Artist">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spo.ecore#//Artist/name"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spo.ecore#//Artist/uri"/>
+    </genClasses>
+    <genClasses ecoreClass="spo.ecore#//Album">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spo.ecore#//Album/name"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spo.ecore#//Album/uri"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spo.ecore#//Album/id"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spo.ecore#//Album/label"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spo.ecore#//Album/release_date"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference spo.ecore#//Album/tracks"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EReference spo.ecore#//Album/artist"/>
+    </genClasses>
+    <genClasses ecoreClass="spo.ecore#//Spotify">
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference spo.ecore#//Spotify/shows"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference spo.ecore#//Spotify/playlists"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference spo.ecore#//Spotify/albums"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spo.ecore#//Spotify/name"/>
+    </genClasses>
+    <genClasses ecoreClass="spo.ecore#//Show">
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference spo.ecore#//Show/episodes"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spo.ecore#//Show/name"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spo.ecore#//Show/uri"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spo.ecore#//Show/id"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spo.ecore#//Show/explicit"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spo.ecore#//Show/total_episodes"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spo.ecore#//Show/description"/>
+    </genClasses>
+    <genClasses ecoreClass="spo.ecore#//Episode">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spo.ecore#//Episode/name"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spo.ecore#//Episode/uri"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spo.ecore#//Episode/id"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spo.ecore#//Episode/explicit"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spo.ecore#//Episode/duration"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spo.ecore#//Episode/release_date"/>
+    </genClasses>
+  </genPackages>
+</genmodel:GenModel>
