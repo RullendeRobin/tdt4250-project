@@ -179,7 +179,7 @@
               <color xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='gray']"/>
             </style>
           </subNodeMappings>
-          <style xsi:type="style:FlatContainerStyleDescription" borderSizeComputationExpression="1" labelSize="14" showIcon="false">
+          <style xsi:type="style:FlatContainerStyleDescription" borderSizeComputationExpression="1" labelSize="14" showIcon="false" labelExpression="aql:self.name+' - '+self.artist.name">
             <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
             <labelFormat>bold</labelFormat>
             <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
@@ -195,7 +195,7 @@
               <firstModelOperations xsi:type="tool:Navigation" createIfNotExistent="true" diagramDescription="//@ownedViewpoints[name='SpoDiagramViewpoint']/@ownedRepresentations[name='TrackDiagram']"/>
             </initialOperation>
           </ownedTools>
-          <ownedTools xsi:type="tool:NodeCreationDescription" name="Add Song" nodeMappings="//@ownedViewpoints[name='SpoDiagramViewpoint']/@ownedRepresentations[name='AlbumDiagram']/@defaultLayer/@containerMappings[name='AlbumContainer']/@subNodeMappings[name='TrackNode']">
+          <ownedTools xsi:type="tool:NodeCreationDescription" name="Add Track" nodeMappings="//@ownedViewpoints[name='SpoDiagramViewpoint']/@ownedRepresentations[name='AlbumDiagram']/@defaultLayer/@containerMappings[name='AlbumContainer']/@subNodeMappings[name='TrackNode']">
             <variable name="container"/>
             <viewVariable name="containerView"/>
             <initialOperation>
