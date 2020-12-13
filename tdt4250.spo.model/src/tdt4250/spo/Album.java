@@ -2,6 +2,7 @@
  */
 package tdt4250.spo;
 
+import java.util.Date;
 import org.eclipse.emf.common.util.EList;
 
 import org.eclipse.emf.ecore.EObject;
@@ -122,12 +123,12 @@ public interface Album extends EObject {
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Release date</em>' attribute.
-	 * @see #setRelease_date(String)
+	 * @see #setRelease_date(Date)
 	 * @see tdt4250.spo.SpoPackage#getAlbum_Release_date()
 	 * @model
 	 * @generated
 	 */
-	String getRelease_date();
+	Date getRelease_date();
 
 	/**
 	 * Sets the value of the '{@link tdt4250.spo.Album#getRelease_date <em>Release date</em>}' attribute.
@@ -137,7 +138,7 @@ public interface Album extends EObject {
 	 * @see #getRelease_date()
 	 * @generated
 	 */
-	void setRelease_date(String value);
+	void setRelease_date(Date value);
 
 	/**
 	 * Returns the value of the '<em><b>Tracks</b></em>' containment reference list.

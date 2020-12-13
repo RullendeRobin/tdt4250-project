@@ -199,19 +199,11 @@ public class ArtistImpl extends MinimalEObjectImpl.Container implements Artist {
 	/**
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
-	 * @generated
+	 * @NOTgenerated
 	 */
 	@Override
 	public String toString() {
-		if (eIsProxy()) return super.toString();
-
-		StringBuilder result = new StringBuilder(super.toString());
-		result.append(" (name: ");
-		result.append(name);
-		result.append(", uri: ");
-		result.append(uri);
-		result.append(')');
-		return result.toString();
+		return "Test";
 	}
 
 } //ArtistImpl

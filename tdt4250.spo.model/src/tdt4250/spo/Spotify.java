@@ -18,7 +18,6 @@ import org.eclipse.emf.ecore.EObject;
  *   <li>{@link tdt4250.spo.Spotify#getShows <em>Shows</em>}</li>
  *   <li>{@link tdt4250.spo.Spotify#getPlaylists <em>Playlists</em>}</li>
  *   <li>{@link tdt4250.spo.Spotify#getAlbums <em>Albums</em>}</li>
- *   <li>{@link tdt4250.spo.Spotify#getName <em>Name</em>}</li>
  * </ul>
  *
  * @see tdt4250.spo.SpoPackage#getSpotify()
@@ -61,27 +60,5 @@ public interface Spotify extends EObject {
 	 * @generated
 	 */
 	EList<Album> getAlbums();
-
-	/**
-	 * Returns the value of the '<em><b>Name</b></em>' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @return the value of the '<em>Name</em>' attribute.
-	 * @see #setName(String)
-	 * @see tdt4250.spo.SpoPackage#getSpotify_Name()
-	 * @model
-	 * @generated
-	 */
-	String getName();
-
-	/**
-	 * Sets the value of the '{@link tdt4250.spo.Spotify#getName <em>Name</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @param value the new value of the '<em>Name</em>' attribute.
-	 * @see #getName()
-	 * @generated
-	 */
-	void setName(String value);
 
 } // Spotify

@@ -3,24 +3,33 @@
   <ownedViewpoints name="SpoDiagramViewpoint" modelFileExtension="xmi">
     <ownedRepresentations xsi:type="description_1:DiagramDescription" name="PodcastDiagram" domainClass="spo::Spotify" enablePopupBars="true">
       <defaultLayer name="Default">
-        <containerMappings name="PodcastContainer" semanticCandidatesExpression="aql:self.shows -> first()" domainClass="spo::Show" childrenPresentation="List">
-          <subNodeMappings name="ShowNode" doubleClickDescription="//@ownedViewpoints[name='SpoDiagramViewpoint']/@ownedRepresentations[name='PodcastDiagram']/@defaultLayer/@toolSections.0/@ownedTools[name='DoubleClickPodcast']" domainClass="spo::Show">
-            <style xsi:type="style:SquareDescription" labelSize="12" showIcon="false" labelExpression="aql:self.name+' - '+self.total_episodes+' episodes'" labelAlignment="LEFT" labelPosition="node" resizeKind="NSEW">
+        <containerMappings name="PodcastContainer" semanticCandidatesExpression="aql:self.shows -> first()" domainClass="spo::Show" childrenPresentation="VerticalStack">
+          <subContainerMappings name="PodcastShowContainer" semanticCandidatesExpression="aql:self" domainClass="spo::Show" childrenPresentation="List">
+            <subNodeMappings name="ShowNode" doubleClickDescription="//@ownedViewpoints[name='SpoDiagramViewpoint']/@ownedRepresentations[name='PodcastDiagram']/@defaultLayer/@toolSections.0/@ownedTools[name='DoubleClickPodcast']" domainClass="spo::Show">
+              <style xsi:type="style:SquareDescription" labelSize="12" showIcon="false" labelExpression="aql:self.name+' - '+self.total_episodes+' episodes'" labelAlignment="LEFT" labelPosition="node" resizeKind="NSEW">
+                <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+                <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+                <color xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='blue']"/>
+              </style>
+            </subNodeMappings>
+            <style xsi:type="style:FlatContainerStyleDescription" borderSizeComputationExpression="1" labelSize="1" showIcon="false" labelExpression="aql:''">
               <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+              <labelFormat>bold</labelFormat>
               <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
-              <color xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='blue']"/>
+              <backgroundColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='light_blue']"/>
+              <foregroundColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='light_blue']"/>
+              <labelBorderStyle href="environment:/viewpoint#//@labelBorderStyles/@labelBorderStyleDescriptions.2"/>
             </style>
-          </subNodeMappings>
-          <style xsi:type="style:FlatContainerStyleDescription" borderSizeComputationExpression="1" labelSize="14" showIcon="false" labelExpression="Podcasts">
+          </subContainerMappings>
+          <style xsi:type="style:FlatContainerStyleDescription" borderSizeComputationExpression="1" labelSize="16" showIcon="false" labelExpression="aql:'Podcasts'">
             <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
-            <labelFormat>bold</labelFormat>
-            <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
-            <backgroundColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='blue']"/>
-            <foregroundColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='light_blue']"/>
+            <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='white']"/>
+            <backgroundColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='dark_blue']"/>
+            <foregroundColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='dark_blue']"/>
           </style>
         </containerMappings>
         <toolSections name="CreationTools">
-          <ownedTools xsi:type="tool:DoubleClickDescription" name="DoubleClickPodcast" mappings="//@ownedViewpoints[name='SpoDiagramViewpoint']/@ownedRepresentations[name='PodcastDiagram']/@defaultLayer/@containerMappings[name='PodcastContainer']/@subNodeMappings[name='ShowNode']">
+          <ownedTools xsi:type="tool:DoubleClickDescription" name="DoubleClickPodcast" mappings="//@ownedViewpoints[name='SpoDiagramViewpoint']/@ownedRepresentations[name='PodcastDiagram']/@defaultLayer/@containerMappings[name='PodcastContainer']/@subContainerMappings[name='PodcastShowContainer']/@subNodeMappings[name='ShowNode']">
             <element name="element"/>
             <elementView name="elementView"/>
             <initialOperation>
@@ -57,34 +66,43 @@
     </ownedRepresentations>
     <ownedRepresentations xsi:type="description_1:DiagramDescription" name="ShowDiagram" domainClass="spo::Show" enablePopupBars="true">
       <filters xsi:type="filter:CompositeFilterDescription" name="Short Episodes Only">
-        <filters xsi:type="filter:MappingFilter" mappings="//@ownedViewpoints[name='SpoDiagramViewpoint']/@ownedRepresentations[name='ShowDiagram']/@defaultLayer/@containerMappings[name='ShowContainer']/@subNodeMappings[name='EpisodeNode']" semanticConditionExpression="aql:(self.duration)/(1000*60) &lt; 46"/>
+        <filters xsi:type="filter:MappingFilter" mappings="//@ownedViewpoints[name='SpoDiagramViewpoint']/@ownedRepresentations[name='ShowDiagram']/@defaultLayer/@containerMappings[name='ShowContainer']/@subContainerMappings[name='ShowEpisodeContainer']/@subNodeMappings[name='EpisodeNode']" semanticConditionExpression="aql:(self.duration)/(1000*60) &lt; 46"/>
       </filters>
       <defaultLayer name="Default">
-        <containerMappings name="ShowContainer" semanticCandidatesExpression="aql:self" domainClass="spo::Show" childrenPresentation="List">
-          <subNodeMappings name="EpisodeNode" semanticCandidatesExpression="feature:eAllContents" doubleClickDescription="//@ownedViewpoints[name='SpoDiagramViewpoint']/@ownedRepresentations[name='ShowDiagram']/@defaultLayer/@toolSections.0/@ownedTools[name='']" domainClass="spo::Episode">
-            <style xsi:type="style:SquareDescription" labelSize="12" showIcon="false" labelExpression="aql:self.name+' - '+self.duration/(1000*60)+' min'" labelAlignment="LEFT" labelPosition="node" resizeKind="NSEW">
+        <containerMappings name="ShowContainer" semanticCandidatesExpression="aql:self" domainClass="spo::Show" childrenPresentation="VerticalStack">
+          <subContainerMappings name="ShowEpisodeContainer" semanticCandidatesExpression="aql:self" domainClass="spo::Show" childrenPresentation="List">
+            <subNodeMappings name="EpisodeNode" semanticCandidatesExpression="feature:eAllContents" doubleClickDescription="//@ownedViewpoints[name='SpoDiagramViewpoint']/@ownedRepresentations[name='ShowDiagram']/@defaultLayer/@toolSections.0/@ownedTools[name='']" domainClass="spo::Episode">
+              <style xsi:type="style:SquareDescription" labelSize="12" showIcon="false" labelExpression="aql:self.name+' - '+self.duration/(1000*60)+' min'" labelAlignment="LEFT" labelPosition="node" resizeKind="NSEW">
+                <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+                <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+                <color xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='gray']"/>
+              </style>
+            </subNodeMappings>
+            <style xsi:type="style:FlatContainerStyleDescription" borderSizeComputationExpression="1" labelSize="1" showIcon="false" labelExpression="aql:''">
               <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+              <labelFormat>bold</labelFormat>
               <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
-              <color xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='gray']"/>
+              <backgroundColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='light_blue']"/>
+              <foregroundColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='light_blue']"/>
+              <labelBorderStyle href="environment:/viewpoint#//@labelBorderStyles/@labelBorderStyleDescriptions.2"/>
             </style>
-          </subNodeMappings>
-          <style xsi:type="style:FlatContainerStyleDescription" borderSizeComputationExpression="1" labelSize="14" showIcon="false">
+          </subContainerMappings>
+          <style xsi:type="style:FlatContainerStyleDescription" borderSizeComputationExpression="1" labelSize="16" showIcon="false" labelExpression="aql:self.name">
             <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
-            <labelFormat>bold</labelFormat>
-            <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
-            <backgroundColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='blue']"/>
-            <foregroundColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='light_blue']"/>
+            <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='white']"/>
+            <backgroundColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='dark_blue']"/>
+            <foregroundColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='dark_blue']"/>
           </style>
         </containerMappings>
         <toolSections name="Show Tools">
-          <ownedTools xsi:type="tool:DoubleClickDescription" mappings="//@ownedViewpoints[name='SpoDiagramViewpoint']/@ownedRepresentations[name='ShowDiagram']/@defaultLayer/@containerMappings[name='ShowContainer']/@subNodeMappings[name='EpisodeNode']">
+          <ownedTools xsi:type="tool:DoubleClickDescription" mappings="//@ownedViewpoints[name='SpoDiagramViewpoint']/@ownedRepresentations[name='ShowDiagram']/@defaultLayer/@containerMappings[name='ShowContainer']/@subContainerMappings[name='ShowEpisodeContainer']/@subNodeMappings[name='EpisodeNode']">
             <element name="element"/>
             <elementView name="elementView"/>
             <initialOperation>
               <firstModelOperations xsi:type="tool:Navigation" createIfNotExistent="true" diagramDescription="//@ownedViewpoints[name='SpoDiagramViewpoint']/@ownedRepresentations[name='EpisodeDiagram']"/>
             </initialOperation>
           </ownedTools>
-          <ownedTools xsi:type="tool:NodeCreationDescription" name="Add Episode" nodeMappings="//@ownedViewpoints[name='SpoDiagramViewpoint']/@ownedRepresentations[name='ShowDiagram']/@defaultLayer/@containerMappings[name='ShowContainer']/@subNodeMappings[name='EpisodeNode']">
+          <ownedTools xsi:type="tool:NodeCreationDescription" name="Add Episode" nodeMappings="//@ownedViewpoints[name='SpoDiagramViewpoint']/@ownedRepresentations[name='ShowDiagram']/@defaultLayer/@containerMappings[name='ShowContainer']/@subContainerMappings[name='ShowEpisodeContainer']/@subNodeMappings[name='EpisodeNode']">
             <variable name="container"/>
             <viewVariable name="containerView"/>
             <initialOperation>
@@ -98,65 +116,81 @@
     </ownedRepresentations>
     <ownedRepresentations xsi:type="description_1:DiagramDescription" name="EpisodeDiagram" domainClass="spo::Episode" enablePopupBars="true">
       <defaultLayer name="Default">
-        <containerMappings name="EpisodeContainer" semanticCandidatesExpression="aql:self" domainClass="spo::Episode" childrenPresentation="List">
-          <subNodeMappings name="EpisodeDuration" semanticCandidatesExpression="aql:self" domainClass="spo::Episode">
-            <style xsi:type="style:SquareDescription" labelSize="12" showIcon="false" labelExpression="aql:'Duration: '+self.duration/(1000*60)+' minutes'" labelAlignment="LEFT" labelPosition="node" resizeKind="NSEW">
+        <containerMappings name="EpisodeContainer" semanticCandidatesExpression="aql:self" domainClass="spo::Episode" childrenPresentation="VerticalStack">
+          <subContainerMappings name="EpisodeNodeContainer" semanticCandidatesExpression="aql:self" domainClass="spo::Episode" childrenPresentation="List">
+            <subNodeMappings name="EpisodeDuration" semanticCandidatesExpression="aql:self" domainClass="spo::Episode">
+              <style xsi:type="style:SquareDescription" labelSize="12" showIcon="false" labelExpression="aql:'Duration: '+self.duration/(1000*60)+' minutes'" labelAlignment="LEFT" labelPosition="node" resizeKind="NSEW">
+                <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+                <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+                <color xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='gray']"/>
+              </style>
+            </subNodeMappings>
+            <subNodeMappings name="EpisodeExplicit" semanticCandidatesExpression="aql:self" domainClass="spo::Episode">
+              <style xsi:type="style:SquareDescription" labelSize="12" showIcon="false" labelExpression="aql:'Explicit: '+self.explicit" labelAlignment="LEFT" labelPosition="node" resizeKind="NSEW">
+                <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+                <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+                <color xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='gray']"/>
+              </style>
+            </subNodeMappings>
+            <subNodeMappings name="EpisodeReleaseDate" semanticCandidatesExpression="aql:self" domainClass="spo::Episode">
+              <style xsi:type="style:SquareDescription" labelSize="12" showIcon="false" labelExpression="aql:'Released: '+self.release_date.toString().substring(1,10)" labelAlignment="LEFT" labelPosition="node" resizeKind="NSEW">
+                <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+                <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+                <color xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='gray']"/>
+              </style>
+            </subNodeMappings>
+            <subNodeMappings name="EpisodeUri" semanticCandidatesExpression="aql:self" domainClass="spo::Episode">
+              <style xsi:type="style:SquareDescription" labelSize="12" showIcon="false" labelExpression="aql:'URI: '+self.uri" labelAlignment="LEFT" labelPosition="node" resizeKind="NSEW">
+                <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+                <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+                <color xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='gray']"/>
+              </style>
+            </subNodeMappings>
+            <style xsi:type="style:FlatContainerStyleDescription" borderSizeComputationExpression="1" labelSize="1" showIcon="false" labelExpression="aql:''">
               <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
               <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
-              <color xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='gray']"/>
+              <backgroundColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='light_blue']"/>
+              <foregroundColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='light_blue']"/>
+              <labelBorderStyle href="environment:/viewpoint#//@labelBorderStyles/@labelBorderStyleDescriptions.2"/>
             </style>
-          </subNodeMappings>
-          <subNodeMappings name="EpisodeExplicit" semanticCandidatesExpression="aql:self" domainClass="spo::Episode">
-            <style xsi:type="style:SquareDescription" labelSize="12" showIcon="false" labelExpression="aql:'Explicit: '+self.explicit" labelAlignment="LEFT" labelPosition="node" resizeKind="NSEW">
-              <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
-              <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
-              <color xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='gray']"/>
-            </style>
-          </subNodeMappings>
-          <subNodeMappings name="EpisodeReleaseDate" semanticCandidatesExpression="aql:self" domainClass="spo::Episode">
-            <style xsi:type="style:SquareDescription" labelSize="12" showIcon="false" labelExpression="aql:'Released: '+self.release_date" labelAlignment="LEFT" labelPosition="node" resizeKind="NSEW">
-              <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
-              <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
-              <color xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='gray']"/>
-            </style>
-          </subNodeMappings>
-          <subNodeMappings name="EpisodeUri" semanticCandidatesExpression="aql:self" domainClass="spo::Episode">
-            <style xsi:type="style:SquareDescription" labelSize="12" showIcon="false" labelExpression="aql:'URI: '+self.uri" labelAlignment="LEFT" labelPosition="node" resizeKind="NSEW">
-              <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
-              <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
-              <color xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='gray']"/>
-            </style>
-          </subNodeMappings>
-          <style xsi:type="style:FlatContainerStyleDescription" borderSizeComputationExpression="1" labelSize="14" showIcon="false">
+          </subContainerMappings>
+          <style xsi:type="style:FlatContainerStyleDescription" borderSizeComputationExpression="1" labelSize="16" showIcon="false" labelExpression="aql:self.name">
             <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
-            <labelFormat>bold</labelFormat>
-            <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
-            <backgroundColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='blue']"/>
-            <foregroundColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='light_blue']"/>
+            <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='white']"/>
+            <backgroundColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='dark_blue']"/>
+            <foregroundColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='dark_blue']"/>
           </style>
         </containerMappings>
       </defaultLayer>
     </ownedRepresentations>
     <ownedRepresentations xsi:type="description_1:DiagramDescription" name="AllAlbumsDiagram" domainClass="spo::Spotify" enablePopupBars="true">
       <defaultLayer name="Default">
-        <containerMappings name="AllAlbumsContainer" semanticCandidatesExpression="aql:self.albums -> first()" domainClass="spo::Album" childrenPresentation="List">
-          <subNodeMappings name="AlbumNode" doubleClickDescription="//@ownedViewpoints[name='SpoDiagramViewpoint']/@ownedRepresentations[name='AllAlbumsDiagram']/@defaultLayer/@toolSections.0/@ownedTools[name='']" domainClass="spo::Album">
-            <style xsi:type="style:SquareDescription" labelSize="12" showIcon="false" labelExpression="aql:self.name+' - '+self.artist.name" labelPosition="node" resizeKind="NSEW">
+        <containerMappings name="AllAlbumsContainer" semanticCandidatesExpression="aql:self.albums -> first()" domainClass="spo::Album" childrenPresentation="VerticalStack">
+          <subContainerMappings name="AlbumNodeContainer" semanticCandidatesExpression="aql:self" domainClass="spo::Album" childrenPresentation="List">
+            <subNodeMappings name="AlbumNode" doubleClickDescription="//@ownedViewpoints[name='SpoDiagramViewpoint']/@ownedRepresentations[name='AllAlbumsDiagram']/@defaultLayer/@toolSections.0/@ownedTools[name='']" domainClass="spo::Album">
+              <style xsi:type="style:SquareDescription" labelSize="12" showIcon="false" labelExpression="aql:self.name+' - '+self.artist.name" labelPosition="node" resizeKind="NSEW">
+                <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+                <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+                <color xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='gray']"/>
+              </style>
+            </subNodeMappings>
+            <style xsi:type="style:FlatContainerStyleDescription" borderSizeComputationExpression="1" labelSize="1" showIcon="false" labelExpression="aql:''">
               <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
               <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
-              <color xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='gray']"/>
+              <backgroundColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='light_green']"/>
+              <foregroundColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='light_green']"/>
+              <labelBorderStyle href="environment:/viewpoint#//@labelBorderStyles/@labelBorderStyleDescriptions.2"/>
             </style>
-          </subNodeMappings>
-          <style xsi:type="style:FlatContainerStyleDescription" borderSizeComputationExpression="1" labelSize="14" showIcon="false" labelExpression="Albums">
+          </subContainerMappings>
+          <style xsi:type="style:FlatContainerStyleDescription" borderSizeComputationExpression="1" labelSize="16" showIcon="false" labelExpression="aql:'Albums'">
             <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
-            <labelFormat>bold</labelFormat>
-            <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
-            <backgroundColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='green']"/>
-            <foregroundColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='light_green']"/>
+            <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='white']"/>
+            <backgroundColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='dark_green']"/>
+            <foregroundColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='dark_green']"/>
           </style>
         </containerMappings>
         <toolSections>
-          <ownedTools xsi:type="tool:DoubleClickDescription" mappings="//@ownedViewpoints[name='SpoDiagramViewpoint']/@ownedRepresentations[name='AllAlbumsDiagram']/@defaultLayer/@containerMappings[name='AllAlbumsContainer']/@subNodeMappings[name='AlbumNode']">
+          <ownedTools xsi:type="tool:DoubleClickDescription" mappings="//@ownedViewpoints[name='SpoDiagramViewpoint']/@ownedRepresentations[name='AllAlbumsDiagram']/@defaultLayer/@containerMappings[name='AllAlbumsContainer']/@subContainerMappings[name='AlbumNodeContainer']/@subNodeMappings[name='AlbumNode']">
             <element name="element"/>
             <elementView name="elementView"/>
             <initialOperation>
@@ -168,34 +202,74 @@
     </ownedRepresentations>
     <ownedRepresentations xsi:type="description_1:DiagramDescription" name="AlbumDiagram" domainClass="spo::Album" enablePopupBars="true">
       <filters xsi:type="filter:CompositeFilterDescription" name="Hide Explicit Tracks">
-        <filters xsi:type="filter:MappingFilter" mappings="//@ownedViewpoints[name='SpoDiagramViewpoint']/@ownedRepresentations[name='AlbumDiagram']/@defaultLayer/@containerMappings[name='AlbumContainer']/@subNodeMappings[name='TrackNode']" semanticConditionExpression="aql:self.explicit=true"/>
+        <filters xsi:type="filter:MappingFilter" mappings="//@ownedViewpoints[name='SpoDiagramViewpoint']/@ownedRepresentations[name='AlbumDiagram']/@defaultLayer/@containerMappings[name='AlbumContainer']/@subContainerMappings[name='AlbumTrackContainer']/@subNodeMappings[name='TrackNode']" semanticConditionExpression="aql:self.explicit=false"/>
       </filters>
       <defaultLayer name="Default">
-        <containerMappings name="AlbumContainer" semanticCandidatesExpression="aql:self" domainClass="spo::Album" childrenPresentation="List">
-          <subNodeMappings name="TrackNode" semanticCandidatesExpression="aql:self.tracks" doubleClickDescription="//@ownedViewpoints[name='SpoDiagramViewpoint']/@ownedRepresentations[name='AlbumDiagram']/@defaultLayer/@toolSections.0/@ownedTools[name='']" domainClass="spo::Track">
-            <style xsi:type="style:SquareDescription" labelSize="12" showIcon="false" labelPosition="node" resizeKind="NSEW">
+        <containerMappings name="AlbumContainer" semanticCandidatesExpression="aql:self" domainClass="spo::Album" childrenPresentation="VerticalStack">
+          <subContainerMappings name="AlbumTrackContainer" semanticCandidatesExpression="aql:self" domainClass="spo::Album" childrenPresentation="List">
+            <subNodeMappings name="TrackNode" semanticCandidatesExpression="aql:self.tracks" doubleClickDescription="//@ownedViewpoints[name='SpoDiagramViewpoint']/@ownedRepresentations[name='AlbumDiagram']/@defaultLayer/@toolSections.0/@ownedTools[name='']" domainClass="spo::Track">
+              <style xsi:type="style:SquareDescription" labelSize="12" showIcon="false" labelExpression="aql:self.eContainer().tracks -> indexOf(self)+'. '+self.name" labelAlignment="LEFT" labelPosition="node" resizeKind="NSEW">
+                <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+                <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+                <color xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='gray']"/>
+              </style>
+            </subNodeMappings>
+            <style xsi:type="style:FlatContainerStyleDescription" borderSizeComputationExpression="1" labelSize="12" showIcon="false" labelExpression="aql:'Tracklist:'">
               <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+              <labelFormat>bold</labelFormat>
               <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
-              <color xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='gray']"/>
+              <backgroundColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='light_green']"/>
+              <foregroundColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='light_green']"/>
+              <labelBorderStyle href="environment:/viewpoint#//@labelBorderStyles/@labelBorderStyleDescriptions.2"/>
             </style>
-          </subNodeMappings>
-          <style xsi:type="style:FlatContainerStyleDescription" borderSizeComputationExpression="1" labelSize="14" showIcon="false" labelExpression="aql:self.name+' - '+self.artist.name">
+          </subContainerMappings>
+          <subContainerMappings name="AlbumInfoContainer" semanticCandidatesExpression="aql:self" domainClass="spo::Album" childrenPresentation="List">
+            <subNodeMappings name="AlbumReleaseNode" semanticCandidatesExpression="aql:self" domainClass="spo::Album">
+              <style xsi:type="style:SquareDescription" labelSize="12" showIcon="false" labelExpression="aql:'Released: '+self.release_date.toString().substring(1,10)" labelAlignment="LEFT" labelPosition="node" resizeKind="NSEW">
+                <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+                <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+                <color xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='gray']"/>
+              </style>
+            </subNodeMappings>
+            <subNodeMappings name="AlbumLabelNode" semanticCandidatesExpression="aql:self" domainClass="spo::Album">
+              <style xsi:type="style:SquareDescription" labelSize="12" showIcon="false" labelExpression="aql:'Label: '+self.label" labelAlignment="LEFT" labelPosition="node" resizeKind="NSEW">
+                <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+                <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+                <color xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='gray']"/>
+              </style>
+            </subNodeMappings>
+            <subNodeMappings name="AlbumUriNode" semanticCandidatesExpression="aql:self" domainClass="spo::Album">
+              <style xsi:type="style:SquareDescription" labelSize="12" showIcon="false" labelExpression="aql:'URI: '+self.uri" labelAlignment="LEFT" labelPosition="node" resizeKind="NSEW">
+                <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+                <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+                <color xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='gray']"/>
+              </style>
+            </subNodeMappings>
+            <style xsi:type="style:FlatContainerStyleDescription" borderSizeComputationExpression="1" borderLineStyle="dot" labelSize="12" showIcon="false" labelExpression="aql:'More info:'">
+              <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+              <labelFormat>bold</labelFormat>
+              <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+              <backgroundColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='light_green']"/>
+              <foregroundColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='light_green']"/>
+              <labelBorderStyle href="environment:/viewpoint#//@labelBorderStyles/@labelBorderStyleDescriptions.2"/>
+            </style>
+          </subContainerMappings>
+          <style xsi:type="style:FlatContainerStyleDescription" borderSizeComputationExpression="1" labelSize="16" showIcon="false" labelExpression="aql:self.name+' - '+self.artist.name">
             <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
-            <labelFormat>bold</labelFormat>
-            <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
-            <backgroundColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='green']"/>
-            <foregroundColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='light_green']"/>
+            <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='white']"/>
+            <backgroundColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='dark_green']"/>
+            <foregroundColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='dark_green']"/>
           </style>
         </containerMappings>
         <toolSections name="Album Tools">
-          <ownedTools xsi:type="tool:DoubleClickDescription" mappings="//@ownedViewpoints[name='SpoDiagramViewpoint']/@ownedRepresentations[name='AlbumDiagram']/@defaultLayer/@containerMappings[name='AlbumContainer']/@subNodeMappings[name='TrackNode']">
+          <ownedTools xsi:type="tool:DoubleClickDescription" mappings="//@ownedViewpoints[name='SpoDiagramViewpoint']/@ownedRepresentations[name='AlbumDiagram']/@defaultLayer/@containerMappings[name='AlbumContainer']/@subContainerMappings[name='AlbumTrackContainer']/@subNodeMappings[name='TrackNode']">
             <element name="element"/>
             <elementView name="elementView"/>
             <initialOperation>
               <firstModelOperations xsi:type="tool:Navigation" createIfNotExistent="true" diagramDescription="//@ownedViewpoints[name='SpoDiagramViewpoint']/@ownedRepresentations[name='TrackDiagram']"/>
             </initialOperation>
           </ownedTools>
-          <ownedTools xsi:type="tool:NodeCreationDescription" name="Add Track" nodeMappings="//@ownedViewpoints[name='SpoDiagramViewpoint']/@ownedRepresentations[name='AlbumDiagram']/@defaultLayer/@containerMappings[name='AlbumContainer']/@subNodeMappings[name='TrackNode']">
+          <ownedTools xsi:type="tool:NodeCreationDescription" name="Add Track" nodeMappings="//@ownedViewpoints[name='SpoDiagramViewpoint']/@ownedRepresentations[name='AlbumDiagram']/@defaultLayer/@containerMappings[name='AlbumContainer']/@subContainerMappings[name='AlbumTrackContainer']/@subNodeMappings[name='TrackNode']">
             <variable name="container"/>
             <viewVariable name="containerView"/>
             <initialOperation>
@@ -210,48 +284,57 @@
     </ownedRepresentations>
     <ownedRepresentations xsi:type="description_1:DiagramDescription" name="TrackDiagram" domainClass="spo::Track" enablePopupBars="true">
       <defaultLayer name="Default">
-        <containerMappings name="TrackContainer" semanticCandidatesExpression="aql:self" domainClass="spo::Track" childrenPresentation="List">
-          <subNodeMappings name="TrackArtistsNode" semanticCandidatesExpression="aql:self" domainClass="spo::Track">
-            <style xsi:type="style:SquareDescription" labelSize="12" showIcon="false" labelExpression="aql:'Artist(s): '+self.artists.name" labelPosition="node" resizeKind="NSEW">
+        <containerMappings name="TrackDiagramContainer" semanticCandidatesExpression="aql:self" domainClass="spo::Track" childrenPresentation="VerticalStack">
+          <subContainerMappings name="TrackContainer" semanticCandidatesExpression="aql:self" domainClass="spo::Track" childrenPresentation="List">
+            <subNodeMappings name="TrackArtistsNode" semanticCandidatesExpression="aql:self" domainClass="spo::Track">
+              <style xsi:type="style:SquareDescription" labelSize="12" showIcon="false" labelExpression="aql:'Artist(s): '+self.artists.name" labelAlignment="LEFT" labelPosition="node" resizeKind="NSEW">
+                <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+                <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+                <color xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='gray']"/>
+              </style>
+            </subNodeMappings>
+            <subNodeMappings name="TrackAlbumNode" semanticCandidatesExpression="aql:self" domainClass="spo::Track">
+              <style xsi:type="style:SquareDescription" labelSize="12" showIcon="false" labelExpression="aql:'Album: '+self.album.name" labelAlignment="LEFT" labelPosition="node" resizeKind="NSEW">
+                <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+                <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+                <color xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='gray']"/>
+              </style>
+            </subNodeMappings>
+            <subNodeMappings name="TrackDurationNode" semanticCandidatesExpression="aql:self" domainClass="spo::Track">
+              <style xsi:type="style:SquareDescription" labelSize="12" showIcon="false" labelExpression="aql:'Duration: '+self.duration_ms/(1000*60)+':'+(self.duration_ms/1000).mod(60)+' min'" labelAlignment="LEFT" labelPosition="node" resizeKind="NSEW">
+                <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+                <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+                <color xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='gray']"/>
+              </style>
+            </subNodeMappings>
+            <subNodeMappings name="TrackExplicitNode" semanticCandidatesExpression="aql:self" domainClass="spo::Track">
+              <style xsi:type="style:SquareDescription" labelSize="12" showIcon="false" labelExpression="aql:'Explicit: '+self.explicit" labelAlignment="LEFT" labelPosition="node" resizeKind="NSEW">
+                <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+                <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+                <color xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='gray']"/>
+              </style>
+            </subNodeMappings>
+            <subNodeMappings name="TrackUriNode" semanticCandidatesExpression="aql:self" domainClass="spo::Track">
+              <style xsi:type="style:SquareDescription" labelSize="12" showIcon="false" labelExpression="aql:'URI: '+self.uri" labelAlignment="LEFT" labelPosition="node" resizeKind="NSEW">
+                <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+                <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+                <color xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='gray']"/>
+              </style>
+            </subNodeMappings>
+            <style xsi:type="style:FlatContainerStyleDescription" borderSizeComputationExpression="1" labelSize="1" showIcon="false" labelExpression="aql:''" labelAlignment="LEFT">
               <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+              <labelFormat>bold</labelFormat>
               <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
-              <color xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='gray']"/>
+              <backgroundColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='light_green']"/>
+              <foregroundColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='light_green']"/>
+              <labelBorderStyle href="environment:/viewpoint#//@labelBorderStyles/@labelBorderStyleDescriptions.2"/>
             </style>
-          </subNodeMappings>
-          <subNodeMappings name="TrackAlbumNode" semanticCandidatesExpression="aql:self" domainClass="spo::Track">
-            <style xsi:type="style:SquareDescription" labelSize="12" showIcon="false" labelExpression="aql:'Album: '+self.album.name" labelPosition="node" resizeKind="NSEW">
-              <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
-              <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
-              <color xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='gray']"/>
-            </style>
-          </subNodeMappings>
-          <subNodeMappings name="TrackDurationNode" semanticCandidatesExpression="aql:self" domainClass="spo::Track">
-            <style xsi:type="style:SquareDescription" labelSize="12" showIcon="false" labelExpression="aql:'Duration: '+self.duration_ms/(1000*60)+':'+(self.duration_ms/1000).mod(60)+' min'" labelPosition="node" resizeKind="NSEW">
-              <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
-              <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
-              <color xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='gray']"/>
-            </style>
-          </subNodeMappings>
-          <subNodeMappings name="TrackExplicitNode" semanticCandidatesExpression="aql:self" domainClass="spo::Track">
-            <style xsi:type="style:SquareDescription" labelSize="12" showIcon="false" labelExpression="aql:'Explicit: '+self.explicit" labelPosition="node" resizeKind="NSEW">
-              <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
-              <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
-              <color xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='gray']"/>
-            </style>
-          </subNodeMappings>
-          <subNodeMappings name="TrackUriNode" semanticCandidatesExpression="aql:self" domainClass="spo::Track">
-            <style xsi:type="style:SquareDescription" labelSize="12" showIcon="false" labelExpression="aql:'URI: '+self.uri" labelPosition="node" resizeKind="NSEW">
-              <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
-              <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
-              <color xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='gray']"/>
-            </style>
-          </subNodeMappings>
-          <style xsi:type="style:FlatContainerStyleDescription" borderSizeComputationExpression="1" labelSize="14" showIcon="false">
+          </subContainerMappings>
+          <style xsi:type="style:FlatContainerStyleDescription" borderSizeComputationExpression="1" labelSize="16" showIcon="false" labelExpression="aql:self.name">
             <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
-            <labelFormat>bold</labelFormat>
-            <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
-            <backgroundColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='green']"/>
-            <foregroundColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='light_green']"/>
+            <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='white']"/>
+            <backgroundColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='dark_green']"/>
+            <foregroundColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='dark_green']"/>
           </style>
         </containerMappings>
         <toolSections name="TrackTools"/>

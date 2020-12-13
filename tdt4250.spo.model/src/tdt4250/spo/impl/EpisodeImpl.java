@@ -2,6 +2,7 @@
  */
 package tdt4250.spo.impl;
 
+import java.util.Date;
 import org.eclipse.emf.common.notify.Notification;
 
 import org.eclipse.emf.ecore.EClass;
@@ -139,7 +140,7 @@ public class EpisodeImpl extends MinimalEObjectImpl.Container implements Episode
 	 * @generated
 	 * @ordered
 	 */
-	protected static final String RELEASE_DATE_EDEFAULT = null;
+	protected static final Date RELEASE_DATE_EDEFAULT = null;
 
 	/**
 	 * The cached value of the '{@link #getRelease_date() <em>Release date</em>}' attribute.
@@ -149,7 +150,7 @@ public class EpisodeImpl extends MinimalEObjectImpl.Container implements Episode
 	 * @generated
 	 * @ordered
 	 */
-	protected String release_date = RELEASE_DATE_EDEFAULT;
+	protected Date release_date = RELEASE_DATE_EDEFAULT;
 
 	/**
 	 * <!-- begin-user-doc -->
@@ -280,7 +281,7 @@ public class EpisodeImpl extends MinimalEObjectImpl.Container implements Episode
 	 * <!-- end-user-doc -->
 	 * @generated
 	 */
-	public String getRelease_date() {
+	public Date getRelease_date() {
 		return release_date;
 	}
 
@@ -289,8 +290,8 @@ public class EpisodeImpl extends MinimalEObjectImpl.Container implements Episode
 	 * <!-- end-user-doc -->
 	 * @generated
 	 */
-	public void setRelease_date(String newRelease_date) {
-		String oldRelease_date = release_date;
+	public void setRelease_date(Date newRelease_date) {
+		Date oldRelease_date = release_date;
 		release_date = newRelease_date;
 		if (eNotificationRequired())
 			eNotify(new ENotificationImpl(this, Notification.SET, SpoPackage.EPISODE__RELEASE_DATE, oldRelease_date, release_date));
@@ -344,7 +345,7 @@ public class EpisodeImpl extends MinimalEObjectImpl.Container implements Episode
 				setDuration((Integer)newValue);
 				return;
 			case SpoPackage.EPISODE__RELEASE_DATE:
-				setRelease_date((String)newValue);
+				setRelease_date((Date)newValue);
 				return;
 		}
 		super.eSet(featureID, newValue);

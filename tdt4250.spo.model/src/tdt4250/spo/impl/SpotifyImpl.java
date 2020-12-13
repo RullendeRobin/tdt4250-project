@@ -3,16 +3,12 @@
 package tdt4250.spo.impl;
 
 import java.util.Collection;
-
-import org.eclipse.emf.common.notify.Notification;
 import org.eclipse.emf.common.notify.NotificationChain;
 
 import org.eclipse.emf.common.util.EList;
 
 import org.eclipse.emf.ecore.EClass;
 import org.eclipse.emf.ecore.InternalEObject;
-
-import org.eclipse.emf.ecore.impl.ENotificationImpl;
 import org.eclipse.emf.ecore.impl.MinimalEObjectImpl;
 
 import org.eclipse.emf.ecore.util.EObjectContainmentEList;
@@ -35,7 +31,6 @@ import tdt4250.spo.Spotify;
  *   <li>{@link tdt4250.spo.impl.SpotifyImpl#getShows <em>Shows</em>}</li>
  *   <li>{@link tdt4250.spo.impl.SpotifyImpl#getPlaylists <em>Playlists</em>}</li>
  *   <li>{@link tdt4250.spo.impl.SpotifyImpl#getAlbums <em>Albums</em>}</li>
- *   <li>{@link tdt4250.spo.impl.SpotifyImpl#getName <em>Name</em>}</li>
  * </ul>
  *
  * @generated
@@ -70,26 +65,6 @@ public class SpotifyImpl extends MinimalEObjectImpl.Container implements Spotify
 	 * @ordered
 	 */
 	protected EList<Album> albums;
-
-	/**
-	 * The default value of the '{@link #getName() <em>Name</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @see #getName()
-	 * @generated
-	 * @ordered
-	 */
-	protected static final String NAME_EDEFAULT = null;
-
-	/**
-	 * The cached value of the '{@link #getName() <em>Name</em>}' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @see #getName()
-	 * @generated
-	 * @ordered
-	 */
-	protected String name = NAME_EDEFAULT;
 
 	/**
 	 * <!-- begin-user-doc -->
@@ -151,27 +126,6 @@ public class SpotifyImpl extends MinimalEObjectImpl.Container implements Spotify
 	 * <!-- end-user-doc -->
 	 * @generated
 	 */
-	public String getName() {
-		return name;
-	}
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	public void setName(String newName) {
-		String oldName = name;
-		name = newName;
-		if (eNotificationRequired())
-			eNotify(new ENotificationImpl(this, Notification.SET, SpoPackage.SPOTIFY__NAME, oldName, name));
-	}
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
 	@Override
 	public NotificationChain eInverseRemove(InternalEObject otherEnd, int featureID, NotificationChain msgs) {
 		switch (featureID) {
@@ -199,8 +153,6 @@ public class SpotifyImpl extends MinimalEObjectImpl.Container implements Spotify
 				return getPlaylists();
 			case SpoPackage.SPOTIFY__ALBUMS:
 				return getAlbums();
-			case SpoPackage.SPOTIFY__NAME:
-				return getName();
 		}
 		return super.eGet(featureID, resolve, coreType);
 	}
@@ -226,9 +178,6 @@ public class SpotifyImpl extends MinimalEObjectImpl.Container implements Spotify
 				getAlbums().clear();
 				getAlbums().addAll((Collection<? extends Album>)newValue);
 				return;
-			case SpoPackage.SPOTIFY__NAME:
-				setName((String)newValue);
-				return;
 		}
 		super.eSet(featureID, newValue);
 	}
@@ -250,9 +199,6 @@ public class SpotifyImpl extends MinimalEObjectImpl.Container implements Spotify
 			case SpoPackage.SPOTIFY__ALBUMS:
 				getAlbums().clear();
 				return;
-			case SpoPackage.SPOTIFY__NAME:
-				setName(NAME_EDEFAULT);
-				return;
 		}
 		super.eUnset(featureID);
 	}
@@ -271,26 +217,8 @@ public class SpotifyImpl extends MinimalEObjectImpl.Container implements Spotify
 				return playlists != null && !playlists.isEmpty();
 			case SpoPackage.SPOTIFY__ALBUMS:
 				return albums != null && !albums.isEmpty();
-			case SpoPackage.SPOTIFY__NAME:
-				return NAME_EDEFAULT == null ? name != null : !NAME_EDEFAULT.equals(name);
 		}
 		return super.eIsSet(featureID);
-	}
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	@Override
-	public String toString() {
-		if (eIsProxy()) return super.toString();
-
-		StringBuilder result = new StringBuilder(super.toString());
-		result.append(" (name: ");
-		result.append(name);
-		result.append(')');
-		return result.toString();
 	}
 
 } //SpotifyImpl

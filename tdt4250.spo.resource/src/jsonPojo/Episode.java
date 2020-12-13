@@ -1,5 +1,6 @@
 package jsonPojo;
 
+import java.util.Date;
 
 public class Episode {
 	
@@ -8,6 +9,6 @@ public class Episode {
 	public String name;
 	public boolean explicit;
 	public String id;
-	public String release_date;
+	public Date release_date;
 
 }

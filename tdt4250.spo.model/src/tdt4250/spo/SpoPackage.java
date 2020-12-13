@@ -368,22 +368,13 @@ public interface SpoPackage extends EPackage {
 	int SPOTIFY__ALBUMS = 2;
 
 	/**
-	 * The feature id for the '<em><b>Name</b></em>' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int SPOTIFY__NAME = 3;
-
-	/**
 	 * The number of structural features of the '<em>Spotify</em>' class.
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
 	 * @generated
 	 * @ordered
 	 */
-	int SPOTIFY_FEATURE_COUNT = 4;
+	int SPOTIFY_FEATURE_COUNT = 3;
 
 	/**
 	 * The number of operations of the '<em>Spotify</em>' class.
@@ -850,17 +841,6 @@ public interface SpoPackage extends EPackage {
 	EReference getSpotify_Albums();
 
 	/**
-	 * Returns the meta object for the attribute '{@link tdt4250.spo.Spotify#getName <em>Name</em>}'.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @return the meta object for the attribute '<em>Name</em>'.
-	 * @see tdt4250.spo.Spotify#getName()
-	 * @see #getSpotify()
-	 * @generated
-	 */
-	EAttribute getSpotify_Name();
-
-	/**
 	 * Returns the meta object for class '{@link tdt4250.spo.Show <em>Show</em>}'.
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
@@ -1263,14 +1243,6 @@ public interface SpoPackage extends EPackage {
 		 * @generated
 		 */
 		EReference SPOTIFY__ALBUMS = eINSTANCE.getSpotify_Albums();
-
-		/**
-		 * The meta object literal for the '<em><b>Name</b></em>' attribute feature.
-		 * <!-- begin-user-doc -->
-		 * <!-- end-user-doc -->
-		 * @generated
-		 */
-		EAttribute SPOTIFY__NAME = eINSTANCE.getSpotify_Name();
 
 		/**
 		 * The meta object literal for the '{@link tdt4250.spo.impl.ShowImpl <em>Show</em>}' class.

@@ -37,7 +37,6 @@
       <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference spo.ecore#//Spotify/shows"/>
       <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference spo.ecore#//Spotify/playlists"/>
       <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference spo.ecore#//Spotify/albums"/>
-      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spo.ecore#//Spotify/name"/>
     </genClasses>
     <genClasses ecoreClass="spo.ecore#//Show">
       <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference spo.ecore#//Show/episodes"/>

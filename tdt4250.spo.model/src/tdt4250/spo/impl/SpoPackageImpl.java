@@ -375,15 +375,6 @@ public class SpoPackageImpl extends EPackageImpl implements SpoPackage {
 	 * <!-- end-user-doc -->
 	 * @generated
 	 */
-	public EAttribute getSpotify_Name() {
-		return (EAttribute)spotifyEClass.getEStructuralFeatures().get(3);
-	}
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
 	public EClass getShow() {
 		return showEClass;
 	}
@@ -572,7 +563,6 @@ public class SpoPackageImpl extends EPackageImpl implements SpoPackage {
 		createEReference(spotifyEClass, SPOTIFY__SHOWS);
 		createEReference(spotifyEClass, SPOTIFY__PLAYLISTS);
 		createEReference(spotifyEClass, SPOTIFY__ALBUMS);
-		createEAttribute(spotifyEClass, SPOTIFY__NAME);
 
 		showEClass = createEClass(SHOW);
 		createEReference(showEClass, SHOW__EPISODES);
@@ -644,7 +634,7 @@ public class SpoPackageImpl extends EPackageImpl implements SpoPackage {
 		initEAttribute(getAlbum_Uri(), ecorePackage.getEString(), "uri", null, 0, 1, Album.class, !IS_TRANSIENT, !IS_VOLATILE, IS_CHANGEABLE, !IS_UNSETTABLE, !IS_ID, IS_UNIQUE, !IS_DERIVED, IS_ORDERED);
 		initEAttribute(getAlbum_Id(), ecorePackage.getEString(), "id", null, 0, 1, Album.class, !IS_TRANSIENT, !IS_VOLATILE, IS_CHANGEABLE, !IS_UNSETTABLE, !IS_ID, IS_UNIQUE, !IS_DERIVED, IS_ORDERED);
 		initEAttribute(getAlbum_Label(), ecorePackage.getEString(), "label", null, 0, 1, Album.class, !IS_TRANSIENT, !IS_VOLATILE, IS_CHANGEABLE, !IS_UNSETTABLE, !IS_ID, IS_UNIQUE, !IS_DERIVED, IS_ORDERED);
-		initEAttribute(getAlbum_Release_date(), ecorePackage.getEString(), "release_date", null, 0, 1, Album.class, !IS_TRANSIENT, !IS_VOLATILE, IS_CHANGEABLE, !IS_UNSETTABLE, !IS_ID, IS_UNIQUE, !IS_DERIVED, IS_ORDERED);
+		initEAttribute(getAlbum_Release_date(), ecorePackage.getEDate(), "release_date", null, 0, 1, Album.class, !IS_TRANSIENT, !IS_VOLATILE, IS_CHANGEABLE, !IS_UNSETTABLE, !IS_ID, IS_UNIQUE, !IS_DERIVED, IS_ORDERED);
 		initEReference(getAlbum_Tracks(), this.getTrack(), this.getTrack_Album(), "tracks", null, 0, -1, Album.class, !IS_TRANSIENT, !IS_VOLATILE, IS_CHANGEABLE, IS_COMPOSITE, !IS_RESOLVE_PROXIES, !IS_UNSETTABLE, IS_UNIQUE, !IS_DERIVED, IS_ORDERED);
 		initEReference(getAlbum_Artist(), this.getArtist(), null, "artist", null, 0, 1, Album.class, !IS_TRANSIENT, !IS_VOLATILE, IS_CHANGEABLE, IS_COMPOSITE, !IS_RESOLVE_PROXIES, !IS_UNSETTABLE, IS_UNIQUE, !IS_DERIVED, IS_ORDERED);
 
@@ -652,7 +642,6 @@ public class SpoPackageImpl extends EPackageImpl implements SpoPackage {
 		initEReference(getSpotify_Shows(), this.getShow(), null, "shows", null, 0, -1, Spotify.class, !IS_TRANSIENT, !IS_VOLATILE, IS_CHANGEABLE, IS_COMPOSITE, !IS_RESOLVE_PROXIES, !IS_UNSETTABLE, IS_UNIQUE, !IS_DERIVED, IS_ORDERED);
 		initEReference(getSpotify_Playlists(), this.getPlaylist(), null, "playlists", null, 0, -1, Spotify.class, !IS_TRANSIENT, !IS_VOLATILE, IS_CHANGEABLE, IS_COMPOSITE, !IS_RESOLVE_PROXIES, !IS_UNSETTABLE, IS_UNIQUE, !IS_DERIVED, IS_ORDERED);
 		initEReference(getSpotify_Albums(), this.getAlbum(), null, "albums", null, 0, -1, Spotify.class, !IS_TRANSIENT, !IS_VOLATILE, IS_CHANGEABLE, IS_COMPOSITE, !IS_RESOLVE_PROXIES, !IS_UNSETTABLE, IS_UNIQUE, !IS_DERIVED, IS_ORDERED);
-		initEAttribute(getSpotify_Name(), ecorePackage.getEString(), "name", null, 0, 1, Spotify.class, !IS_TRANSIENT, !IS_VOLATILE, IS_CHANGEABLE, !IS_UNSETTABLE, !IS_ID, IS_UNIQUE, !IS_DERIVED, IS_ORDERED);
 
 		initEClass(showEClass, Show.class, "Show", !IS_ABSTRACT, !IS_INTERFACE, IS_GENERATED_INSTANCE_CLASS);
 		initEReference(getShow_Episodes(), this.getEpisode(), null, "episodes", null, 0, -1, Show.class, !IS_TRANSIENT, !IS_VOLATILE, IS_CHANGEABLE, IS_COMPOSITE, !IS_RESOLVE_PROXIES, !IS_UNSETTABLE, IS_UNIQUE, !IS_DERIVED, IS_ORDERED);
@@ -669,7 +658,7 @@ public class SpoPackageImpl extends EPackageImpl implements SpoPackage {
 		initEAttribute(getEpisode_Id(), ecorePackage.getEString(), "id", null, 0, 1, Episode.class, !IS_TRANSIENT, !IS_VOLATILE, IS_CHANGEABLE, !IS_UNSETTABLE, !IS_ID, IS_UNIQUE, !IS_DERIVED, IS_ORDERED);
 		initEAttribute(getEpisode_Explicit(), ecorePackage.getEBoolean(), "explicit", null, 0, 1, Episode.class, !IS_TRANSIENT, !IS_VOLATILE, IS_CHANGEABLE, !IS_UNSETTABLE, !IS_ID, IS_UNIQUE, !IS_DERIVED, IS_ORDERED);
 		initEAttribute(getEpisode_Duration(), ecorePackage.getEInt(), "duration", null, 0, 1, Episode.class, !IS_TRANSIENT, !IS_VOLATILE, IS_CHANGEABLE, !IS_UNSETTABLE, !IS_ID, IS_UNIQUE, !IS_DERIVED, IS_ORDERED);
-		initEAttribute(getEpisode_Release_date(), ecorePackage.getEString(), "release_date", null, 0, 1, Episode.class, !IS_TRANSIENT, !IS_VOLATILE, IS_CHANGEABLE, !IS_UNSETTABLE, !IS_ID, IS_UNIQUE, !IS_DERIVED, IS_ORDERED);
+		initEAttribute(getEpisode_Release_date(), ecorePackage.getEDate(), "release_date", null, 0, 1, Episode.class, !IS_TRANSIENT, !IS_VOLATILE, IS_CHANGEABLE, !IS_UNSETTABLE, !IS_ID, IS_UNIQUE, !IS_DERIVED, IS_ORDERED);
 
 		// Create resource
 		createResource(eNS_URI);
