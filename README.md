@@ -59,7 +59,7 @@ The TrackDiagram displays information about the selected Track, the duration is 
 
 ### PodcastDiagram
 
-<img style="display: block;" width="400" alt="PodcastDiagram" src="./imgs/new PodcastDiagram.jpg">
+<img style="display: block;" width="400" alt="PodcastDiagram" src="./imgs/PodcastDiagram.jpg">
 
 This diagram displays the available Shows and the total amount of Episodes available, a Show can be double-clicked to open a ShowDiagram.
 
