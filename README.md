@@ -25,7 +25,7 @@ All data is contained in JSON files at "tdt4250-project/tree/main/tdt4250.spo.re
 ## Ecore model
 The model was made with a focus on playlists, but accomodates several aspects of Spotify. Firstly the model can be split in two areas, separating songs and podcasts. Podcasts are modelled as Shows and each contain their corresponding Episodes. Playlists contain references to Tracks, these Tracks are contained in Albums and both contain one or more Artists. The root object Spotify contains all Playlists, Albums and Shows. All relevant files can be found in "tdt4250-project/tree/main/tdt4250.spo.model".
 
-<img style="display: block;" width="400" alt="Ecore model" src="./imgs/SpotifyEcore.png">
+<img style="display: block;" width="400" alt="Ecore model" src="./imgs/SpotifyEcoreDiagram.png">
 
 ## Viewpoints
 This project uses Sirius to visualize the model, there are in total six diagrams and one table, where some of the diagrams can be reached from each other as indicated below:
